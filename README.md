@@ -37,7 +37,7 @@ python reproduce.py
 python audit_package.py
 ```
 
-A successful analysis run writes `generated/verification_report.json`. The expected release-candidate result is 12 passing checks, `overall_status: pass`, and `external_api_calls: 0`. The audit command writes a SHA-256 manifest and a sensitive-information scan report under `audit/`; the expected result is `status: pass` with zero findings.
+A successful analysis run writes `generated/verification_report.json`. The expected release-candidate result is 12 passing checks, `overall_status: pass`, and `external_api_calls: 0`. The audit command writes a SHA-256 manifest and a sensitive-information scan report under `audit/`; `.git/`, `audit/`, and Python cache directories are excluded from its release-file scope. The expected result is `status: pass` with zero findings.
 
 Run both commands from the repository root. No API key, network connection, package installation, or access to the product application is required.
 

@@ -1,5 +1,5 @@
 {
-  "scope": "release candidates excluding audit/ and __pycache__/",
+  "scope": "release candidates excluding .git/, audit/, and __pycache__/",
   "files_scanned": 68,
   "content_scan_exclusions": [
     "audit_package.py"

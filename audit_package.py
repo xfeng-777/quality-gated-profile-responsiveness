@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 AUDIT = ROOT / "audit"
 
-EXCLUDED_PARTS = {"__pycache__", "audit"}
+EXCLUDED_PARTS = {".git", "__pycache__", "audit"}
 SCAN_EXCLUDED_FILES = {"audit_package.py"}
 NAME_ALLOWED_FILES = {"LICENSE-CODE", "LICENSE-DATA", "LICENSE-SCOPE.md"}
 TEXT_SUFFIXES = {".csv", ".json", ".jsonl", ".md", ".py", ".txt"}
@@ -79,7 +79,7 @@ def main() -> int:
     ]
     findings = [finding for path in files for finding in scan_text(path)]
     report = {
-        "scope": "release candidates excluding audit/ and __pycache__/",
+        "scope": "release candidates excluding .git/, audit/, and __pycache__/",
         "files_scanned": len(files),
         "content_scan_exclusions": sorted(SCAN_EXCLUDED_FILES),
         "patterns": sorted(SENSITIVE_PATTERNS),

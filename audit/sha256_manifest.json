@@ -21,13 +21,13 @@
   },
   {
     "path": "README.md",
-    "bytes": 6326,
-    "sha256": "37d1d346c13286dca5ddf3078f625f089c2f99e05650c3617e485a7278b057ee"
+    "bytes": 6416,
+    "sha256": "fc311d0f96f9214f515e1b4ec8f0f1c00eb1da7738ebf6f38539a844f0c67d2d"
   },
   {
     "path": "audit_package.py",
-    "bytes": 3371,
-    "sha256": "84ad1242978ceb41377c65fd1b12172ef68c249142edb3ccb6672ded03316df6"
+    "bytes": 3387,
+    "sha256": "2c0ff6e938d488eaea8ebed8ee7a0db5a9b52a03e5b97a773b40e1c69c8d9d1c"
   },
   {
     "path": "code/cue_control_sensitivity.py",
