@@ -1,0 +1,91 @@
+﻿comparison_id,course_name,topic,agent_id,repeat,target_profile_id,profiled_votes,default_contract_votes,tie_votes,decision_source,final_decision,profiled_quality_pass,default_contract_quality_pass,both_quality_pass,profiled_condition_id,default_contract_condition_id,analysis_source
+E1-B-025b1a6c53d1,计算机网络,QUIC 与 HTTP/3,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-02|P1|path|r1,SUPP-NET-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-068519061653,计算机网络,ICMP 差错报告与 ping、traceroute,code,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-01|P3|code|r1,SUPP-NET-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-0a6f08a2017e,计算机网络,QUIC 与 HTTP/3,doc,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-02|P1|doc|r1,SUPP-NET-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-0b6c3ed97eaf,操作系统,读者-写者问题与公平性,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-OS-02|P1|path|r1,SUPP-OS-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-0e02328e3e1d,数据结构与算法,最小生成树 Prim 算法,code,1,P2,1,2,0,independent_adjudication,default_contract,true,true,true,SUPP-DSA-02|P2|code|r1,SUPP-DSA-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-0f7d317cea26,机器学习,Bagging 与随机森林,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-ML-02|P1|path|r1,SUPP-ML-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-131771bae926,数据结构与算法,最小生成树 Prim 算法,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-02|P3|doc|r1,SUPP-DSA-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-175d65b0d1ba,操作系统,TLB 快表命中与缺失处理,doc,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-OS-01|P1|doc|r1,SUPP-OS-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-17a06277d3a2,数据结构与算法,哈希表冲突处理与负载因子,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-01|P3|doc|r1,SUPP-DSA-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-1a3dd7d4d452,计算机网络,QUIC 与 HTTP/3,code,1,P3,3,0,0,unanimous_initial_rating,profiled,true,false,false,SUPP-NET-02|P3|code|r1,SUPP-NET-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-1b9daf6c46d9,机器学习,支持向量机的间隔与核方法,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-ML-01|P3|path|r1,SUPP-ML-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-1bc202053284,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-COA-02|P1|path|r1,SUPP-COA-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-216b5a19fdcb,计算机组成原理,Cache 写直达、写回与写分配,code,1,P3,3,0,0,unanimous_initial_rating,profiled,true,false,false,SUPP-COA-01|P3|code|r1,SUPP-COA-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-23b7c9e6337a,计算机组成原理,Cache 写直达、写回与写分配,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-COA-01|P3|doc|r1,SUPP-COA-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-23da4fa307dd,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,code,1,P2,2,1,0,independent_adjudication,profiled,false,false,false,SUPP-COA-02|P2|code|r1,SUPP-COA-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-272de4f82a18,计算机组成原理,Cache 写直达、写回与写分配,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-COA-01|P1|path|r1,SUPP-COA-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-2e5b8e36bd3c,计算机网络,QUIC 与 HTTP/3,code,1,P2,1,2,0,independent_adjudication,default_contract,false,false,false,SUPP-NET-02|P2|code|r1,SUPP-NET-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-2ed9d9fbe9a8,计算机组成原理,Cache 写直达、写回与写分配,doc,1,P2,1,2,0,independent_adjudication,profiled,true,true,true,SUPP-COA-01|P2|doc|r1,SUPP-COA-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-2f66aa1b8e57,计算机网络,QUIC 与 HTTP/3,path,1,P2,0,2,1,independent_adjudication,profiled,true,true,true,SUPP-NET-02|P2|path|r1,SUPP-NET-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-343093b5acce,计算机网络,ICMP 差错报告与 ping、traceroute,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-01|P3|path|r1,SUPP-NET-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-38e5b7c49ca5,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,1,P2,1,1,1,independent_adjudication,profiled,true,true,true,SUPP-COA-02|P2|doc|r1,SUPP-COA-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-3a42412abfbb,操作系统,TLB 快表命中与缺失处理,path,1,P2,2,1,0,independent_adjudication,profiled,true,true,true,SUPP-OS-01|P2|path|r1,SUPP-OS-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-3c625d0fd709,机器学习,支持向量机的间隔与核方法,path,1,P2,1,2,0,independent_adjudication,profiled,true,true,true,SUPP-ML-01|P2|path|r1,SUPP-ML-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-3c84a8f96dd9,操作系统,读者-写者问题与公平性,code,1,P1,3,0,0,unanimous_initial_rating,profiled,false,false,false,SUPP-OS-02|P1|code|r1,SUPP-OS-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-3cec622bd4c6,机器学习,Bagging 与随机森林,doc,1,P1,3,0,0,unanimous_initial_rating,profiled,true,false,false,SUPP-ML-02|P1|doc|r1,SUPP-ML-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-3fa8de731877,操作系统,读者-写者问题与公平性,doc,1,P2,1,2,0,independent_adjudication,default_contract,true,true,true,SUPP-OS-02|P2|doc|r1,SUPP-OS-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-41234d1f573d,计算机组成原理,Cache 写直达、写回与写分配,path,1,P2,1,2,0,independent_adjudication,profiled,true,true,true,SUPP-COA-01|P2|path|r1,SUPP-COA-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-42d9a51cadf1,数据结构与算法,最小生成树 Prim 算法,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-02|P3|path|r1,SUPP-DSA-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-4432c1543fe9,计算机组成原理,Cache 写直达、写回与写分配,doc,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-COA-01|P1|doc|r1,SUPP-COA-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-47032a50ab43,操作系统,读者-写者问题与公平性,path,1,P2,2,1,0,independent_adjudication,default_contract,true,true,true,SUPP-OS-02|P2|path|r1,SUPP-OS-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-470f0e4ca2b7,操作系统,TLB 快表命中与缺失处理,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-OS-01|P1|path|r1,SUPP-OS-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-47f891d046af,机器学习,支持向量机的间隔与核方法,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-ML-01|P3|doc|r1,SUPP-ML-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-533577a0beee,机器学习,Bagging 与随机森林,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,true,false,false,SUPP-ML-02|P3|doc|r1,SUPP-ML-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-5ce1065a5bcc,数据结构与算法,哈希表冲突处理与负载因子,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-01|P1|path|r1,SUPP-DSA-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-63a5fe77a79e,机器学习,Bagging 与随机森林,doc,1,P2,3,0,0,unanimous_initial_rating,profiled,true,false,false,SUPP-ML-02|P2|doc|r1,SUPP-ML-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-6696c8f68055,数据结构与算法,最小生成树 Prim 算法,code,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-02|P1|code|r1,SUPP-DSA-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-66a63de7284b,数据结构与算法,哈希表冲突处理与负载因子,code,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-01|P1|code|r1,SUPP-DSA-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-68ddcc87ef71,计算机网络,ICMP 差错报告与 ping、traceroute,code,1,P2,2,1,0,independent_adjudication,profiled,true,true,true,SUPP-NET-01|P2|code|r1,SUPP-NET-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-68e9f5ad48a6,计算机组成原理,Cache 写直达、写回与写分配,code,1,P2,1,2,0,independent_adjudication,profiled,true,false,false,SUPP-COA-01|P2|code|r1,SUPP-COA-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-6988521cb18a,计算机网络,ICMP 差错报告与 ping、traceroute,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-01|P3|doc|r1,SUPP-NET-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-6ad50e0c2ef8,数据结构与算法,哈希表冲突处理与负载因子,path,1,P2,1,1,1,independent_adjudication,profiled,true,true,true,SUPP-DSA-01|P2|path|r1,SUPP-DSA-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-6d0f0f7d70a7,操作系统,读者-写者问题与公平性,doc,1,P1,2,1,0,independent_adjudication,profiled,true,true,true,SUPP-OS-02|P1|doc|r1,SUPP-OS-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-71095df3be9b,计算机网络,ICMP 差错报告与 ping、traceroute,doc,1,P2,1,2,0,independent_adjudication,default_contract,true,true,true,SUPP-NET-01|P2|doc|r1,SUPP-NET-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-76c03d435878,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-COA-02|P3|path|r1,SUPP-COA-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-76e9fbdb46ed,机器学习,Bagging 与随机森林,code,1,P2,1,2,0,independent_adjudication,profiled,true,true,true,SUPP-ML-02|P2|code|r1,SUPP-ML-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-7a89eec00616,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-COA-02|P1|doc|r1,SUPP-COA-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-7d9df3354101,计算机网络,QUIC 与 HTTP/3,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-02|P3|doc|r1,SUPP-NET-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-7dc1b99f667d,数据结构与算法,哈希表冲突处理与负载因子,code,1,P2,2,1,0,independent_adjudication,profiled,true,true,true,SUPP-DSA-01|P2|code|r1,SUPP-DSA-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-7e2e859db112,计算机网络,ICMP 差错报告与 ping、traceroute,path,1,P2,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-01|P2|path|r1,SUPP-NET-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-813891fd5a54,机器学习,支持向量机的间隔与核方法,code,1,P3,2,1,0,independent_adjudication,profiled,true,true,true,SUPP-ML-01|P3|code|r1,SUPP-ML-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-83ef13578f14,数据结构与算法,最小生成树 Prim 算法,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-02|P1|path|r1,SUPP-DSA-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-84ff9348ff53,操作系统,TLB 快表命中与缺失处理,code,1,P2,1,1,1,independent_adjudication,tie,true,true,true,SUPP-OS-01|P2|code|r1,SUPP-OS-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-85a158623d0f,操作系统,TLB 快表命中与缺失处理,code,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-OS-01|P1|code|r1,SUPP-OS-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-8be2a889dcbc,操作系统,TLB 快表命中与缺失处理,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-OS-01|P3|path|r1,SUPP-OS-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-8c3fac0acdeb,数据结构与算法,最小生成树 Prim 算法,path,1,P2,1,2,0,independent_adjudication,default_contract,true,true,true,SUPP-DSA-02|P2|path|r1,SUPP-DSA-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-902628c3abcd,计算机网络,ICMP 差错报告与 ping、traceroute,code,1,P1,0,3,0,unanimous_initial_rating,default_contract,false,true,false,SUPP-NET-01|P1|code|r1,SUPP-NET-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-9458569b3de4,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,1,P2,1,1,1,independent_adjudication,profiled,true,true,true,SUPP-COA-02|P2|path|r1,SUPP-COA-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-9463b707fcd9,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,code,1,P3,3,0,0,unanimous_initial_rating,profiled,true,false,false,SUPP-COA-02|P3|code|r1,SUPP-COA-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-9e3e456b7b18,数据结构与算法,哈希表冲突处理与负载因子,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-01|P3|path|r1,SUPP-DSA-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-a5d44109fca9,计算机网络,QUIC 与 HTTP/3,doc,1,P2,1,2,0,independent_adjudication,default_contract,true,true,true,SUPP-NET-02|P2|doc|r1,SUPP-NET-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-a7406eae2aed,数据结构与算法,哈希表冲突处理与负载因子,doc,1,P1,2,1,0,independent_adjudication,profiled,true,true,true,SUPP-DSA-01|P1|doc|r1,SUPP-DSA-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-af6cad9edc1b,操作系统,读者-写者问题与公平性,code,1,P2,3,0,0,unanimous_initial_rating,profiled,true,false,false,SUPP-OS-02|P2|code|r1,SUPP-OS-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-b045543977fd,操作系统,读者-写者问题与公平性,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-OS-02|P3|path|r1,SUPP-OS-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-b061fb12fb0e,机器学习,支持向量机的间隔与核方法,code,1,P1,2,1,0,independent_adjudication,profiled,true,true,true,SUPP-ML-01|P1|code|r1,SUPP-ML-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-b2e0c3d5e6df,机器学习,支持向量机的间隔与核方法,doc,1,P2,1,2,0,independent_adjudication,default_contract,true,true,true,SUPP-ML-01|P2|doc|r1,SUPP-ML-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-b8ff2c661fc3,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-COA-02|P3|doc|r1,SUPP-COA-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-cf236cb2403b,计算机组成原理,Cache 写直达、写回与写分配,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-COA-01|P3|path|r1,SUPP-COA-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-cf3b2d03a6af,数据结构与算法,最小生成树 Prim 算法,doc,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-02|P1|doc|r1,SUPP-DSA-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-cf9abc164d03,机器学习,Bagging 与随机森林,code,1,P3,1,2,0,independent_adjudication,default_contract,true,true,true,SUPP-ML-02|P3|code|r1,SUPP-ML-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-d6b06ca7f1fc,操作系统,读者-写者问题与公平性,code,1,P3,3,0,0,unanimous_initial_rating,profiled,true,false,false,SUPP-OS-02|P3|code|r1,SUPP-OS-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-d711003eeabe,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,code,1,P1,3,0,0,unanimous_initial_rating,profiled,true,false,false,SUPP-COA-02|P1|code|r1,SUPP-COA-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-d815631a5a2a,机器学习,支持向量机的间隔与核方法,doc,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-ML-01|P1|doc|r1,SUPP-ML-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-d921ce4e86b1,机器学习,Bagging 与随机森林,code,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-ML-02|P1|code|r1,SUPP-ML-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-e33e49722884,操作系统,读者-写者问题与公平性,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,false,true,false,SUPP-OS-02|P3|doc|r1,SUPP-OS-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-e3dbe856f65c,数据结构与算法,哈希表冲突处理与负载因子,code,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-DSA-01|P3|code|r1,SUPP-DSA-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-e57ae7bbeaad,操作系统,TLB 快表命中与缺失处理,doc,1,P2,0,3,0,unanimous_initial_rating,profiled,true,true,true,SUPP-OS-01|P2|doc|r1,SUPP-OS-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-e5bb70877af0,机器学习,Bagging 与随机森林,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-ML-02|P3|path|r1,SUPP-ML-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-e74482d2c53e,计算机网络,ICMP 差错报告与 ping、traceroute,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-01|P1|path|r1,SUPP-NET-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-e9b572cac010,数据结构与算法,最小生成树 Prim 算法,code,1,P3,2,1,0,independent_adjudication,default_contract,true,true,true,SUPP-DSA-02|P3|code|r1,SUPP-DSA-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-eb5b460270b5,操作系统,TLB 快表命中与缺失处理,doc,1,P3,3,0,0,unanimous_initial_rating,profiled,false,true,false,SUPP-OS-01|P3|doc|r1,SUPP-OS-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-eb5b73ebbf5c,计算机组成原理,Cache 写直达、写回与写分配,code,1,P1,3,0,0,unanimous_initial_rating,profiled,false,false,false,SUPP-COA-01|P1|code|r1,SUPP-COA-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-ecbda77c744d,机器学习,支持向量机的间隔与核方法,path,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-ML-01|P1|path|r1,SUPP-ML-01|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-f2701b00bc1e,计算机网络,ICMP 差错报告与 ping、traceroute,doc,1,P1,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-01|P1|doc|r1,SUPP-NET-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-f28736ec65d9,数据结构与算法,哈希表冲突处理与负载因子,doc,1,P2,1,2,0,independent_adjudication,tie,true,true,true,SUPP-DSA-01|P2|doc|r1,SUPP-DSA-01|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-f3888e5dde1d,机器学习,支持向量机的间隔与核方法,code,1,P2,2,1,0,independent_adjudication,default_contract,false,true,false,SUPP-ML-01|P2|code|r1,SUPP-ML-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-f6f6e49f5c74,数据结构与算法,最小生成树 Prim 算法,doc,1,P2,2,1,0,independent_adjudication,profiled,true,true,true,SUPP-DSA-02|P2|doc|r1,SUPP-DSA-02|P0|doc|r1,posthoc_leakage_controlled_doc_path
+E1-B-f71b4c728556,计算机网络,QUIC 与 HTTP/3,code,1,P1,3,0,0,unanimous_initial_rating,profiled,false,false,false,SUPP-NET-02|P1|code|r1,SUPP-NET-02|P0|code|r1,historical_code_or_unreplaced
+E1-B-f90ee266eae1,操作系统,TLB 快表命中与缺失处理,code,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-OS-01|P3|code|r1,SUPP-OS-01|P0|code|r1,historical_code_or_unreplaced
+E1-B-fc3caad7f223,计算机网络,QUIC 与 HTTP/3,path,1,P3,3,0,0,unanimous_initial_rating,profiled,true,true,true,SUPP-NET-02|P3|path|r1,SUPP-NET-02|P0|path|r1,posthoc_leakage_controlled_doc_path
+E1-B-ff4f9af681b5,机器学习,Bagging 与随机森林,path,1,P2,0,2,1,independent_adjudication,default_contract,true,true,true,SUPP-ML-02|P2|path|r1,SUPP-ML-02|P0|path|r1,posthoc_leakage_controlled_doc_path

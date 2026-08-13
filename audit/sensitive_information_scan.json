@@ -1,0 +1,16 @@
+{
+  "scope": "release candidates excluding audit/ and __pycache__/",
+  "files_scanned": 68,
+  "content_scan_exclusions": [
+    "audit_package.py"
+  ],
+  "patterns": [
+    "credential_like_value",
+    "email_address",
+    "known_natural_person_name",
+    "local_absolute_path"
+  ],
+  "finding_count": 0,
+  "status": "pass",
+  "findings": []
+}

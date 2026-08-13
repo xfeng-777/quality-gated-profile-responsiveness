@@ -1,0 +1,13 @@
+{
+  "profile_id": "P3",
+  "level_label": "进阶学习者",
+  "profile": {
+    "knowledge_base": {"math": 5, "programming": 5, "statistics": 5, "english": 3, "subject_prior": 5},
+    "cognitive_style": {"visual": 3, "reading": 3, "hands_on": 3, "auditory": 3},
+    "goals": {"primary": "理解课程主题并完成基础练习", "deadline": "", "target_topics": []},
+    "weak_points": {"topics": [], "error_types": []},
+    "pace": {"hours_per_week": 6, "intensity": "medium"},
+    "preference": {"document": 3, "mindmap": 3, "quiz": 3, "code": 3, "video": 3, "reading": 3},
+    "employment_skills": {"programming": 0, "algorithms": 0, "data_ai": 0, "systems": 0, "engineering": 0, "professional": 0}
+  }
+}

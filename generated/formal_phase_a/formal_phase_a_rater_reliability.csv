@@ -1,0 +1,7 @@
+﻿group_type,group_key,triplet_count,full_assignment_agreements,full_assignment_agreement_rate,agreement_ci_95_low,agreement_ci_95_high,cohen_kappa,kappa_ci_95_low,kappa_ci_95_high,kappa_bootstrap_valid_replicates,assignment_disagreement_triplets,either_low_confidence_triplets,either_indistinguishable_triplets,rater_a_low_confidence_rows,rater_b_low_confidence_rows,rater_a_indistinguishable_rows,rater_b_indistinguishable_rows,adjudicated_triplets,adjudication_rate
+overall,ALL,100,51,0.51,0.41348,0.60578,0.409354,0.288771,0.521707,10000,49,12,12,0,12,0,12,53,0.53
+agent,reading,20,20,1.0,0.838875,1.0,1.0,1.0,1.0,10000,0,0,0,0,0,0,0,0,0.0
+agent,quiz,20,20,1.0,0.838875,1.0,1.0,1.0,1.0,10000,0,0,0,0,0,0,0,0,0.0
+agent,doc,20,3,0.15,0.052369,0.360419,-0.036585,-0.1875,0.153094,10000,17,5,5,0,5,0,5,18,0.9
+agent,code,20,8,0.4,0.218807,0.613418,0.252336,0.044771,0.477124,10000,12,7,7,0,7,0,7,15,0.75
+agent,path,20,0,0.0,0.0,0.161125,-0.169591,-0.257862,-0.069519,10000,20,0,0,0,0,0,0,20,1.0

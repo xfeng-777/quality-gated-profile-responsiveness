@@ -1,0 +1,118 @@
+{
+  "checks": {
+    "cross_model_cue_control": {
+      "differences": [],
+      "status": "pass"
+    },
+    "default_contract_cluster_sensitivity": {
+      "differences": [],
+      "status": "pass"
+    },
+    "default_contract_cue_control": {
+      "differences": [],
+      "status": "pass"
+    },
+    "e2_e3_summary": {
+      "e2_formal_phase_a": {
+        "outputs": 300,
+        "quality_floor_passes": 299
+      },
+      "e3_entry_channels": {
+        "cases": 15,
+        "passes": 14,
+        "passes_by_modality": {
+          "image": 5,
+          "text": 5,
+          "voice": 4
+        }
+      },
+      "expected": {
+        "e2_formal_phase_a": {
+          "outputs": 300,
+          "quality_floor_passes": 299
+        },
+        "e3_entry_channels": {
+          "cases": 15,
+          "passes": 14,
+          "passes_by_modality": {
+            "image": 5,
+            "text": 5,
+            "voice": 4
+          }
+        }
+      },
+      "status": "pass"
+    },
+    "e4_run_coverage": {
+      "all_batches_complete": true,
+      "batch_final_covered_sum": 630,
+      "batches": 9,
+      "conditions": 630,
+      "expected": {
+        "all_batches_complete": true,
+        "batch_final_covered_sum": 630,
+        "batches": 9,
+        "conditions": 630,
+        "final_covered_conditions": 630,
+        "initial_failed_or_missing_conditions": 24,
+        "initial_success_conditions": 606,
+        "main_evidence_conditions": 420,
+        "repair_affected_conditions": 30,
+        "unique_condition_keys": 630,
+        "unseen_topic_conditions": 210
+      },
+      "final_covered_conditions": 630,
+      "initial_failed_or_missing_conditions": 24,
+      "initial_success_conditions": 606,
+      "main_evidence_conditions": 420,
+      "repair_affected_conditions": 30,
+      "status": "pass",
+      "unique_condition_keys": 630,
+      "unseen_topic_conditions": 210
+    },
+    "formal_phase_a_decision_sensitivity": {
+      "differences": [],
+      "status": "pass"
+    },
+    "formal_phase_a_final_alignment": {
+      "differences": [],
+      "status": "pass"
+    },
+    "formal_phase_a_metric_uncertainty": {
+      "differences": [],
+      "status": "pass"
+    },
+    "formal_phase_a_rater_reliability": {
+      "differences": [],
+      "status": "pass"
+    },
+    "frozen_protocol_integrity": {
+      "checks": {
+        "controlled_profile_difference": true,
+        "five_courses_covered": true,
+        "formal_condition_arithmetic": true,
+        "formal_tasks": true,
+        "non_target_profile_fields_constant": true,
+        "profile_ids": true,
+        "task_sets_disjoint": true,
+        "thinking_disabled": true,
+        "unseen_condition_arithmetic": true,
+        "unseen_tasks": true
+      },
+      "formal_task_count": 20,
+      "profile_count": 3,
+      "status": "pass",
+      "unseen_task_count": 10
+    },
+    "generation_model_comparison": {
+      "differences": [],
+      "status": "pass"
+    },
+    "phase_a_interface_aligned_sensitivity": {
+      "differences": [],
+      "status": "pass"
+    }
+  },
+  "external_api_calls": 0,
+  "overall_status": "pass"
+}

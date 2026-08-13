@@ -1,0 +1,69 @@
+{
+  "analyses": [
+    {
+      "bootstrap_samples": 10000,
+      "cluster_bootstrap_ci_95_high": 0.9195402298850575,
+      "cluster_bootstrap_ci_95_low": 0.7840909090909091,
+      "cluster_count": 30,
+      "cluster_level": "shared_default_output",
+      "comparison_rows": 90,
+      "default_contract_wins": 13,
+      "exact_cluster_sign_flip_p": 2.421438694000244e-08,
+      "profiled_win_rate_excluding_ties": 0.8522727272727273,
+      "profiled_wins": 75,
+      "random_seed": 20260803,
+      "scope": "all",
+      "ties": 2
+    },
+    {
+      "bootstrap_samples": 10000,
+      "cluster_bootstrap_ci_95_high": 0.9302325581395349,
+      "cluster_bootstrap_ci_95_low": 0.7777777777777778,
+      "cluster_count": 10,
+      "cluster_level": "task",
+      "comparison_rows": 90,
+      "default_contract_wins": 13,
+      "exact_cluster_sign_flip_p": 0.001953125,
+      "profiled_win_rate_excluding_ties": 0.8522727272727273,
+      "profiled_wins": 75,
+      "random_seed": 20260804,
+      "scope": "all",
+      "ties": 2
+    },
+    {
+      "bootstrap_samples": 10000,
+      "cluster_bootstrap_ci_95_high": 0.9285714285714286,
+      "cluster_bootstrap_ci_95_low": 0.7714285714285715,
+      "cluster_count": 25,
+      "cluster_level": "shared_default_output",
+      "comparison_rows": 71,
+      "default_contract_wins": 10,
+      "exact_cluster_sign_flip_p": 1.0728836059570312e-06,
+      "profiled_win_rate_excluding_ties": 0.855072463768116,
+      "profiled_wins": 59,
+      "random_seed": 20260803,
+      "scope": "quality_gated",
+      "ties": 2
+    },
+    {
+      "bootstrap_samples": 10000,
+      "cluster_bootstrap_ci_95_high": 0.9402985074626866,
+      "cluster_bootstrap_ci_95_low": 0.7631578947368421,
+      "cluster_count": 10,
+      "cluster_level": "task",
+      "comparison_rows": 71,
+      "default_contract_wins": 10,
+      "exact_cluster_sign_flip_p": 0.001953125,
+      "profiled_win_rate_excluding_ties": 0.855072463768116,
+      "profiled_wins": 59,
+      "random_seed": 20260804,
+      "scope": "quality_gated",
+      "ties": 2
+    }
+  ],
+  "analysis": "cluster sensitivity for profiled-versus-default-contract preferences",
+  "analysis_note": "Point estimates retain comparison rows as the estimand. Confidence intervals resample shared-default-output clusters, and exact sign-flip tests reverse all preferences within a cluster together. Task-level clustering is a stricter sensitivity analysis for dependencies shared across agents.",
+  "external_llm_calls_made": 0,
+  "input_path": "default_contract_leakage_controlled_sensitivity.csv",
+  "input_sha256": "746f2a3d4c42e98d44e27cb194bbaa98a8ca5316b3c0a08885043fe204d38485"
+}

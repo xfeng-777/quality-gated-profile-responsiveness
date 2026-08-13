@@ -1,0 +1,91 @@
+﻿condition_id,task_id,profile_id,agent_id,repeat,course_name,topic,deepseek_factual_correctness,qwen_factual_correctness,deepseek_factual_pass,qwen_factual_pass,deepseek_major_error,qwen_major_error,deepseek_quality_floor_pass,qwen_quality_floor_pass,deepseek_answer_consistency,qwen_answer_consistency,deepseek_structurally_valid,qwen_structurally_valid
+SUPP-COA-01|P1|code|r1,SUPP-COA-01,P1,code,r1,计算机组成原理,Cache 写直达、写回与写分配,major_error,minor_error,False,False,True,False,False,True,no,yes,yes,yes
+SUPP-COA-01|P1|doc|r1,SUPP-COA-01,P1,doc,r1,计算机组成原理,Cache 写直达、写回与写分配,pass,minor_error,True,False,False,False,True,True,na,na,na,na
+SUPP-COA-01|P1|path|r1,SUPP-COA-01,P1,path,r1,计算机组成原理,Cache 写直达、写回与写分配,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-COA-01|P2|code|r1,SUPP-COA-01,P2,code,r1,计算机组成原理,Cache 写直达、写回与写分配,minor_error,major_error,False,False,False,True,True,False,yes,no,yes,yes
+SUPP-COA-01|P2|doc|r1,SUPP-COA-01,P2,doc,r1,计算机组成原理,Cache 写直达、写回与写分配,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-COA-01|P2|path|r1,SUPP-COA-01,P2,path,r1,计算机组成原理,Cache 写直达、写回与写分配,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-COA-01|P3|code|r1,SUPP-COA-01,P3,code,r1,计算机组成原理,Cache 写直达、写回与写分配,pass,major_error,True,False,False,True,True,False,yes,no,yes,yes
+SUPP-COA-01|P3|doc|r1,SUPP-COA-01,P3,doc,r1,计算机组成原理,Cache 写直达、写回与写分配,minor_error,pass,False,True,False,False,True,True,na,na,na,na
+SUPP-COA-01|P3|path|r1,SUPP-COA-01,P3,path,r1,计算机组成原理,Cache 写直达、写回与写分配,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-COA-02|P1|code|r1,SUPP-COA-02,P1,code,r1,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,minor_error,pass,False,True,False,False,True,True,yes,yes,yes,yes
+SUPP-COA-02|P1|doc|r1,SUPP-COA-02,P1,doc,r1,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-COA-02|P1|path|r1,SUPP-COA-02,P1,path,r1,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-COA-02|P2|code|r1,SUPP-COA-02,P2,code,r1,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,major_error,minor_error,False,False,True,False,False,True,no,no,yes,yes
+SUPP-COA-02|P2|doc|r1,SUPP-COA-02,P2,doc,r1,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-COA-02|P2|path|r1,SUPP-COA-02,P2,path,r1,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-COA-02|P3|code|r1,SUPP-COA-02,P3,code,r1,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,minor_error,pass,False,True,False,False,True,True,no,yes,yes,yes
+SUPP-COA-02|P3|doc|r1,SUPP-COA-02,P3,doc,r1,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,minor_error,pass,False,True,False,False,True,True,na,na,na,na
+SUPP-COA-02|P3|path|r1,SUPP-COA-02,P3,path,r1,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-01|P1|code|r1,SUPP-DSA-01,P1,code,r1,数据结构与算法,哈希表冲突处理与负载因子,pass,pass,True,True,False,False,True,True,yes,yes,yes,yes
+SUPP-DSA-01|P1|doc|r1,SUPP-DSA-01,P1,doc,r1,数据结构与算法,哈希表冲突处理与负载因子,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-01|P1|path|r1,SUPP-DSA-01,P1,path,r1,数据结构与算法,哈希表冲突处理与负载因子,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-01|P2|code|r1,SUPP-DSA-01,P2,code,r1,数据结构与算法,哈希表冲突处理与负载因子,pass,minor_error,True,False,False,False,True,True,yes,yes,yes,yes
+SUPP-DSA-01|P2|doc|r1,SUPP-DSA-01,P2,doc,r1,数据结构与算法,哈希表冲突处理与负载因子,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-01|P2|path|r1,SUPP-DSA-01,P2,path,r1,数据结构与算法,哈希表冲突处理与负载因子,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-01|P3|code|r1,SUPP-DSA-01,P3,code,r1,数据结构与算法,哈希表冲突处理与负载因子,pass,minor_error,True,False,False,False,True,True,yes,no,yes,yes
+SUPP-DSA-01|P3|doc|r1,SUPP-DSA-01,P3,doc,r1,数据结构与算法,哈希表冲突处理与负载因子,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-01|P3|path|r1,SUPP-DSA-01,P3,path,r1,数据结构与算法,哈希表冲突处理与负载因子,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-02|P1|code|r1,SUPP-DSA-02,P1,code,r1,数据结构与算法,最小生成树 Prim 算法,minor_error,pass,False,True,False,False,True,True,yes,yes,yes,yes
+SUPP-DSA-02|P1|doc|r1,SUPP-DSA-02,P1,doc,r1,数据结构与算法,最小生成树 Prim 算法,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-02|P1|path|r1,SUPP-DSA-02,P1,path,r1,数据结构与算法,最小生成树 Prim 算法,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-02|P2|code|r1,SUPP-DSA-02,P2,code,r1,数据结构与算法,最小生成树 Prim 算法,minor_error,pass,False,True,False,False,True,True,yes,yes,yes,yes
+SUPP-DSA-02|P2|doc|r1,SUPP-DSA-02,P2,doc,r1,数据结构与算法,最小生成树 Prim 算法,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-02|P2|path|r1,SUPP-DSA-02,P2,path,r1,数据结构与算法,最小生成树 Prim 算法,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-DSA-02|P3|code|r1,SUPP-DSA-02,P3,code,r1,数据结构与算法,最小生成树 Prim 算法,pass,pass,True,True,False,False,True,True,yes,yes,yes,yes
+SUPP-DSA-02|P3|doc|r1,SUPP-DSA-02,P3,doc,r1,数据结构与算法,最小生成树 Prim 算法,minor_error,pass,False,True,False,False,True,True,na,na,na,na
+SUPP-DSA-02|P3|path|r1,SUPP-DSA-02,P3,path,r1,数据结构与算法,最小生成树 Prim 算法,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-ML-01|P1|code|r1,SUPP-ML-01,P1,code,r1,机器学习,支持向量机的间隔与核方法,pass,minor_error,True,False,False,False,True,True,yes,no,yes,yes
+SUPP-ML-01|P1|doc|r1,SUPP-ML-01,P1,doc,r1,机器学习,支持向量机的间隔与核方法,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-ML-01|P1|path|r1,SUPP-ML-01,P1,path,r1,机器学习,支持向量机的间隔与核方法,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-ML-01|P2|code|r1,SUPP-ML-01,P2,code,r1,机器学习,支持向量机的间隔与核方法,major_error,pass,False,True,True,False,False,True,yes,yes,yes,yes
+SUPP-ML-01|P2|doc|r1,SUPP-ML-01,P2,doc,r1,机器学习,支持向量机的间隔与核方法,pass,minor_error,True,False,False,False,True,True,na,na,na,na
+SUPP-ML-01|P2|path|r1,SUPP-ML-01,P2,path,r1,机器学习,支持向量机的间隔与核方法,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-ML-01|P3|code|r1,SUPP-ML-01,P3,code,r1,机器学习,支持向量机的间隔与核方法,minor_error,major_error,False,False,False,True,True,False,yes,no,yes,yes
+SUPP-ML-01|P3|doc|r1,SUPP-ML-01,P3,doc,r1,机器学习,支持向量机的间隔与核方法,minor_error,minor_error,False,False,False,False,True,True,na,na,na,na
+SUPP-ML-01|P3|path|r1,SUPP-ML-01,P3,path,r1,机器学习,支持向量机的间隔与核方法,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-ML-02|P1|code|r1,SUPP-ML-02,P1,code,r1,机器学习,Bagging 与随机森林,pass,minor_error,True,False,False,False,True,True,yes,no,yes,yes
+SUPP-ML-02|P1|doc|r1,SUPP-ML-02,P1,doc,r1,机器学习,Bagging 与随机森林,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-ML-02|P1|path|r1,SUPP-ML-02,P1,path,r1,机器学习,Bagging 与随机森林,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-ML-02|P2|code|r1,SUPP-ML-02,P2,code,r1,机器学习,Bagging 与随机森林,minor_error,pass,False,True,False,False,True,True,no,yes,yes,yes
+SUPP-ML-02|P2|doc|r1,SUPP-ML-02,P2,doc,r1,机器学习,Bagging 与随机森林,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-ML-02|P2|path|r1,SUPP-ML-02,P2,path,r1,机器学习,Bagging 与随机森林,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-ML-02|P3|code|r1,SUPP-ML-02,P3,code,r1,机器学习,Bagging 与随机森林,pass,pass,True,True,False,False,True,True,yes,yes,yes,yes
+SUPP-ML-02|P3|doc|r1,SUPP-ML-02,P3,doc,r1,机器学习,Bagging 与随机森林,pass,minor_error,True,False,False,False,True,True,na,na,na,na
+SUPP-ML-02|P3|path|r1,SUPP-ML-02,P3,path,r1,机器学习,Bagging 与随机森林,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-NET-01|P1|code|r1,SUPP-NET-01,P1,code,r1,计算机网络,ICMP 差错报告与 ping、traceroute,major_error,major_error,False,False,True,True,False,False,no,no,no,no
+SUPP-NET-01|P1|doc|r1,SUPP-NET-01,P1,doc,r1,计算机网络,ICMP 差错报告与 ping、traceroute,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-NET-01|P1|path|r1,SUPP-NET-01,P1,path,r1,计算机网络,ICMP 差错报告与 ping、traceroute,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-NET-01|P2|code|r1,SUPP-NET-01,P2,code,r1,计算机网络,ICMP 差错报告与 ping、traceroute,pass,major_error,True,False,False,True,True,False,yes,yes,yes,yes
+SUPP-NET-01|P2|doc|r1,SUPP-NET-01,P2,doc,r1,计算机网络,ICMP 差错报告与 ping、traceroute,pass,minor_error,True,False,False,False,True,True,na,na,na,na
+SUPP-NET-01|P2|path|r1,SUPP-NET-01,P2,path,r1,计算机网络,ICMP 差错报告与 ping、traceroute,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-NET-01|P3|code|r1,SUPP-NET-01,P3,code,r1,计算机网络,ICMP 差错报告与 ping、traceroute,minor_error,minor_error,False,False,False,False,True,True,yes,no,yes,no
+SUPP-NET-01|P3|doc|r1,SUPP-NET-01,P3,doc,r1,计算机网络,ICMP 差错报告与 ping、traceroute,minor_error,pass,False,True,False,False,True,True,na,na,na,na
+SUPP-NET-01|P3|path|r1,SUPP-NET-01,P3,path,r1,计算机网络,ICMP 差错报告与 ping、traceroute,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-NET-02|P1|code|r1,SUPP-NET-02,P1,code,r1,计算机网络,QUIC 与 HTTP/3,major_error,minor_error,False,False,True,False,False,True,yes,no,yes,yes
+SUPP-NET-02|P1|doc|r1,SUPP-NET-02,P1,doc,r1,计算机网络,QUIC 与 HTTP/3,pass,major_error,True,False,False,True,True,False,na,na,na,na
+SUPP-NET-02|P1|path|r1,SUPP-NET-02,P1,path,r1,计算机网络,QUIC 与 HTTP/3,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-NET-02|P2|code|r1,SUPP-NET-02,P2,code,r1,计算机网络,QUIC 与 HTTP/3,major_error,minor_error,False,False,True,False,False,True,yes,yes,yes,no
+SUPP-NET-02|P2|doc|r1,SUPP-NET-02,P2,doc,r1,计算机网络,QUIC 与 HTTP/3,pass,major_error,True,False,False,True,True,False,na,na,na,na
+SUPP-NET-02|P2|path|r1,SUPP-NET-02,P2,path,r1,计算机网络,QUIC 与 HTTP/3,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-NET-02|P3|code|r1,SUPP-NET-02,P3,code,r1,计算机网络,QUIC 与 HTTP/3,minor_error,major_error,False,False,False,True,True,False,yes,no,yes,no
+SUPP-NET-02|P3|doc|r1,SUPP-NET-02,P3,doc,r1,计算机网络,QUIC 与 HTTP/3,minor_error,pass,False,True,False,False,True,True,na,na,na,na
+SUPP-NET-02|P3|path|r1,SUPP-NET-02,P3,path,r1,计算机网络,QUIC 与 HTTP/3,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-01|P1|code|r1,SUPP-OS-01,P1,code,r1,操作系统,TLB 快表命中与缺失处理,pass,major_error,True,False,False,True,True,False,yes,no,yes,yes
+SUPP-OS-01|P1|doc|r1,SUPP-OS-01,P1,doc,r1,操作系统,TLB 快表命中与缺失处理,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-01|P1|path|r1,SUPP-OS-01,P1,path,r1,操作系统,TLB 快表命中与缺失处理,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-01|P2|code|r1,SUPP-OS-01,P2,code,r1,操作系统,TLB 快表命中与缺失处理,pass,pass,True,True,False,False,True,True,yes,yes,yes,yes
+SUPP-OS-01|P2|doc|r1,SUPP-OS-01,P2,doc,r1,操作系统,TLB 快表命中与缺失处理,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-01|P2|path|r1,SUPP-OS-01,P2,path,r1,操作系统,TLB 快表命中与缺失处理,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-01|P3|code|r1,SUPP-OS-01,P3,code,r1,操作系统,TLB 快表命中与缺失处理,pass,minor_error,True,False,False,False,True,True,yes,no,yes,yes
+SUPP-OS-01|P3|doc|r1,SUPP-OS-01,P3,doc,r1,操作系统,TLB 快表命中与缺失处理,minor_error,minor_error,False,False,False,False,False,True,na,na,na,na
+SUPP-OS-01|P3|path|r1,SUPP-OS-01,P3,path,r1,操作系统,TLB 快表命中与缺失处理,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-02|P1|code|r1,SUPP-OS-02,P1,code,r1,操作系统,读者-写者问题与公平性,major_error,pass,False,True,True,False,False,True,no,yes,yes,yes
+SUPP-OS-02|P1|doc|r1,SUPP-OS-02,P1,doc,r1,操作系统,读者-写者问题与公平性,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-02|P1|path|r1,SUPP-OS-02,P1,path,r1,操作系统,读者-写者问题与公平性,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-02|P2|code|r1,SUPP-OS-02,P2,code,r1,操作系统,读者-写者问题与公平性,minor_error,pass,False,True,False,False,True,True,no,yes,yes,yes
+SUPP-OS-02|P2|doc|r1,SUPP-OS-02,P2,doc,r1,操作系统,读者-写者问题与公平性,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-02|P2|path|r1,SUPP-OS-02,P2,path,r1,操作系统,读者-写者问题与公平性,pass,pass,True,True,False,False,True,True,na,na,na,na
+SUPP-OS-02|P3|code|r1,SUPP-OS-02,P3,code,r1,操作系统,读者-写者问题与公平性,pass,pass,True,True,False,False,True,True,yes,yes,yes,yes
+SUPP-OS-02|P3|doc|r1,SUPP-OS-02,P3,doc,r1,操作系统,读者-写者问题与公平性,minor_error,minor_error,False,False,False,False,False,True,na,na,na,na
+SUPP-OS-02|P3|path|r1,SUPP-OS-02,P3,path,r1,操作系统,读者-写者问题与公平性,pass,pass,True,True,False,False,True,True,na,na,na,na

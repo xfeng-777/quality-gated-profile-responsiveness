@@ -1,0 +1,10 @@
+﻿batch_id,planned_conditions,initial_success_conditions,initial_failed_conditions,repair_affected_conditions,final_covered_conditions,final_missing_conditions,final_coverage_complete
+code_v2_5_retest,15,15,0,0,15,0,true
+doc_code_retest,60,60,0,0,60,0,true
+formal_phase_a_non_reading,240,240,0,0,240,0,true
+formal_phase_a_reading,60,60,0,0,60,0,true
+path_v2_retest,30,30,0,0,30,0,true
+reading_v2_holdout,15,15,0,0,15,0,true
+unseen_deepseek_default_contract,30,25,5,6,30,0,true
+unseen_deepseek_profiled,90,73,17,19,90,0,true
+unseen_qwen_profiled,90,88,2,5,90,0,true

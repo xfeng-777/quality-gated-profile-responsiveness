@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "scope_note": "Normalized record of the final conditions used for the reported formal Phase A and unseen-topic analyses. Condition-specific repair calls replaced failed conditions and did not create additional statistical samples.",
+  "profiles": {
+    "count": 3,
+    "paths": [
+      "protocols/profiles/p1_beginner.json",
+      "protocols/profiles/p2_intermediate.json",
+      "protocols/profiles/p3_advanced.json"
+    ],
+    "controlled_difference": "P1, P2, and P3 differ only in math, programming, statistics, and subject-prior knowledge scores (1, 3, and 5 respectively); English remains 3 and all other profile fields are held constant."
+  },
+  "formal_phase_a": {
+    "experiment_id": "E1-profile-responsiveness-formal-reading-controlled-v1",
+    "frozen_at": "2026-07-28",
+    "task_path": "protocols/tasks/formal_phase_a_tasks.jsonl",
+    "task_count": 20,
+    "agents": ["doc", "quiz", "code", "reading", "path"],
+    "repeat_count": 1,
+    "unique_conditions": 300,
+    "model": "deepseek-v4-pro",
+    "thinking_mode": "disabled",
+    "retrieval_top_k": 6,
+    "random_seed": 20260725,
+    "temperature_by_agent": {
+      "doc": 0.6,
+      "quiz": 0.4,
+      "code": 0.4,
+      "reading": 0.2,
+      "path": 0.4
+    },
+    "execution_batches": [
+      {"name": "reading_only", "agent": "reading", "planned_conditions": 60, "final_conditions": 60},
+      {"name": "non_reading", "agents": ["doc", "quiz", "code", "path"], "planned_conditions": 240, "final_conditions": 240}
+    ],
+    "reading_condition": "Reading outputs used a frozen, controlled catalog; third-party course-material full text is not redistributed in this package."
+  },
+  "unseen_topics": {
+    "experiment_id": "E1-supplement-unseen-default-contract-v1",
+    "frozen_at": "2026-08-02",
+    "qwen_request_frozen_at": "2026-08-03",
+    "task_path": "protocols/tasks/unseen_topic_tasks.jsonl",
+    "task_count": 10,
+    "agents": ["doc", "code", "path"],
+    "repeat_count": 1,
+    "retrieval_top_k": 6,
+    "random_seed": 20260802,
+    "temperature_by_agent": {"doc": 0.6, "code": 0.4, "path": 0.4},
+    "arms": [
+      {"provider": "deepseek", "model": "deepseek-v4-pro", "profile_mode": "profiled", "thinking_mode": "disabled", "final_conditions": 90},
+      {"provider": "deepseek", "model": "deepseek-v4-pro", "profile_mode": "default_contract", "thinking_mode": "disabled", "final_conditions": 30},
+      {"provider": "qwen", "model": "qwen3.7-max", "profile_mode": "profiled", "thinking_mode": "disabled", "final_conditions": 90}
+    ],
+    "default_contract_definition": "The learner profile was empty; the existing agents therefore used their intermediate-leaning fallback output contract. This was not a label-neutral absence-of-profile baseline.",
+    "normalized_profiled_outputs": 180,
+    "normalized_default_contract_outputs": 30
+  },
+  "excluded_from_this_record": [
+    "API credentials and account identifiers",
+    "pricing and internal approval tokens",
+    "model reasoning traces",
+    "debug runs that were not statistical samples",
+    "product-facing Web and production-agent implementation details"
+  ]
+}

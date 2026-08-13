@@ -1,0 +1,61 @@
+﻿rerating_id,batch_id,old_comparison_id,course_name,topic,agent_id,target_profile_id,profiled_votes,default_contract_votes,tie_votes,final_decision,decision_source,adjudication_id,confidence,old_final_decision,same_as_old_final
+LC-B-036ce465410564,deepseek_default_contract_doc_path,E1-B-a5d44109fca9,计算机网络,QUIC 与 HTTP/3,doc,P2,1,1,0,default_contract,independent_adjudication,LC-A-B-f93d54dd9c7037,medium,default_contract,True
+LC-B-060ebaf7e9bb51,deepseek_default_contract_doc_path,E1-B-6d0f0f7d70a7,操作系统,读者-写者问题与公平性,doc,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-09fd055054a236,deepseek_default_contract_doc_path,E1-B-4432c1543fe9,计算机组成原理,Cache 写直达、写回与写分配,doc,P1,1,1,0,profiled,independent_adjudication,LC-A-B-96bfb6ffdae05c,high,profiled,True
+LC-B-0ac3344d844e76,deepseek_default_contract_doc_path,E1-B-470f0e4ca2b7,操作系统,TLB 快表命中与缺失处理,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-0b77a1f48214da,deepseek_default_contract_doc_path,E1-B-ecbda77c744d,机器学习,支持向量机的间隔与核方法,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-0b7df1555527e0,deepseek_default_contract_doc_path,E1-B-76c03d435878,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-0e88480e9a07e5,deepseek_default_contract_doc_path,E1-B-f2701b00bc1e,计算机网络,ICMP 差错报告与 ping、traceroute,doc,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-1736c5a2c4652f,deepseek_default_contract_doc_path,E1-B-0f7d317cea26,机器学习,Bagging 与随机森林,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-1bf483fad0fe73,deepseek_default_contract_doc_path,E1-B-343093b5acce,计算机网络,ICMP 差错报告与 ping、traceroute,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-207083036c551e,deepseek_default_contract_doc_path,E1-B-42d9a51cadf1,数据结构与算法,最小生成树 Prim 算法,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-2450f61b7d96e5,deepseek_default_contract_doc_path,E1-B-9458569b3de4,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,P2,0,1,1,profiled,independent_adjudication,LC-A-B-14c32eb54f8b60,high,profiled,True
+LC-B-246a2b3dfbfd12,deepseek_default_contract_doc_path,E1-B-025b1a6c53d1,计算机网络,QUIC 与 HTTP/3,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-27683f12586600,deepseek_default_contract_doc_path,E1-B-47032a50ab43,操作系统,读者-写者问题与公平性,path,P2,1,1,0,default_contract,independent_adjudication,LC-A-B-b7d1181415a313,medium,default_contract,True
+LC-B-2850ce4d015998,deepseek_default_contract_doc_path,E1-B-cf236cb2403b,计算机组成原理,Cache 写直达、写回与写分配,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-2cb5e0ab9f8291,deepseek_default_contract_doc_path,E1-B-7e2e859db112,计算机网络,ICMP 差错报告与 ping、traceroute,path,P2,1,0,1,profiled,independent_adjudication,LC-A-B-d0987e70da22e4,medium,profiled,True
+LC-B-2dc1ddc61ba90f,deepseek_default_contract_doc_path,E1-B-63a5fe77a79e,机器学习,Bagging 与随机森林,doc,P2,1,0,1,profiled,independent_adjudication,LC-A-B-c701cea60adc65,medium,profiled,True
+LC-B-2fcee9c6159c17,deepseek_default_contract_doc_path,E1-B-3c625d0fd709,机器学习,支持向量机的间隔与核方法,path,P2,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-3165f244ca9e39,deepseek_default_contract_doc_path,E1-B-b2e0c3d5e6df,机器学习,支持向量机的间隔与核方法,doc,P2,0,1,1,default_contract,independent_adjudication,LC-A-B-f214ecefdd8469,high,profiled,False
+LC-B-32b676339c7ad3,deepseek_default_contract_doc_path,E1-B-d815631a5a2a,机器学习,支持向量机的间隔与核方法,doc,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-33b5ca445a376f,deepseek_default_contract_doc_path,E1-B-5ce1065a5bcc,数据结构与算法,哈希表冲突处理与负载因子,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-3784b64b68c58b,deepseek_default_contract_doc_path,E1-B-e74482d2c53e,计算机网络,ICMP 差错报告与 ping、traceroute,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-3ebf92eb65f781,deepseek_default_contract_doc_path,E1-B-8be2a889dcbc,操作系统,TLB 快表命中与缺失处理,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-42ece43fb3c412,deepseek_default_contract_doc_path,E1-B-cf3b2d03a6af,数据结构与算法,最小生成树 Prim 算法,doc,P1,1,1,0,profiled,independent_adjudication,LC-A-B-a47ec27eade5a1,high,profiled,True
+LC-B-45107b5dd2655f,deepseek_default_contract_doc_path,E1-B-a7406eae2aed,数据结构与算法,哈希表冲突处理与负载因子,doc,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-4648b360473310,deepseek_default_contract_doc_path,E1-B-131771bae926,数据结构与算法,最小生成树 Prim 算法,doc,P3,1,1,0,profiled,independent_adjudication,LC-A-B-6dee7cddab54de,high,profiled,True
+LC-B-47628e9eafb232,deepseek_default_contract_doc_path,E1-B-47f891d046af,机器学习,支持向量机的间隔与核方法,doc,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-4eab95da5f3791,deepseek_default_contract_doc_path,E1-B-3a42412abfbb,操作系统,TLB 快表命中与缺失处理,path,P2,1,0,1,profiled,independent_adjudication,LC-A-B-b88f0f3851bf42,medium,default_contract,False
+LC-B-51dec74c968c0c,deepseek_default_contract_doc_path,E1-B-3cec622bd4c6,机器学习,Bagging 与随机森林,doc,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-57e42fe737923e,deepseek_default_contract_doc_path,E1-B-1b9daf6c46d9,机器学习,支持向量机的间隔与核方法,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-58e3a235755434,deepseek_default_contract_doc_path,E1-B-9e3e456b7b18,数据结构与算法,哈希表冲突处理与负载因子,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-6a67a157c6bf00,deepseek_default_contract_doc_path,E1-B-71095df3be9b,计算机网络,ICMP 差错报告与 ping、traceroute,doc,P2,0,2,0,default_contract,initial_unanimity,,,profiled,False
+LC-B-6aff7c3f7a5c7e,deepseek_default_contract_doc_path,E1-B-38e5b7c49ca5,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,P2,1,1,0,profiled,independent_adjudication,LC-A-B-4417fcb564b05b,medium,profiled,True
+LC-B-725c943fef38b5,deepseek_default_contract_doc_path,E1-B-17a06277d3a2,数据结构与算法,哈希表冲突处理与负载因子,doc,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-738cd59e4347b1,deepseek_default_contract_doc_path,E1-B-e33e49722884,操作系统,读者-写者问题与公平性,doc,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-7820513f776649,deepseek_default_contract_doc_path,E1-B-6ad50e0c2ef8,数据结构与算法,哈希表冲突处理与负载因子,path,P2,1,0,1,profiled,independent_adjudication,LC-A-B-db38af150d25fb,high,profiled,True
+LC-B-82e59902011e9d,deepseek_default_contract_doc_path,E1-B-7a89eec00616,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-86c24a37635705,deepseek_default_contract_doc_path,E1-B-6988521cb18a,计算机网络,ICMP 差错报告与 ping、traceroute,doc,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-8a58a72282922e,deepseek_default_contract_doc_path,E1-B-0b6c3ed97eaf,操作系统,读者-写者问题与公平性,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-8b545021c4ae08,deepseek_default_contract_doc_path,E1-B-ff4f9af681b5,机器学习,Bagging 与随机森林,path,P2,0,2,0,default_contract,initial_unanimity,,,profiled,False
+LC-B-901e9313cbac38,deepseek_default_contract_doc_path,E1-B-83ef13578f14,数据结构与算法,最小生成树 Prim 算法,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-98ed651a619591,deepseek_default_contract_doc_path,E1-B-41234d1f573d,计算机组成原理,Cache 写直达、写回与写分配,path,P2,0,1,1,profiled,independent_adjudication,LC-A-B-0bf99d81ec7228,medium,default_contract,False
+LC-B-9d92430b1684b6,deepseek_default_contract_doc_path,E1-B-272de4f82a18,计算机组成原理,Cache 写直达、写回与写分配,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-a2c8f810b273d3,deepseek_default_contract_doc_path,E1-B-2ed9d9fbe9a8,计算机组成原理,Cache 写直达、写回与写分配,doc,P2,1,0,1,profiled,independent_adjudication,LC-A-B-035b3249eeb591,medium,default_contract,False
+LC-B-a7b8c06fc23661,deepseek_default_contract_doc_path,E1-B-175d65b0d1ba,操作系统,TLB 快表命中与缺失处理,doc,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-ab01594b1f8cac,deepseek_default_contract_doc_path,E1-B-3fa8de731877,操作系统,读者-写者问题与公平性,doc,P2,1,1,0,default_contract,independent_adjudication,LC-A-B-06db76b37bf8dd,medium,profiled,False
+LC-B-b055e35c917e84,deepseek_default_contract_doc_path,E1-B-b8ff2c661fc3,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,P3,1,1,0,profiled,independent_adjudication,LC-A-B-960bf1c60264f2,high,profiled,True
+LC-B-b16a99833de3bc,deepseek_default_contract_doc_path,E1-B-fc3caad7f223,计算机网络,QUIC 与 HTTP/3,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-bab19d7e7d1e7c,deepseek_default_contract_doc_path,E1-B-f28736ec65d9,数据结构与算法,哈希表冲突处理与负载因子,doc,P2,0,1,1,tie,independent_adjudication,LC-A-B-1f9b6041d449c8,medium,profiled,False
+LC-B-c1fe376d6f67d5,deepseek_default_contract_doc_path,E1-B-8c3fac0acdeb,数据结构与算法,最小生成树 Prim 算法,path,P2,0,2,0,default_contract,initial_unanimity,,,profiled,False
+LC-B-cc8fabb0a7028a,deepseek_default_contract_doc_path,E1-B-f6f6e49f5c74,数据结构与算法,最小生成树 Prim 算法,doc,P2,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-ced48a47dc95d8,deepseek_default_contract_doc_path,E1-B-b045543977fd,操作系统,读者-写者问题与公平性,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-d10d4ba7f38e6b,deepseek_default_contract_doc_path,E1-B-1bc202053284,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-d2dfaaafe31ba0,deepseek_default_contract_doc_path,E1-B-23b7c9e6337a,计算机组成原理,Cache 写直达、写回与写分配,doc,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-d392a540383e3e,deepseek_default_contract_doc_path,E1-B-7d9df3354101,计算机网络,QUIC 与 HTTP/3,doc,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-d7c7e410df37bd,deepseek_default_contract_doc_path,E1-B-e57ae7bbeaad,操作系统,TLB 快表命中与缺失处理,doc,P2,2,0,0,profiled,initial_unanimity,,,default_contract,False
+LC-B-e220c752312477,deepseek_default_contract_doc_path,E1-B-eb5b460270b5,操作系统,TLB 快表命中与缺失处理,doc,P3,1,1,0,profiled,independent_adjudication,LC-A-B-c4f527cfd55e8e,high,profiled,True
+LC-B-e29cc53a5c787f,deepseek_default_contract_doc_path,E1-B-2f66aa1b8e57,计算机网络,QUIC 与 HTTP/3,path,P2,1,1,0,profiled,independent_adjudication,LC-A-B-67c36169386bc7,medium,profiled,True
+LC-B-ef2592e58a45b1,deepseek_default_contract_doc_path,E1-B-e5bb70877af0,机器学习,Bagging 与随机森林,path,P3,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-f1d92d908484d2,deepseek_default_contract_doc_path,E1-B-0a6f08a2017e,计算机网络,QUIC 与 HTTP/3,doc,P1,2,0,0,profiled,initial_unanimity,,,profiled,True
+LC-B-f624d9bb4c780a,deepseek_default_contract_doc_path,E1-B-533577a0beee,机器学习,Bagging 与随机森林,doc,P3,1,1,0,profiled,independent_adjudication,LC-A-B-d4ba2ced7d431a,high,profiled,True

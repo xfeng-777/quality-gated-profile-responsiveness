@@ -1,0 +1,16 @@
+﻿case_id,modality,course,input_description,expected_intent,expected_key_terms,input_artifact,notes
+E3-TEXT-ML-01,text,机器学习,我想学习梯度下降，最好先用直觉解释再给一个小例子,学习梯度下降,梯度下降;直觉解释;例子,,文本入口样例
+E3-TEXT-DSA-01,text,数据结构与算法,我不太懂 Dijkstra 为什么不能处理负权边，想要一个入门讲解,学习 Dijkstra 负权边限制,Dijkstra;负权边;入门讲解,,文本入口样例
+E3-TEXT-OS-01,text,操作系统,帮我理解虚拟内存和页表的关系，并给一个简单地址翻译例子,学习虚拟内存与页表,虚拟内存;页表;地址翻译,,文本入口样例
+E3-TEXT-COA-01,text,计算机组成原理,我想复习 Cache 映射与替换策略，尤其是命中和未命中的判断,学习 Cache 映射与替换,Cache;映射;替换;命中;未命中,,文本入口样例
+E3-TEXT-NET-01,text,计算机网络,用比较容易懂的方式讲一下 TCP 三次握手每一步为什么必要,学习 TCP 三次握手,TCP;三次握手;必要性,,文本入口样例
+E3-IMAGE-ML-01,image,机器学习,图片中包含梯度下降公式或损失曲线截图,识别为梯度下降相关主题,梯度下降;损失函数;学习率,assets/images/E3-IMAGE-ML-01.png,已生成受控合成图片用于 Qwen-VL 识题检查
+E3-IMAGE-DSA-01,image,数据结构与算法,图片中包含带权图和最短路径题目,识别为 Dijkstra 或最短路径主题,Dijkstra;最短路径;带权图,assets/images/E3-IMAGE-DSA-01.png,已生成受控合成图片用于 Qwen-VL 识题检查
+E3-IMAGE-OS-01,image,操作系统,图片中包含页表或虚拟地址到物理地址转换题目,识别为虚拟内存或页表主题,虚拟内存;页表;地址转换,assets/images/E3-IMAGE-OS-01.png,已生成受控合成图片用于 Qwen-VL 识题检查
+E3-IMAGE-COA-01,image,计算机组成原理,图片中包含 Cache 地址序列或组相联映射表,识别为 Cache 映射或替换主题,Cache;地址序列;组相联;替换,assets/images/E3-IMAGE-COA-01.png,已生成受控合成图片用于 Qwen-VL 识题检查
+E3-IMAGE-NET-01,image,计算机网络,图片中包含 TCP 握手或 TLS 流程图,识别为 TCP 握手或 TLS 连接主题,TCP;TLS;握手,assets/images/E3-IMAGE-NET-01.png,已生成受控合成图片用于 Qwen-VL 识题检查
+E3-VOICE-ML-01,voice,机器学习,朗读：我想学习梯度下降和学习率怎么影响收敛,识别学习梯度下降与学习率,梯度下降;学习率;收敛,assets/audio/E3-VOICE-ML-01.wav,已生成受控 TTS 音频用于讯飞 ASR 转写检查
+E3-VOICE-DSA-01,voice,数据结构与算法,朗读：我想知道红黑树为什么要保持根节点为黑色,识别红黑树根黑性质,红黑树;根节点;黑色,assets/audio/E3-VOICE-DSA-01.wav,已生成受控 TTS 音频用于讯飞 ASR 转写检查
+E3-VOICE-OS-01,voice,操作系统,朗读：我想复习信号量和互斥锁的区别,识别信号量与互斥锁比较,信号量;互斥锁;区别,assets/audio/E3-VOICE-OS-01.wav,已生成受控 TTS 音频用于讯飞 ASR 转写检查
+E3-VOICE-COA-01,voice,计算机组成原理,朗读：我想理解流水线数据冒险和 forwarding,识别流水线数据冒险,流水线;数据冒险;forwarding,assets/audio/E3-VOICE-COA-01.wav,已生成受控 TTS 音频用于讯飞 ASR 转写检查
+E3-VOICE-NET-01,voice,计算机网络,朗读：请帮我理解 HTTPS 和 TLS 握手过程,识别 HTTPS/TLS 握手主题,HTTPS;TLS;握手,assets/audio/E3-VOICE-NET-01.wav,已生成受控 TTS 音频用于讯飞 ASR 转写检查

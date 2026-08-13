@@ -1,0 +1,61 @@
+﻿triplet_id,course_name,topic,agent_id,repeat,decision_source,decision_maker,decided_at,assigned_p1_candidate,assigned_p2_candidate,assigned_p3_candidate,true_p1_candidate,true_p2_candidate,true_p3_candidate,exact_profile_matches,full_match,pairwise_correct,pairwise_total,pairwise_order_accuracy,extreme_pair_correct,extreme_reversed,confidence,indistinguishable,quality_passed_output_count,quality_failed_output_count,major_error_output_count,quality_eligible,quality_gated_full_match,quality_gated_extreme_correct,model,analysis_source
+E1-T-01a1ca830ebf,计算机网络,ICMP 差错报告与 ping、traceroute,code,1,adjudication,H1,2026/8/3,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,2,1,1,False,False,False,DeepSeek,historical_code_or_unreplaced
+E1-T-0ae1639b0045,操作系统,TLB 快表命中与缺失处理,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-10264783bc2e,操作系统,读者-写者问题与公平性,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-1c68bab2a5dd,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-1f429c8d6b67,机器学习,Bagging 与随机森林,code,1,adjudication,H1,2026/8/3,Y,X,Z,Y,Z,X,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,DeepSeek,historical_code_or_unreplaced
+E1-T-296537ebee65,机器学习,支持向量机的间隔与核方法,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-320f3d3d9617,数据结构与算法,最小生成树 Prim 算法,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-4605e03f4457,计算机网络,QUIC 与 HTTP/3,code,1,adjudication,H1,2026/8/3,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,medium,no,1,2,2,False,False,False,DeepSeek,historical_code_or_unreplaced
+E1-T-58aaaec08bd3,操作系统,读者-写者问题与公平性,doc,1,adjudication,H1,2026/8/3,,,,,,,3,True,3,3,1.0,True,False,high,no,2,1,0,False,False,False,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-644419bdbeff,计算机网络,ICMP 差错报告与 ping、traceroute,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-681373c29fcc,数据结构与算法,哈希表冲突处理与负载因子,code,1,a_b_consensus,A+B,,Y,X,Z,Y,X,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,historical_code_or_unreplaced
+E1-T-6bf302653539,机器学习,支持向量机的间隔与核方法,code,1,adjudication,H1,2026/8/3,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,2,1,1,False,False,False,DeepSeek,historical_code_or_unreplaced
+E1-T-710a2881624e,数据结构与算法,最小生成树 Prim 算法,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-783e15d18fd0,计算机网络,QUIC 与 HTTP/3,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-7f573d6e9301,计算机组成原理,Cache 写直达、写回与写分配,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-841084acfc14,机器学习,支持向量机的间隔与核方法,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-a5413c97b87a,数据结构与算法,最小生成树 Prim 算法,code,1,a_b_consensus,A+B,,Y,X,Z,Y,X,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,historical_code_or_unreplaced
+E1-T-af44d00cdcf8,数据结构与算法,哈希表冲突处理与负载因子,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-b837a1924932,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,code,1,adjudication,H1,2026/8/3,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,2,1,1,False,False,False,DeepSeek,historical_code_or_unreplaced
+E1-T-c59d9984a1c4,计算机网络,QUIC 与 HTTP/3,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-cb49a8e83e4c,机器学习,Bagging 与随机森林,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-ccf4c52a25e0,操作系统,TLB 快表命中与缺失处理,doc,1,adjudication,H1,2026/8/3,,,,,,,3,True,3,3,1.0,True,False,high,no,2,1,0,False,False,False,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-dad94099fe3b,操作系统,读者-写者问题与公平性,code,1,adjudication,H1,2026/8/3,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,2,1,1,False,False,False,DeepSeek,historical_code_or_unreplaced
+E1-T-dfb12ae0eb20,机器学习,Bagging 与随机森林,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-e30225dd264f,计算机组成原理,Cache 写直达、写回与写分配,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-ec8a9587c4db,计算机网络,ICMP 差错报告与 ping、traceroute,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-ed8bd870a80a,计算机组成原理,Cache 写直达、写回与写分配,code,1,adjudication,H1,2026/8/3,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,2,1,1,False,False,False,DeepSeek,historical_code_or_unreplaced
+E1-T-f07f8d049b3c,操作系统,TLB 快表命中与缺失处理,code,1,adjudication,H1,2026/8/3,Z,X,Y,Z,X,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,historical_code_or_unreplaced
+E1-T-f6f65b744a1c,数据结构与算法,哈希表冲突处理与负载因子,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-f950096ad9b0,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,DeepSeek,posthoc_leakage_controlled_doc_path
+E1-T-05eee0605eb9,数据结构与算法,哈希表冲突处理与负载因子,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-13522146e4fc,数据结构与算法,哈希表冲突处理与负载因子,code,1,a_b_consensus,A+B,,Y,Z,X,Y,X,Z,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,Qwen,historical_code_or_unreplaced
+E1-T-179d8d8893ae,操作系统,读者-写者问题与公平性,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-374faf3a63bf,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-3965e3c5a17e,机器学习,Bagging 与随机森林,code,1,a_b_consensus,A+B,,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,historical_code_or_unreplaced
+E1-T-4ab2b4e3a6a2,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,code,1,adjudication,H1,2026-08-03,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,historical_code_or_unreplaced
+E1-T-4b93aac623e1,计算机网络,QUIC 与 HTTP/3,path,1,adjudication,H1,2026-08-03,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-553b72e773ba,计算机网络,QUIC 与 HTTP/3,code,1,adjudication,H1,2026-08-03,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,2,1,1,False,False,False,Qwen,historical_code_or_unreplaced
+E1-T-5f48b6d0eab5,计算机组成原理,Cache 写直达、写回与写分配,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-64bbcda86ea2,计算机网络,QUIC 与 HTTP/3,doc,1,adjudication,H1,2026-08-03,,,,,,,3,True,3,3,1.0,True,False,high,no,1,2,2,False,False,False,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-6a6c159c84cb,数据结构与算法,最小生成树 Prim 算法,code,1,a_b_consensus,A+B,,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,historical_code_or_unreplaced
+E1-T-6a8a2d5c774e,机器学习,支持向量机的间隔与核方法,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-7b2ac1a05095,计算机组成原理,Cache 写直达、写回与写分配,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-7c72094d31eb,机器学习,支持向量机的间隔与核方法,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-8398ecab2f94,机器学习,Bagging 与随机森林,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-854388ca67d4,数据结构与算法,最小生成树 Prim 算法,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-8ab19499a67a,数据结构与算法,最小生成树 Prim 算法,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-98854fa7052e,计算机网络,ICMP 差错报告与 ping、traceroute,code,1,adjudication,H1,2026-08-03,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,1,2,2,False,False,False,Qwen,historical_code_or_unreplaced
+E1-T-a508776ab899,计算机网络,ICMP 差错报告与 ping、traceroute,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-b0ef761217b7,操作系统,TLB 快表命中与缺失处理,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-cea165c58788,计算机网络,ICMP 差错报告与 ping、traceroute,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-d47df633ceca,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-d668f2935979,机器学习,支持向量机的间隔与核方法,code,1,adjudication,H1,2026-08-03,Z,X,Y,X,Z,Y,1,False,2,3,0.667,True,False,high,no,2,1,1,False,False,False,Qwen,historical_code_or_unreplaced
+E1-T-d8d06364c325,操作系统,TLB 快表命中与缺失处理,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-dc8e307e2c23,数据结构与算法,哈希表冲突处理与负载因子,doc,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-deb45af8c40c,机器学习,Bagging 与随机森林,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-df92a8305854,操作系统,读者-写者问题与公平性,code,1,adjudication,H1,2026-08-03,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,historical_code_or_unreplaced
+E1-T-e627bc78fdfd,操作系统,读者-写者问题与公平性,path,1,a_b_consensus,A+B,,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,Qwen,posthoc_leakage_controlled_doc_path
+E1-T-f033681c8305,计算机组成原理,Cache 写直达、写回与写分配,code,1,adjudication,H1,2026-08-03,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,1,2,2,False,False,False,Qwen,historical_code_or_unreplaced
+E1-T-f9f0bb647e4f,操作系统,TLB 快表命中与缺失处理,code,1,adjudication,H1,2026-08-03,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,2,1,1,False,False,False,Qwen,historical_code_or_unreplaced

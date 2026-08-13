@@ -1,0 +1,631 @@
+﻿e4_condition_key,batch_id,condition_id,task_id,course_name,topic,profile_id,agent_id,repeat,provider,model,initial_status,repair_affected,final_status
+code_v2_5_retest|COA-01|P1|code|r1,code_v2_5_retest,COA-01|P1|code|r1,COA-01,计算机组成原理,Cache 映射与替换,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|COA-01|P2|code|r1,code_v2_5_retest,COA-01|P2|code|r1,COA-01,计算机组成原理,Cache 映射与替换,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|COA-01|P3|code|r1,code_v2_5_retest,COA-01|P3|code|r1,COA-01,计算机组成原理,Cache 映射与替换,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|COA-02|P1|code|r1,code_v2_5_retest,COA-02|P1|code|r1,COA-02,计算机组成原理,流水线数据冒险,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|COA-02|P2|code|r1,code_v2_5_retest,COA-02|P2|code|r1,COA-02,计算机组成原理,流水线数据冒险,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|COA-02|P3|code|r1,code_v2_5_retest,COA-02|P3|code|r1,COA-02,计算机组成原理,流水线数据冒险,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|DSA-01|P1|code|r1,code_v2_5_retest,DSA-01|P1|code|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|DSA-01|P2|code|r1,code_v2_5_retest,DSA-01|P2|code|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|DSA-01|P3|code|r1,code_v2_5_retest,DSA-01|P3|code|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|DSA-02|P1|code|r1,code_v2_5_retest,DSA-02|P1|code|r1,DSA-02,数据结构与算法,红黑树,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|DSA-02|P2|code|r1,code_v2_5_retest,DSA-02|P2|code|r1,DSA-02,数据结构与算法,红黑树,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|DSA-02|P3|code|r1,code_v2_5_retest,DSA-02|P3|code|r1,DSA-02,数据结构与算法,红黑树,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|OS-02|P1|code|r1,code_v2_5_retest,OS-02|P1|code|r1,OS-02,操作系统,虚拟内存与页表,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|OS-02|P2|code|r1,code_v2_5_retest,OS-02|P2|code|r1,OS-02,操作系统,虚拟内存与页表,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+code_v2_5_retest|OS-02|P3|code|r1,code_v2_5_retest,OS-02|P3|code|r1,OS-02,操作系统,虚拟内存与页表,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-01|P1|code|r1,doc_code_retest,COA-01|P1|code|r1,COA-01,计算机组成原理,Cache 映射与替换,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-01|P1|doc|r1,doc_code_retest,COA-01|P1|doc|r1,COA-01,计算机组成原理,Cache 映射与替换,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-01|P2|code|r1,doc_code_retest,COA-01|P2|code|r1,COA-01,计算机组成原理,Cache 映射与替换,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-01|P2|doc|r1,doc_code_retest,COA-01|P2|doc|r1,COA-01,计算机组成原理,Cache 映射与替换,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-01|P3|code|r1,doc_code_retest,COA-01|P3|code|r1,COA-01,计算机组成原理,Cache 映射与替换,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-01|P3|doc|r1,doc_code_retest,COA-01|P3|doc|r1,COA-01,计算机组成原理,Cache 映射与替换,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-02|P1|code|r1,doc_code_retest,COA-02|P1|code|r1,COA-02,计算机组成原理,流水线数据冒险,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-02|P1|doc|r1,doc_code_retest,COA-02|P1|doc|r1,COA-02,计算机组成原理,流水线数据冒险,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-02|P2|code|r1,doc_code_retest,COA-02|P2|code|r1,COA-02,计算机组成原理,流水线数据冒险,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-02|P2|doc|r1,doc_code_retest,COA-02|P2|doc|r1,COA-02,计算机组成原理,流水线数据冒险,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-02|P3|code|r1,doc_code_retest,COA-02|P3|code|r1,COA-02,计算机组成原理,流水线数据冒险,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|COA-02|P3|doc|r1,doc_code_retest,COA-02|P3|doc|r1,COA-02,计算机组成原理,流水线数据冒险,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-01|P1|code|r1,doc_code_retest,DSA-01|P1|code|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-01|P1|doc|r1,doc_code_retest,DSA-01|P1|doc|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-01|P2|code|r1,doc_code_retest,DSA-01|P2|code|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-01|P2|doc|r1,doc_code_retest,DSA-01|P2|doc|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-01|P3|code|r1,doc_code_retest,DSA-01|P3|code|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-01|P3|doc|r1,doc_code_retest,DSA-01|P3|doc|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-02|P1|code|r1,doc_code_retest,DSA-02|P1|code|r1,DSA-02,数据结构与算法,红黑树,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-02|P1|doc|r1,doc_code_retest,DSA-02|P1|doc|r1,DSA-02,数据结构与算法,红黑树,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-02|P2|code|r1,doc_code_retest,DSA-02|P2|code|r1,DSA-02,数据结构与算法,红黑树,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-02|P2|doc|r1,doc_code_retest,DSA-02|P2|doc|r1,DSA-02,数据结构与算法,红黑树,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-02|P3|code|r1,doc_code_retest,DSA-02|P3|code|r1,DSA-02,数据结构与算法,红黑树,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|DSA-02|P3|doc|r1,doc_code_retest,DSA-02|P3|doc|r1,DSA-02,数据结构与算法,红黑树,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-01|P1|code|r1,doc_code_retest,ML-01|P1|code|r1,ML-01,机器学习,梯度下降,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-01|P1|doc|r1,doc_code_retest,ML-01|P1|doc|r1,ML-01,机器学习,梯度下降,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-01|P2|code|r1,doc_code_retest,ML-01|P2|code|r1,ML-01,机器学习,梯度下降,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-01|P2|doc|r1,doc_code_retest,ML-01|P2|doc|r1,ML-01,机器学习,梯度下降,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-01|P3|code|r1,doc_code_retest,ML-01|P3|code|r1,ML-01,机器学习,梯度下降,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-01|P3|doc|r1,doc_code_retest,ML-01|P3|doc|r1,ML-01,机器学习,梯度下降,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-02|P1|code|r1,doc_code_retest,ML-02|P1|code|r1,ML-02,机器学习,决策树剪枝,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-02|P1|doc|r1,doc_code_retest,ML-02|P1|doc|r1,ML-02,机器学习,决策树剪枝,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-02|P2|code|r1,doc_code_retest,ML-02|P2|code|r1,ML-02,机器学习,决策树剪枝,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-02|P2|doc|r1,doc_code_retest,ML-02|P2|doc|r1,ML-02,机器学习,决策树剪枝,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-02|P3|code|r1,doc_code_retest,ML-02|P3|code|r1,ML-02,机器学习,决策树剪枝,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|ML-02|P3|doc|r1,doc_code_retest,ML-02|P3|doc|r1,ML-02,机器学习,决策树剪枝,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-01|P1|code|r1,doc_code_retest,NET-01|P1|code|r1,NET-01,计算机网络,TCP 三次握手,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-01|P1|doc|r1,doc_code_retest,NET-01|P1|doc|r1,NET-01,计算机网络,TCP 三次握手,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-01|P2|code|r1,doc_code_retest,NET-01|P2|code|r1,NET-01,计算机网络,TCP 三次握手,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-01|P2|doc|r1,doc_code_retest,NET-01|P2|doc|r1,NET-01,计算机网络,TCP 三次握手,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-01|P3|code|r1,doc_code_retest,NET-01|P3|code|r1,NET-01,计算机网络,TCP 三次握手,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-01|P3|doc|r1,doc_code_retest,NET-01|P3|doc|r1,NET-01,计算机网络,TCP 三次握手,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-02|P1|code|r1,doc_code_retest,NET-02|P1|code|r1,NET-02,计算机网络,拥塞控制,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-02|P1|doc|r1,doc_code_retest,NET-02|P1|doc|r1,NET-02,计算机网络,拥塞控制,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-02|P2|code|r1,doc_code_retest,NET-02|P2|code|r1,NET-02,计算机网络,拥塞控制,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-02|P2|doc|r1,doc_code_retest,NET-02|P2|doc|r1,NET-02,计算机网络,拥塞控制,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-02|P3|code|r1,doc_code_retest,NET-02|P3|code|r1,NET-02,计算机网络,拥塞控制,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|NET-02|P3|doc|r1,doc_code_retest,NET-02|P3|doc|r1,NET-02,计算机网络,拥塞控制,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-01|P1|code|r1,doc_code_retest,OS-01|P1|code|r1,OS-01,操作系统,进程调度,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-01|P1|doc|r1,doc_code_retest,OS-01|P1|doc|r1,OS-01,操作系统,进程调度,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-01|P2|code|r1,doc_code_retest,OS-01|P2|code|r1,OS-01,操作系统,进程调度,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-01|P2|doc|r1,doc_code_retest,OS-01|P2|doc|r1,OS-01,操作系统,进程调度,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-01|P3|code|r1,doc_code_retest,OS-01|P3|code|r1,OS-01,操作系统,进程调度,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-01|P3|doc|r1,doc_code_retest,OS-01|P3|doc|r1,OS-01,操作系统,进程调度,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-02|P1|code|r1,doc_code_retest,OS-02|P1|code|r1,OS-02,操作系统,虚拟内存与页表,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-02|P1|doc|r1,doc_code_retest,OS-02|P1|doc|r1,OS-02,操作系统,虚拟内存与页表,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-02|P2|code|r1,doc_code_retest,OS-02|P2|code|r1,OS-02,操作系统,虚拟内存与页表,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-02|P2|doc|r1,doc_code_retest,OS-02|P2|doc|r1,OS-02,操作系统,虚拟内存与页表,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-02|P3|code|r1,doc_code_retest,OS-02|P3|code|r1,OS-02,操作系统,虚拟内存与页表,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+doc_code_retest|OS-02|P3|doc|r1,doc_code_retest,OS-02|P3|doc|r1,OS-02,操作系统,虚拟内存与页表,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P1|code|r1,formal_phase_a_non_reading,COA-01|P1|code|r1,COA-01,计算机组成原理,Cache 映射与替换,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P1|doc|r1,formal_phase_a_non_reading,COA-01|P1|doc|r1,COA-01,计算机组成原理,Cache 映射与替换,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P1|path|r1,formal_phase_a_non_reading,COA-01|P1|path|r1,COA-01,计算机组成原理,Cache 映射与替换,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P1|quiz|r1,formal_phase_a_non_reading,COA-01|P1|quiz|r1,COA-01,计算机组成原理,Cache 映射与替换,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P2|code|r1,formal_phase_a_non_reading,COA-01|P2|code|r1,COA-01,计算机组成原理,Cache 映射与替换,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P2|doc|r1,formal_phase_a_non_reading,COA-01|P2|doc|r1,COA-01,计算机组成原理,Cache 映射与替换,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P2|path|r1,formal_phase_a_non_reading,COA-01|P2|path|r1,COA-01,计算机组成原理,Cache 映射与替换,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P2|quiz|r1,formal_phase_a_non_reading,COA-01|P2|quiz|r1,COA-01,计算机组成原理,Cache 映射与替换,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P3|code|r1,formal_phase_a_non_reading,COA-01|P3|code|r1,COA-01,计算机组成原理,Cache 映射与替换,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P3|doc|r1,formal_phase_a_non_reading,COA-01|P3|doc|r1,COA-01,计算机组成原理,Cache 映射与替换,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P3|path|r1,formal_phase_a_non_reading,COA-01|P3|path|r1,COA-01,计算机组成原理,Cache 映射与替换,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-01|P3|quiz|r1,formal_phase_a_non_reading,COA-01|P3|quiz|r1,COA-01,计算机组成原理,Cache 映射与替换,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P1|code|r1,formal_phase_a_non_reading,COA-02|P1|code|r1,COA-02,计算机组成原理,流水线数据冒险,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P1|doc|r1,formal_phase_a_non_reading,COA-02|P1|doc|r1,COA-02,计算机组成原理,流水线数据冒险,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P1|path|r1,formal_phase_a_non_reading,COA-02|P1|path|r1,COA-02,计算机组成原理,流水线数据冒险,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P1|quiz|r1,formal_phase_a_non_reading,COA-02|P1|quiz|r1,COA-02,计算机组成原理,流水线数据冒险,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P2|code|r1,formal_phase_a_non_reading,COA-02|P2|code|r1,COA-02,计算机组成原理,流水线数据冒险,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P2|doc|r1,formal_phase_a_non_reading,COA-02|P2|doc|r1,COA-02,计算机组成原理,流水线数据冒险,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P2|path|r1,formal_phase_a_non_reading,COA-02|P2|path|r1,COA-02,计算机组成原理,流水线数据冒险,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P2|quiz|r1,formal_phase_a_non_reading,COA-02|P2|quiz|r1,COA-02,计算机组成原理,流水线数据冒险,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P3|code|r1,formal_phase_a_non_reading,COA-02|P3|code|r1,COA-02,计算机组成原理,流水线数据冒险,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P3|doc|r1,formal_phase_a_non_reading,COA-02|P3|doc|r1,COA-02,计算机组成原理,流水线数据冒险,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P3|path|r1,formal_phase_a_non_reading,COA-02|P3|path|r1,COA-02,计算机组成原理,流水线数据冒险,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-02|P3|quiz|r1,formal_phase_a_non_reading,COA-02|P3|quiz|r1,COA-02,计算机组成原理,流水线数据冒险,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P1|code|r1,formal_phase_a_non_reading,COA-03|P1|code|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P1|doc|r1,formal_phase_a_non_reading,COA-03|P1|doc|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P1|path|r1,formal_phase_a_non_reading,COA-03|P1|path|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P1|quiz|r1,formal_phase_a_non_reading,COA-03|P1|quiz|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P2|code|r1,formal_phase_a_non_reading,COA-03|P2|code|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P2|doc|r1,formal_phase_a_non_reading,COA-03|P2|doc|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P2|path|r1,formal_phase_a_non_reading,COA-03|P2|path|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P2|quiz|r1,formal_phase_a_non_reading,COA-03|P2|quiz|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P3|code|r1,formal_phase_a_non_reading,COA-03|P3|code|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P3|doc|r1,formal_phase_a_non_reading,COA-03|P3|doc|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P3|path|r1,formal_phase_a_non_reading,COA-03|P3|path|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-03|P3|quiz|r1,formal_phase_a_non_reading,COA-03|P3|quiz|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P1|code|r1,formal_phase_a_non_reading,COA-04|P1|code|r1,COA-04,计算机组成原理,虚地址翻译,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P1|doc|r1,formal_phase_a_non_reading,COA-04|P1|doc|r1,COA-04,计算机组成原理,虚地址翻译,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P1|path|r1,formal_phase_a_non_reading,COA-04|P1|path|r1,COA-04,计算机组成原理,虚地址翻译,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P1|quiz|r1,formal_phase_a_non_reading,COA-04|P1|quiz|r1,COA-04,计算机组成原理,虚地址翻译,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P2|code|r1,formal_phase_a_non_reading,COA-04|P2|code|r1,COA-04,计算机组成原理,虚地址翻译,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P2|doc|r1,formal_phase_a_non_reading,COA-04|P2|doc|r1,COA-04,计算机组成原理,虚地址翻译,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P2|path|r1,formal_phase_a_non_reading,COA-04|P2|path|r1,COA-04,计算机组成原理,虚地址翻译,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P2|quiz|r1,formal_phase_a_non_reading,COA-04|P2|quiz|r1,COA-04,计算机组成原理,虚地址翻译,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P3|code|r1,formal_phase_a_non_reading,COA-04|P3|code|r1,COA-04,计算机组成原理,虚地址翻译,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P3|doc|r1,formal_phase_a_non_reading,COA-04|P3|doc|r1,COA-04,计算机组成原理,虚地址翻译,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P3|path|r1,formal_phase_a_non_reading,COA-04|P3|path|r1,COA-04,计算机组成原理,虚地址翻译,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|COA-04|P3|quiz|r1,formal_phase_a_non_reading,COA-04|P3|quiz|r1,COA-04,计算机组成原理,虚地址翻译,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P1|code|r1,formal_phase_a_non_reading,DSA-01|P1|code|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P1|doc|r1,formal_phase_a_non_reading,DSA-01|P1|doc|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P1|path|r1,formal_phase_a_non_reading,DSA-01|P1|path|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P1|quiz|r1,formal_phase_a_non_reading,DSA-01|P1|quiz|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P2|code|r1,formal_phase_a_non_reading,DSA-01|P2|code|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P2|doc|r1,formal_phase_a_non_reading,DSA-01|P2|doc|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P2|path|r1,formal_phase_a_non_reading,DSA-01|P2|path|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P2|quiz|r1,formal_phase_a_non_reading,DSA-01|P2|quiz|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P3|code|r1,formal_phase_a_non_reading,DSA-01|P3|code|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P3|doc|r1,formal_phase_a_non_reading,DSA-01|P3|doc|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P3|path|r1,formal_phase_a_non_reading,DSA-01|P3|path|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-01|P3|quiz|r1,formal_phase_a_non_reading,DSA-01|P3|quiz|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P1|code|r1,formal_phase_a_non_reading,DSA-02|P1|code|r1,DSA-02,数据结构与算法,红黑树,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P1|doc|r1,formal_phase_a_non_reading,DSA-02|P1|doc|r1,DSA-02,数据结构与算法,红黑树,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P1|path|r1,formal_phase_a_non_reading,DSA-02|P1|path|r1,DSA-02,数据结构与算法,红黑树,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P1|quiz|r1,formal_phase_a_non_reading,DSA-02|P1|quiz|r1,DSA-02,数据结构与算法,红黑树,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P2|code|r1,formal_phase_a_non_reading,DSA-02|P2|code|r1,DSA-02,数据结构与算法,红黑树,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P2|doc|r1,formal_phase_a_non_reading,DSA-02|P2|doc|r1,DSA-02,数据结构与算法,红黑树,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P2|path|r1,formal_phase_a_non_reading,DSA-02|P2|path|r1,DSA-02,数据结构与算法,红黑树,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P2|quiz|r1,formal_phase_a_non_reading,DSA-02|P2|quiz|r1,DSA-02,数据结构与算法,红黑树,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P3|code|r1,formal_phase_a_non_reading,DSA-02|P3|code|r1,DSA-02,数据结构与算法,红黑树,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P3|doc|r1,formal_phase_a_non_reading,DSA-02|P3|doc|r1,DSA-02,数据结构与算法,红黑树,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P3|path|r1,formal_phase_a_non_reading,DSA-02|P3|path|r1,DSA-02,数据结构与算法,红黑树,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-02|P3|quiz|r1,formal_phase_a_non_reading,DSA-02|P3|quiz|r1,DSA-02,数据结构与算法,红黑树,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P1|code|r1,formal_phase_a_non_reading,DSA-03|P1|code|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P1|doc|r1,formal_phase_a_non_reading,DSA-03|P1|doc|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P1|path|r1,formal_phase_a_non_reading,DSA-03|P1|path|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P1|quiz|r1,formal_phase_a_non_reading,DSA-03|P1|quiz|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P2|code|r1,formal_phase_a_non_reading,DSA-03|P2|code|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P2|doc|r1,formal_phase_a_non_reading,DSA-03|P2|doc|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P2|path|r1,formal_phase_a_non_reading,DSA-03|P2|path|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P2|quiz|r1,formal_phase_a_non_reading,DSA-03|P2|quiz|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P3|code|r1,formal_phase_a_non_reading,DSA-03|P3|code|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P3|doc|r1,formal_phase_a_non_reading,DSA-03|P3|doc|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P3|path|r1,formal_phase_a_non_reading,DSA-03|P3|path|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-03|P3|quiz|r1,formal_phase_a_non_reading,DSA-03|P3|quiz|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P1|code|r1,formal_phase_a_non_reading,DSA-04|P1|code|r1,DSA-04,数据结构与算法,拓扑排序,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P1|doc|r1,formal_phase_a_non_reading,DSA-04|P1|doc|r1,DSA-04,数据结构与算法,拓扑排序,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P1|path|r1,formal_phase_a_non_reading,DSA-04|P1|path|r1,DSA-04,数据结构与算法,拓扑排序,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P1|quiz|r1,formal_phase_a_non_reading,DSA-04|P1|quiz|r1,DSA-04,数据结构与算法,拓扑排序,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P2|code|r1,formal_phase_a_non_reading,DSA-04|P2|code|r1,DSA-04,数据结构与算法,拓扑排序,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P2|doc|r1,formal_phase_a_non_reading,DSA-04|P2|doc|r1,DSA-04,数据结构与算法,拓扑排序,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P2|path|r1,formal_phase_a_non_reading,DSA-04|P2|path|r1,DSA-04,数据结构与算法,拓扑排序,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P2|quiz|r1,formal_phase_a_non_reading,DSA-04|P2|quiz|r1,DSA-04,数据结构与算法,拓扑排序,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P3|code|r1,formal_phase_a_non_reading,DSA-04|P3|code|r1,DSA-04,数据结构与算法,拓扑排序,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P3|doc|r1,formal_phase_a_non_reading,DSA-04|P3|doc|r1,DSA-04,数据结构与算法,拓扑排序,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P3|path|r1,formal_phase_a_non_reading,DSA-04|P3|path|r1,DSA-04,数据结构与算法,拓扑排序,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|DSA-04|P3|quiz|r1,formal_phase_a_non_reading,DSA-04|P3|quiz|r1,DSA-04,数据结构与算法,拓扑排序,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P1|code|r1,formal_phase_a_non_reading,ML-01|P1|code|r1,ML-01,机器学习,梯度下降,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P1|doc|r1,formal_phase_a_non_reading,ML-01|P1|doc|r1,ML-01,机器学习,梯度下降,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P1|path|r1,formal_phase_a_non_reading,ML-01|P1|path|r1,ML-01,机器学习,梯度下降,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P1|quiz|r1,formal_phase_a_non_reading,ML-01|P1|quiz|r1,ML-01,机器学习,梯度下降,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P2|code|r1,formal_phase_a_non_reading,ML-01|P2|code|r1,ML-01,机器学习,梯度下降,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P2|doc|r1,formal_phase_a_non_reading,ML-01|P2|doc|r1,ML-01,机器学习,梯度下降,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P2|path|r1,formal_phase_a_non_reading,ML-01|P2|path|r1,ML-01,机器学习,梯度下降,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P2|quiz|r1,formal_phase_a_non_reading,ML-01|P2|quiz|r1,ML-01,机器学习,梯度下降,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P3|code|r1,formal_phase_a_non_reading,ML-01|P3|code|r1,ML-01,机器学习,梯度下降,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P3|doc|r1,formal_phase_a_non_reading,ML-01|P3|doc|r1,ML-01,机器学习,梯度下降,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P3|path|r1,formal_phase_a_non_reading,ML-01|P3|path|r1,ML-01,机器学习,梯度下降,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-01|P3|quiz|r1,formal_phase_a_non_reading,ML-01|P3|quiz|r1,ML-01,机器学习,梯度下降,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P1|code|r1,formal_phase_a_non_reading,ML-02|P1|code|r1,ML-02,机器学习,决策树剪枝,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P1|doc|r1,formal_phase_a_non_reading,ML-02|P1|doc|r1,ML-02,机器学习,决策树剪枝,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P1|path|r1,formal_phase_a_non_reading,ML-02|P1|path|r1,ML-02,机器学习,决策树剪枝,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P1|quiz|r1,formal_phase_a_non_reading,ML-02|P1|quiz|r1,ML-02,机器学习,决策树剪枝,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P2|code|r1,formal_phase_a_non_reading,ML-02|P2|code|r1,ML-02,机器学习,决策树剪枝,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P2|doc|r1,formal_phase_a_non_reading,ML-02|P2|doc|r1,ML-02,机器学习,决策树剪枝,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P2|path|r1,formal_phase_a_non_reading,ML-02|P2|path|r1,ML-02,机器学习,决策树剪枝,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P2|quiz|r1,formal_phase_a_non_reading,ML-02|P2|quiz|r1,ML-02,机器学习,决策树剪枝,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P3|code|r1,formal_phase_a_non_reading,ML-02|P3|code|r1,ML-02,机器学习,决策树剪枝,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P3|doc|r1,formal_phase_a_non_reading,ML-02|P3|doc|r1,ML-02,机器学习,决策树剪枝,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P3|path|r1,formal_phase_a_non_reading,ML-02|P3|path|r1,ML-02,机器学习,决策树剪枝,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-02|P3|quiz|r1,formal_phase_a_non_reading,ML-02|P3|quiz|r1,ML-02,机器学习,决策树剪枝,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P1|code|r1,formal_phase_a_non_reading,ML-03|P1|code|r1,ML-03,机器学习,PCA 主成分分析,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P1|doc|r1,formal_phase_a_non_reading,ML-03|P1|doc|r1,ML-03,机器学习,PCA 主成分分析,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P1|path|r1,formal_phase_a_non_reading,ML-03|P1|path|r1,ML-03,机器学习,PCA 主成分分析,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P1|quiz|r1,formal_phase_a_non_reading,ML-03|P1|quiz|r1,ML-03,机器学习,PCA 主成分分析,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P2|code|r1,formal_phase_a_non_reading,ML-03|P2|code|r1,ML-03,机器学习,PCA 主成分分析,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P2|doc|r1,formal_phase_a_non_reading,ML-03|P2|doc|r1,ML-03,机器学习,PCA 主成分分析,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P2|path|r1,formal_phase_a_non_reading,ML-03|P2|path|r1,ML-03,机器学习,PCA 主成分分析,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P2|quiz|r1,formal_phase_a_non_reading,ML-03|P2|quiz|r1,ML-03,机器学习,PCA 主成分分析,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P3|code|r1,formal_phase_a_non_reading,ML-03|P3|code|r1,ML-03,机器学习,PCA 主成分分析,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P3|doc|r1,formal_phase_a_non_reading,ML-03|P3|doc|r1,ML-03,机器学习,PCA 主成分分析,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P3|path|r1,formal_phase_a_non_reading,ML-03|P3|path|r1,ML-03,机器学习,PCA 主成分分析,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-03|P3|quiz|r1,formal_phase_a_non_reading,ML-03|P3|quiz|r1,ML-03,机器学习,PCA 主成分分析,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P1|code|r1,formal_phase_a_non_reading,ML-04|P1|code|r1,ML-04,机器学习,K-Means 聚类,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P1|doc|r1,formal_phase_a_non_reading,ML-04|P1|doc|r1,ML-04,机器学习,K-Means 聚类,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P1|path|r1,formal_phase_a_non_reading,ML-04|P1|path|r1,ML-04,机器学习,K-Means 聚类,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P1|quiz|r1,formal_phase_a_non_reading,ML-04|P1|quiz|r1,ML-04,机器学习,K-Means 聚类,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P2|code|r1,formal_phase_a_non_reading,ML-04|P2|code|r1,ML-04,机器学习,K-Means 聚类,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P2|doc|r1,formal_phase_a_non_reading,ML-04|P2|doc|r1,ML-04,机器学习,K-Means 聚类,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P2|path|r1,formal_phase_a_non_reading,ML-04|P2|path|r1,ML-04,机器学习,K-Means 聚类,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P2|quiz|r1,formal_phase_a_non_reading,ML-04|P2|quiz|r1,ML-04,机器学习,K-Means 聚类,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P3|code|r1,formal_phase_a_non_reading,ML-04|P3|code|r1,ML-04,机器学习,K-Means 聚类,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P3|doc|r1,formal_phase_a_non_reading,ML-04|P3|doc|r1,ML-04,机器学习,K-Means 聚类,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P3|path|r1,formal_phase_a_non_reading,ML-04|P3|path|r1,ML-04,机器学习,K-Means 聚类,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|ML-04|P3|quiz|r1,formal_phase_a_non_reading,ML-04|P3|quiz|r1,ML-04,机器学习,K-Means 聚类,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P1|code|r1,formal_phase_a_non_reading,NET-01|P1|code|r1,NET-01,计算机网络,TCP 三次握手,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P1|doc|r1,formal_phase_a_non_reading,NET-01|P1|doc|r1,NET-01,计算机网络,TCP 三次握手,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P1|path|r1,formal_phase_a_non_reading,NET-01|P1|path|r1,NET-01,计算机网络,TCP 三次握手,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P1|quiz|r1,formal_phase_a_non_reading,NET-01|P1|quiz|r1,NET-01,计算机网络,TCP 三次握手,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P2|code|r1,formal_phase_a_non_reading,NET-01|P2|code|r1,NET-01,计算机网络,TCP 三次握手,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P2|doc|r1,formal_phase_a_non_reading,NET-01|P2|doc|r1,NET-01,计算机网络,TCP 三次握手,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P2|path|r1,formal_phase_a_non_reading,NET-01|P2|path|r1,NET-01,计算机网络,TCP 三次握手,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P2|quiz|r1,formal_phase_a_non_reading,NET-01|P2|quiz|r1,NET-01,计算机网络,TCP 三次握手,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P3|code|r1,formal_phase_a_non_reading,NET-01|P3|code|r1,NET-01,计算机网络,TCP 三次握手,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P3|doc|r1,formal_phase_a_non_reading,NET-01|P3|doc|r1,NET-01,计算机网络,TCP 三次握手,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P3|path|r1,formal_phase_a_non_reading,NET-01|P3|path|r1,NET-01,计算机网络,TCP 三次握手,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-01|P3|quiz|r1,formal_phase_a_non_reading,NET-01|P3|quiz|r1,NET-01,计算机网络,TCP 三次握手,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P1|code|r1,formal_phase_a_non_reading,NET-02|P1|code|r1,NET-02,计算机网络,拥塞控制,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P1|doc|r1,formal_phase_a_non_reading,NET-02|P1|doc|r1,NET-02,计算机网络,拥塞控制,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P1|path|r1,formal_phase_a_non_reading,NET-02|P1|path|r1,NET-02,计算机网络,拥塞控制,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P1|quiz|r1,formal_phase_a_non_reading,NET-02|P1|quiz|r1,NET-02,计算机网络,拥塞控制,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P2|code|r1,formal_phase_a_non_reading,NET-02|P2|code|r1,NET-02,计算机网络,拥塞控制,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P2|doc|r1,formal_phase_a_non_reading,NET-02|P2|doc|r1,NET-02,计算机网络,拥塞控制,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P2|path|r1,formal_phase_a_non_reading,NET-02|P2|path|r1,NET-02,计算机网络,拥塞控制,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P2|quiz|r1,formal_phase_a_non_reading,NET-02|P2|quiz|r1,NET-02,计算机网络,拥塞控制,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P3|code|r1,formal_phase_a_non_reading,NET-02|P3|code|r1,NET-02,计算机网络,拥塞控制,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P3|doc|r1,formal_phase_a_non_reading,NET-02|P3|doc|r1,NET-02,计算机网络,拥塞控制,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P3|path|r1,formal_phase_a_non_reading,NET-02|P3|path|r1,NET-02,计算机网络,拥塞控制,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-02|P3|quiz|r1,formal_phase_a_non_reading,NET-02|P3|quiz|r1,NET-02,计算机网络,拥塞控制,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P1|code|r1,formal_phase_a_non_reading,NET-03|P1|code|r1,NET-03,计算机网络,DNS 解析过程,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P1|doc|r1,formal_phase_a_non_reading,NET-03|P1|doc|r1,NET-03,计算机网络,DNS 解析过程,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P1|path|r1,formal_phase_a_non_reading,NET-03|P1|path|r1,NET-03,计算机网络,DNS 解析过程,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P1|quiz|r1,formal_phase_a_non_reading,NET-03|P1|quiz|r1,NET-03,计算机网络,DNS 解析过程,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P2|code|r1,formal_phase_a_non_reading,NET-03|P2|code|r1,NET-03,计算机网络,DNS 解析过程,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P2|doc|r1,formal_phase_a_non_reading,NET-03|P2|doc|r1,NET-03,计算机网络,DNS 解析过程,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P2|path|r1,formal_phase_a_non_reading,NET-03|P2|path|r1,NET-03,计算机网络,DNS 解析过程,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P2|quiz|r1,formal_phase_a_non_reading,NET-03|P2|quiz|r1,NET-03,计算机网络,DNS 解析过程,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P3|code|r1,formal_phase_a_non_reading,NET-03|P3|code|r1,NET-03,计算机网络,DNS 解析过程,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P3|doc|r1,formal_phase_a_non_reading,NET-03|P3|doc|r1,NET-03,计算机网络,DNS 解析过程,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P3|path|r1,formal_phase_a_non_reading,NET-03|P3|path|r1,NET-03,计算机网络,DNS 解析过程,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-03|P3|quiz|r1,formal_phase_a_non_reading,NET-03|P3|quiz|r1,NET-03,计算机网络,DNS 解析过程,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P1|code|r1,formal_phase_a_non_reading,NET-04|P1|code|r1,NET-04,计算机网络,HTTPS 与 TLS,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P1|doc|r1,formal_phase_a_non_reading,NET-04|P1|doc|r1,NET-04,计算机网络,HTTPS 与 TLS,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P1|path|r1,formal_phase_a_non_reading,NET-04|P1|path|r1,NET-04,计算机网络,HTTPS 与 TLS,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P1|quiz|r1,formal_phase_a_non_reading,NET-04|P1|quiz|r1,NET-04,计算机网络,HTTPS 与 TLS,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P2|code|r1,formal_phase_a_non_reading,NET-04|P2|code|r1,NET-04,计算机网络,HTTPS 与 TLS,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P2|doc|r1,formal_phase_a_non_reading,NET-04|P2|doc|r1,NET-04,计算机网络,HTTPS 与 TLS,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P2|path|r1,formal_phase_a_non_reading,NET-04|P2|path|r1,NET-04,计算机网络,HTTPS 与 TLS,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P2|quiz|r1,formal_phase_a_non_reading,NET-04|P2|quiz|r1,NET-04,计算机网络,HTTPS 与 TLS,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P3|code|r1,formal_phase_a_non_reading,NET-04|P3|code|r1,NET-04,计算机网络,HTTPS 与 TLS,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P3|doc|r1,formal_phase_a_non_reading,NET-04|P3|doc|r1,NET-04,计算机网络,HTTPS 与 TLS,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P3|path|r1,formal_phase_a_non_reading,NET-04|P3|path|r1,NET-04,计算机网络,HTTPS 与 TLS,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|NET-04|P3|quiz|r1,formal_phase_a_non_reading,NET-04|P3|quiz|r1,NET-04,计算机网络,HTTPS 与 TLS,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P1|code|r1,formal_phase_a_non_reading,OS-01|P1|code|r1,OS-01,操作系统,进程调度,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P1|doc|r1,formal_phase_a_non_reading,OS-01|P1|doc|r1,OS-01,操作系统,进程调度,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P1|path|r1,formal_phase_a_non_reading,OS-01|P1|path|r1,OS-01,操作系统,进程调度,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P1|quiz|r1,formal_phase_a_non_reading,OS-01|P1|quiz|r1,OS-01,操作系统,进程调度,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P2|code|r1,formal_phase_a_non_reading,OS-01|P2|code|r1,OS-01,操作系统,进程调度,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P2|doc|r1,formal_phase_a_non_reading,OS-01|P2|doc|r1,OS-01,操作系统,进程调度,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P2|path|r1,formal_phase_a_non_reading,OS-01|P2|path|r1,OS-01,操作系统,进程调度,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P2|quiz|r1,formal_phase_a_non_reading,OS-01|P2|quiz|r1,OS-01,操作系统,进程调度,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P3|code|r1,formal_phase_a_non_reading,OS-01|P3|code|r1,OS-01,操作系统,进程调度,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P3|doc|r1,formal_phase_a_non_reading,OS-01|P3|doc|r1,OS-01,操作系统,进程调度,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P3|path|r1,formal_phase_a_non_reading,OS-01|P3|path|r1,OS-01,操作系统,进程调度,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-01|P3|quiz|r1,formal_phase_a_non_reading,OS-01|P3|quiz|r1,OS-01,操作系统,进程调度,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P1|code|r1,formal_phase_a_non_reading,OS-02|P1|code|r1,OS-02,操作系统,虚拟内存与页表,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P1|doc|r1,formal_phase_a_non_reading,OS-02|P1|doc|r1,OS-02,操作系统,虚拟内存与页表,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P1|path|r1,formal_phase_a_non_reading,OS-02|P1|path|r1,OS-02,操作系统,虚拟内存与页表,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P1|quiz|r1,formal_phase_a_non_reading,OS-02|P1|quiz|r1,OS-02,操作系统,虚拟内存与页表,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P2|code|r1,formal_phase_a_non_reading,OS-02|P2|code|r1,OS-02,操作系统,虚拟内存与页表,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P2|doc|r1,formal_phase_a_non_reading,OS-02|P2|doc|r1,OS-02,操作系统,虚拟内存与页表,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P2|path|r1,formal_phase_a_non_reading,OS-02|P2|path|r1,OS-02,操作系统,虚拟内存与页表,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P2|quiz|r1,formal_phase_a_non_reading,OS-02|P2|quiz|r1,OS-02,操作系统,虚拟内存与页表,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P3|code|r1,formal_phase_a_non_reading,OS-02|P3|code|r1,OS-02,操作系统,虚拟内存与页表,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P3|doc|r1,formal_phase_a_non_reading,OS-02|P3|doc|r1,OS-02,操作系统,虚拟内存与页表,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P3|path|r1,formal_phase_a_non_reading,OS-02|P3|path|r1,OS-02,操作系统,虚拟内存与页表,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-02|P3|quiz|r1,formal_phase_a_non_reading,OS-02|P3|quiz|r1,OS-02,操作系统,虚拟内存与页表,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P1|code|r1,formal_phase_a_non_reading,OS-03|P1|code|r1,OS-03,操作系统,信号量与互斥锁,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P1|doc|r1,formal_phase_a_non_reading,OS-03|P1|doc|r1,OS-03,操作系统,信号量与互斥锁,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P1|path|r1,formal_phase_a_non_reading,OS-03|P1|path|r1,OS-03,操作系统,信号量与互斥锁,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P1|quiz|r1,formal_phase_a_non_reading,OS-03|P1|quiz|r1,OS-03,操作系统,信号量与互斥锁,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P2|code|r1,formal_phase_a_non_reading,OS-03|P2|code|r1,OS-03,操作系统,信号量与互斥锁,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P2|doc|r1,formal_phase_a_non_reading,OS-03|P2|doc|r1,OS-03,操作系统,信号量与互斥锁,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P2|path|r1,formal_phase_a_non_reading,OS-03|P2|path|r1,OS-03,操作系统,信号量与互斥锁,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P2|quiz|r1,formal_phase_a_non_reading,OS-03|P2|quiz|r1,OS-03,操作系统,信号量与互斥锁,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P3|code|r1,formal_phase_a_non_reading,OS-03|P3|code|r1,OS-03,操作系统,信号量与互斥锁,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P3|doc|r1,formal_phase_a_non_reading,OS-03|P3|doc|r1,OS-03,操作系统,信号量与互斥锁,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P3|path|r1,formal_phase_a_non_reading,OS-03|P3|path|r1,OS-03,操作系统,信号量与互斥锁,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-03|P3|quiz|r1,formal_phase_a_non_reading,OS-03|P3|quiz|r1,OS-03,操作系统,信号量与互斥锁,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P1|code|r1,formal_phase_a_non_reading,OS-04|P1|code|r1,OS-04,操作系统,死锁四条件,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P1|doc|r1,formal_phase_a_non_reading,OS-04|P1|doc|r1,OS-04,操作系统,死锁四条件,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P1|path|r1,formal_phase_a_non_reading,OS-04|P1|path|r1,OS-04,操作系统,死锁四条件,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P1|quiz|r1,formal_phase_a_non_reading,OS-04|P1|quiz|r1,OS-04,操作系统,死锁四条件,P1,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P2|code|r1,formal_phase_a_non_reading,OS-04|P2|code|r1,OS-04,操作系统,死锁四条件,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P2|doc|r1,formal_phase_a_non_reading,OS-04|P2|doc|r1,OS-04,操作系统,死锁四条件,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P2|path|r1,formal_phase_a_non_reading,OS-04|P2|path|r1,OS-04,操作系统,死锁四条件,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P2|quiz|r1,formal_phase_a_non_reading,OS-04|P2|quiz|r1,OS-04,操作系统,死锁四条件,P2,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P3|code|r1,formal_phase_a_non_reading,OS-04|P3|code|r1,OS-04,操作系统,死锁四条件,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P3|doc|r1,formal_phase_a_non_reading,OS-04|P3|doc|r1,OS-04,操作系统,死锁四条件,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P3|path|r1,formal_phase_a_non_reading,OS-04|P3|path|r1,OS-04,操作系统,死锁四条件,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_non_reading|OS-04|P3|quiz|r1,formal_phase_a_non_reading,OS-04|P3|quiz|r1,OS-04,操作系统,死锁四条件,P3,quiz,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-01|P1|reading|r1,formal_phase_a_reading,COA-01|P1|reading|r1,COA-01,计算机组成原理,Cache 映射与替换,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-01|P2|reading|r1,formal_phase_a_reading,COA-01|P2|reading|r1,COA-01,计算机组成原理,Cache 映射与替换,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-01|P3|reading|r1,formal_phase_a_reading,COA-01|P3|reading|r1,COA-01,计算机组成原理,Cache 映射与替换,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-02|P1|reading|r1,formal_phase_a_reading,COA-02|P1|reading|r1,COA-02,计算机组成原理,流水线数据冒险,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-02|P2|reading|r1,formal_phase_a_reading,COA-02|P2|reading|r1,COA-02,计算机组成原理,流水线数据冒险,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-02|P3|reading|r1,formal_phase_a_reading,COA-02|P3|reading|r1,COA-02,计算机组成原理,流水线数据冒险,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-03|P1|reading|r1,formal_phase_a_reading,COA-03|P1|reading|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-03|P2|reading|r1,formal_phase_a_reading,COA-03|P2|reading|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-03|P3|reading|r1,formal_phase_a_reading,COA-03|P3|reading|r1,COA-03,计算机组成原理,IEEE 754 浮点数,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-04|P1|reading|r1,formal_phase_a_reading,COA-04|P1|reading|r1,COA-04,计算机组成原理,虚地址翻译,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-04|P2|reading|r1,formal_phase_a_reading,COA-04|P2|reading|r1,COA-04,计算机组成原理,虚地址翻译,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|COA-04|P3|reading|r1,formal_phase_a_reading,COA-04|P3|reading|r1,COA-04,计算机组成原理,虚地址翻译,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-01|P1|reading|r1,formal_phase_a_reading,DSA-01|P1|reading|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-01|P2|reading|r1,formal_phase_a_reading,DSA-01|P2|reading|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-01|P3|reading|r1,formal_phase_a_reading,DSA-01|P3|reading|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-02|P1|reading|r1,formal_phase_a_reading,DSA-02|P1|reading|r1,DSA-02,数据结构与算法,红黑树,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-02|P2|reading|r1,formal_phase_a_reading,DSA-02|P2|reading|r1,DSA-02,数据结构与算法,红黑树,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-02|P3|reading|r1,formal_phase_a_reading,DSA-02|P3|reading|r1,DSA-02,数据结构与算法,红黑树,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-03|P1|reading|r1,formal_phase_a_reading,DSA-03|P1|reading|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-03|P2|reading|r1,formal_phase_a_reading,DSA-03|P2|reading|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-03|P3|reading|r1,formal_phase_a_reading,DSA-03|P3|reading|r1,DSA-03,数据结构与算法,KMP 字符串匹配,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-04|P1|reading|r1,formal_phase_a_reading,DSA-04|P1|reading|r1,DSA-04,数据结构与算法,拓扑排序,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-04|P2|reading|r1,formal_phase_a_reading,DSA-04|P2|reading|r1,DSA-04,数据结构与算法,拓扑排序,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|DSA-04|P3|reading|r1,formal_phase_a_reading,DSA-04|P3|reading|r1,DSA-04,数据结构与算法,拓扑排序,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-01|P1|reading|r1,formal_phase_a_reading,ML-01|P1|reading|r1,ML-01,机器学习,梯度下降,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-01|P2|reading|r1,formal_phase_a_reading,ML-01|P2|reading|r1,ML-01,机器学习,梯度下降,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-01|P3|reading|r1,formal_phase_a_reading,ML-01|P3|reading|r1,ML-01,机器学习,梯度下降,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-02|P1|reading|r1,formal_phase_a_reading,ML-02|P1|reading|r1,ML-02,机器学习,决策树剪枝,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-02|P2|reading|r1,formal_phase_a_reading,ML-02|P2|reading|r1,ML-02,机器学习,决策树剪枝,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-02|P3|reading|r1,formal_phase_a_reading,ML-02|P3|reading|r1,ML-02,机器学习,决策树剪枝,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-03|P1|reading|r1,formal_phase_a_reading,ML-03|P1|reading|r1,ML-03,机器学习,PCA 主成分分析,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-03|P2|reading|r1,formal_phase_a_reading,ML-03|P2|reading|r1,ML-03,机器学习,PCA 主成分分析,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-03|P3|reading|r1,formal_phase_a_reading,ML-03|P3|reading|r1,ML-03,机器学习,PCA 主成分分析,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-04|P1|reading|r1,formal_phase_a_reading,ML-04|P1|reading|r1,ML-04,机器学习,K-Means 聚类,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-04|P2|reading|r1,formal_phase_a_reading,ML-04|P2|reading|r1,ML-04,机器学习,K-Means 聚类,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|ML-04|P3|reading|r1,formal_phase_a_reading,ML-04|P3|reading|r1,ML-04,机器学习,K-Means 聚类,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-01|P1|reading|r1,formal_phase_a_reading,NET-01|P1|reading|r1,NET-01,计算机网络,TCP 三次握手,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-01|P2|reading|r1,formal_phase_a_reading,NET-01|P2|reading|r1,NET-01,计算机网络,TCP 三次握手,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-01|P3|reading|r1,formal_phase_a_reading,NET-01|P3|reading|r1,NET-01,计算机网络,TCP 三次握手,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-02|P1|reading|r1,formal_phase_a_reading,NET-02|P1|reading|r1,NET-02,计算机网络,拥塞控制,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-02|P2|reading|r1,formal_phase_a_reading,NET-02|P2|reading|r1,NET-02,计算机网络,拥塞控制,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-02|P3|reading|r1,formal_phase_a_reading,NET-02|P3|reading|r1,NET-02,计算机网络,拥塞控制,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-03|P1|reading|r1,formal_phase_a_reading,NET-03|P1|reading|r1,NET-03,计算机网络,DNS 解析过程,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-03|P2|reading|r1,formal_phase_a_reading,NET-03|P2|reading|r1,NET-03,计算机网络,DNS 解析过程,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-03|P3|reading|r1,formal_phase_a_reading,NET-03|P3|reading|r1,NET-03,计算机网络,DNS 解析过程,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-04|P1|reading|r1,formal_phase_a_reading,NET-04|P1|reading|r1,NET-04,计算机网络,HTTPS 与 TLS,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-04|P2|reading|r1,formal_phase_a_reading,NET-04|P2|reading|r1,NET-04,计算机网络,HTTPS 与 TLS,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|NET-04|P3|reading|r1,formal_phase_a_reading,NET-04|P3|reading|r1,NET-04,计算机网络,HTTPS 与 TLS,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-01|P1|reading|r1,formal_phase_a_reading,OS-01|P1|reading|r1,OS-01,操作系统,进程调度,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-01|P2|reading|r1,formal_phase_a_reading,OS-01|P2|reading|r1,OS-01,操作系统,进程调度,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-01|P3|reading|r1,formal_phase_a_reading,OS-01|P3|reading|r1,OS-01,操作系统,进程调度,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-02|P1|reading|r1,formal_phase_a_reading,OS-02|P1|reading|r1,OS-02,操作系统,虚拟内存与页表,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-02|P2|reading|r1,formal_phase_a_reading,OS-02|P2|reading|r1,OS-02,操作系统,虚拟内存与页表,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-02|P3|reading|r1,formal_phase_a_reading,OS-02|P3|reading|r1,OS-02,操作系统,虚拟内存与页表,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-03|P1|reading|r1,formal_phase_a_reading,OS-03|P1|reading|r1,OS-03,操作系统,信号量与互斥锁,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-03|P2|reading|r1,formal_phase_a_reading,OS-03|P2|reading|r1,OS-03,操作系统,信号量与互斥锁,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-03|P3|reading|r1,formal_phase_a_reading,OS-03|P3|reading|r1,OS-03,操作系统,信号量与互斥锁,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-04|P1|reading|r1,formal_phase_a_reading,OS-04|P1|reading|r1,OS-04,操作系统,死锁四条件,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-04|P2|reading|r1,formal_phase_a_reading,OS-04|P2|reading|r1,OS-04,操作系统,死锁四条件,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+formal_phase_a_reading|OS-04|P3|reading|r1,formal_phase_a_reading,OS-04|P3|reading|r1,OS-04,操作系统,死锁四条件,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|COA-01|P1|path|r1,path_v2_retest,COA-01|P1|path|r1,COA-01,计算机组成原理,Cache 映射与替换,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|COA-01|P2|path|r1,path_v2_retest,COA-01|P2|path|r1,COA-01,计算机组成原理,Cache 映射与替换,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|COA-01|P3|path|r1,path_v2_retest,COA-01|P3|path|r1,COA-01,计算机组成原理,Cache 映射与替换,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|COA-04|P1|path|r1,path_v2_retest,COA-04|P1|path|r1,COA-04,计算机组成原理,虚地址翻译,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|COA-04|P2|path|r1,path_v2_retest,COA-04|P2|path|r1,COA-04,计算机组成原理,虚地址翻译,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|COA-04|P3|path|r1,path_v2_retest,COA-04|P3|path|r1,COA-04,计算机组成原理,虚地址翻译,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|DSA-01|P1|path|r1,path_v2_retest,DSA-01|P1|path|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|DSA-01|P2|path|r1,path_v2_retest,DSA-01|P2|path|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|DSA-01|P3|path|r1,path_v2_retest,DSA-01|P3|path|r1,DSA-01,数据结构与算法,Dijkstra 最短路径,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|DSA-04|P1|path|r1,path_v2_retest,DSA-04|P1|path|r1,DSA-04,数据结构与算法,拓扑排序,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|DSA-04|P2|path|r1,path_v2_retest,DSA-04|P2|path|r1,DSA-04,数据结构与算法,拓扑排序,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|DSA-04|P3|path|r1,path_v2_retest,DSA-04|P3|path|r1,DSA-04,数据结构与算法,拓扑排序,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|ML-01|P1|path|r1,path_v2_retest,ML-01|P1|path|r1,ML-01,机器学习,梯度下降,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|ML-01|P2|path|r1,path_v2_retest,ML-01|P2|path|r1,ML-01,机器学习,梯度下降,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|ML-01|P3|path|r1,path_v2_retest,ML-01|P3|path|r1,ML-01,机器学习,梯度下降,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|ML-03|P1|path|r1,path_v2_retest,ML-03|P1|path|r1,ML-03,机器学习,PCA 主成分分析,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|ML-03|P2|path|r1,path_v2_retest,ML-03|P2|path|r1,ML-03,机器学习,PCA 主成分分析,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|ML-03|P3|path|r1,path_v2_retest,ML-03|P3|path|r1,ML-03,机器学习,PCA 主成分分析,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|NET-01|P1|path|r1,path_v2_retest,NET-01|P1|path|r1,NET-01,计算机网络,TCP 三次握手,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|NET-01|P2|path|r1,path_v2_retest,NET-01|P2|path|r1,NET-01,计算机网络,TCP 三次握手,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|NET-01|P3|path|r1,path_v2_retest,NET-01|P3|path|r1,NET-01,计算机网络,TCP 三次握手,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|NET-04|P1|path|r1,path_v2_retest,NET-04|P1|path|r1,NET-04,计算机网络,HTTPS 与 TLS,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|NET-04|P2|path|r1,path_v2_retest,NET-04|P2|path|r1,NET-04,计算机网络,HTTPS 与 TLS,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|NET-04|P3|path|r1,path_v2_retest,NET-04|P3|path|r1,NET-04,计算机网络,HTTPS 与 TLS,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|OS-01|P1|path|r1,path_v2_retest,OS-01|P1|path|r1,OS-01,操作系统,进程调度,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|OS-01|P2|path|r1,path_v2_retest,OS-01|P2|path|r1,OS-01,操作系统,进程调度,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|OS-01|P3|path|r1,path_v2_retest,OS-01|P3|path|r1,OS-01,操作系统,进程调度,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|OS-03|P1|path|r1,path_v2_retest,OS-03|P1|path|r1,OS-03,操作系统,信号量与互斥锁,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|OS-03|P2|path|r1,path_v2_retest,OS-03|P2|path|r1,OS-03,操作系统,信号量与互斥锁,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+path_v2_retest|OS-03|P3|path|r1,path_v2_retest,OS-03|P3|path|r1,OS-03,操作系统,信号量与互斥锁,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-COA-01|P1|reading|r1,reading_v2_holdout,HOLD-R2-COA-01|P1|reading|r1,HOLD-R2-COA-01,计算机组成原理,分支预测与控制冒险,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-COA-01|P2|reading|r1,reading_v2_holdout,HOLD-R2-COA-01|P2|reading|r1,HOLD-R2-COA-01,计算机组成原理,分支预测与控制冒险,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-COA-01|P3|reading|r1,reading_v2_holdout,HOLD-R2-COA-01|P3|reading|r1,HOLD-R2-COA-01,计算机组成原理,分支预测与控制冒险,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-DSA-01|P1|reading|r1,reading_v2_holdout,HOLD-R2-DSA-01|P1|reading|r1,HOLD-R2-DSA-01,数据结构与算法,并查集的路径压缩与按秩合并,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-DSA-01|P2|reading|r1,reading_v2_holdout,HOLD-R2-DSA-01|P2|reading|r1,HOLD-R2-DSA-01,数据结构与算法,并查集的路径压缩与按秩合并,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-DSA-01|P3|reading|r1,reading_v2_holdout,HOLD-R2-DSA-01|P3|reading|r1,HOLD-R2-DSA-01,数据结构与算法,并查集的路径压缩与按秩合并,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-ML-01|P1|reading|r1,reading_v2_holdout,HOLD-R2-ML-01|P1|reading|r1,HOLD-R2-ML-01,机器学习,K近邻算法与距离度量,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-ML-01|P2|reading|r1,reading_v2_holdout,HOLD-R2-ML-01|P2|reading|r1,HOLD-R2-ML-01,机器学习,K近邻算法与距离度量,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-ML-01|P3|reading|r1,reading_v2_holdout,HOLD-R2-ML-01|P3|reading|r1,HOLD-R2-ML-01,机器学习,K近邻算法与距离度量,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-NET-01|P1|reading|r1,reading_v2_holdout,HOLD-R2-NET-01|P1|reading|r1,HOLD-R2-NET-01,计算机网络,HTTP/2 多路复用与队头阻塞,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-NET-01|P2|reading|r1,reading_v2_holdout,HOLD-R2-NET-01|P2|reading|r1,HOLD-R2-NET-01,计算机网络,HTTP/2 多路复用与队头阻塞,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-NET-01|P3|reading|r1,reading_v2_holdout,HOLD-R2-NET-01|P3|reading|r1,HOLD-R2-NET-01,计算机网络,HTTP/2 多路复用与队头阻塞,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-OS-01|P1|reading|r1,reading_v2_holdout,HOLD-R2-OS-01|P1|reading|r1,HOLD-R2-OS-01,操作系统,文件系统 inode 与数据块分配,P1,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-OS-01|P2|reading|r1,reading_v2_holdout,HOLD-R2-OS-01|P2|reading|r1,HOLD-R2-OS-01,操作系统,文件系统 inode 与数据块分配,P2,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+reading_v2_holdout|HOLD-R2-OS-01|P3|reading|r1,reading_v2_holdout,HOLD-R2-OS-01|P3|reading|r1,HOLD-R2-OS-01,操作系统,文件系统 inode 与数据块分配,P3,reading,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-COA-01|P0|code|r1,unseen_deepseek_default_contract,SUPP-COA-01|P0|code|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P0,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_default_contract|SUPP-COA-01|P0|doc|r1,unseen_deepseek_default_contract,SUPP-COA-01|P0|doc|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-COA-01|P0|path|r1,unseen_deepseek_default_contract,SUPP-COA-01|P0|path|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-COA-02|P0|code|r1,unseen_deepseek_default_contract,SUPP-COA-02|P0|code|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P0,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-COA-02|P0|doc|r1,unseen_deepseek_default_contract,SUPP-COA-02|P0|doc|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-COA-02|P0|path|r1,unseen_deepseek_default_contract,SUPP-COA-02|P0|path|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-DSA-01|P0|code|r1,unseen_deepseek_default_contract,SUPP-DSA-01|P0|code|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P0,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_default_contract|SUPP-DSA-01|P0|doc|r1,unseen_deepseek_default_contract,SUPP-DSA-01|P0|doc|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-DSA-01|P0|path|r1,unseen_deepseek_default_contract,SUPP-DSA-01|P0|path|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-DSA-02|P0|code|r1,unseen_deepseek_default_contract,SUPP-DSA-02|P0|code|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P0,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-DSA-02|P0|doc|r1,unseen_deepseek_default_contract,SUPP-DSA-02|P0|doc|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-DSA-02|P0|path|r1,unseen_deepseek_default_contract,SUPP-DSA-02|P0|path|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-ML-01|P0|code|r1,unseen_deepseek_default_contract,SUPP-ML-01|P0|code|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P0,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-ML-01|P0|doc|r1,unseen_deepseek_default_contract,SUPP-ML-01|P0|doc|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-ML-01|P0|path|r1,unseen_deepseek_default_contract,SUPP-ML-01|P0|path|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-ML-02|P0|code|r1,unseen_deepseek_default_contract,SUPP-ML-02|P0|code|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P0,code,1,deepseek,deepseek-v4-pro,ok,true,ok
+unseen_deepseek_default_contract|SUPP-ML-02|P0|doc|r1,unseen_deepseek_default_contract,SUPP-ML-02|P0|doc|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-ML-02|P0|path|r1,unseen_deepseek_default_contract,SUPP-ML-02|P0|path|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-NET-01|P0|code|r1,unseen_deepseek_default_contract,SUPP-NET-01|P0|code|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P0,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_default_contract|SUPP-NET-01|P0|doc|r1,unseen_deepseek_default_contract,SUPP-NET-01|P0|doc|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-NET-01|P0|path|r1,unseen_deepseek_default_contract,SUPP-NET-01|P0|path|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-NET-02|P0|code|r1,unseen_deepseek_default_contract,SUPP-NET-02|P0|code|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P0,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_default_contract|SUPP-NET-02|P0|doc|r1,unseen_deepseek_default_contract,SUPP-NET-02|P0|doc|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-NET-02|P0|path|r1,unseen_deepseek_default_contract,SUPP-NET-02|P0|path|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-OS-01|P0|code|r1,unseen_deepseek_default_contract,SUPP-OS-01|P0|code|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P0,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_default_contract|SUPP-OS-01|P0|doc|r1,unseen_deepseek_default_contract,SUPP-OS-01|P0|doc|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-OS-01|P0|path|r1,unseen_deepseek_default_contract,SUPP-OS-01|P0|path|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-OS-02|P0|code|r1,unseen_deepseek_default_contract,SUPP-OS-02|P0|code|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P0,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-OS-02|P0|doc|r1,unseen_deepseek_default_contract,SUPP-OS-02|P0|doc|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P0,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_default_contract|SUPP-OS-02|P0|path|r1,unseen_deepseek_default_contract,SUPP-OS-02|P0|path|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P0,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-01|P1|code|r1,unseen_deepseek_profiled,SUPP-COA-01|P1|code|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P1,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-COA-01|P1|doc|r1,unseen_deepseek_profiled,SUPP-COA-01|P1|doc|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-01|P1|path|r1,unseen_deepseek_profiled,SUPP-COA-01|P1|path|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-01|P2|code|r1,unseen_deepseek_profiled,SUPP-COA-01|P2|code|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P2,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-COA-01|P2|doc|r1,unseen_deepseek_profiled,SUPP-COA-01|P2|doc|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-01|P2|path|r1,unseen_deepseek_profiled,SUPP-COA-01|P2|path|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-01|P3|code|r1,unseen_deepseek_profiled,SUPP-COA-01|P3|code|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P3,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-COA-01|P3|doc|r1,unseen_deepseek_profiled,SUPP-COA-01|P3|doc|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-01|P3|path|r1,unseen_deepseek_profiled,SUPP-COA-01|P3|path|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-02|P1|code|r1,unseen_deepseek_profiled,SUPP-COA-02|P1|code|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-02|P1|doc|r1,unseen_deepseek_profiled,SUPP-COA-02|P1|doc|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-02|P1|path|r1,unseen_deepseek_profiled,SUPP-COA-02|P1|path|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-02|P2|code|r1,unseen_deepseek_profiled,SUPP-COA-02|P2|code|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-02|P2|doc|r1,unseen_deepseek_profiled,SUPP-COA-02|P2|doc|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-02|P2|path|r1,unseen_deepseek_profiled,SUPP-COA-02|P2|path|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-02|P3|code|r1,unseen_deepseek_profiled,SUPP-COA-02|P3|code|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-02|P3|doc|r1,unseen_deepseek_profiled,SUPP-COA-02|P3|doc|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-COA-02|P3|path|r1,unseen_deepseek_profiled,SUPP-COA-02|P3|path|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-01|P1|code|r1,unseen_deepseek_profiled,SUPP-DSA-01|P1|code|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P1,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-DSA-01|P1|doc|r1,unseen_deepseek_profiled,SUPP-DSA-01|P1|doc|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-01|P1|path|r1,unseen_deepseek_profiled,SUPP-DSA-01|P1|path|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-01|P2|code|r1,unseen_deepseek_profiled,SUPP-DSA-01|P2|code|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P2,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-DSA-01|P2|doc|r1,unseen_deepseek_profiled,SUPP-DSA-01|P2|doc|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-01|P2|path|r1,unseen_deepseek_profiled,SUPP-DSA-01|P2|path|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-01|P3|code|r1,unseen_deepseek_profiled,SUPP-DSA-01|P3|code|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P3,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-DSA-01|P3|doc|r1,unseen_deepseek_profiled,SUPP-DSA-01|P3|doc|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-01|P3|path|r1,unseen_deepseek_profiled,SUPP-DSA-01|P3|path|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-02|P1|code|r1,unseen_deepseek_profiled,SUPP-DSA-02|P1|code|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-02|P1|doc|r1,unseen_deepseek_profiled,SUPP-DSA-02|P1|doc|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-02|P1|path|r1,unseen_deepseek_profiled,SUPP-DSA-02|P1|path|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-02|P2|code|r1,unseen_deepseek_profiled,SUPP-DSA-02|P2|code|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-02|P2|doc|r1,unseen_deepseek_profiled,SUPP-DSA-02|P2|doc|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-02|P2|path|r1,unseen_deepseek_profiled,SUPP-DSA-02|P2|path|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-02|P3|code|r1,unseen_deepseek_profiled,SUPP-DSA-02|P3|code|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P3,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-02|P3|doc|r1,unseen_deepseek_profiled,SUPP-DSA-02|P3|doc|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-DSA-02|P3|path|r1,unseen_deepseek_profiled,SUPP-DSA-02|P3|path|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-01|P1|code|r1,unseen_deepseek_profiled,SUPP-ML-01|P1|code|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-01|P1|doc|r1,unseen_deepseek_profiled,SUPP-ML-01|P1|doc|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-01|P1|path|r1,unseen_deepseek_profiled,SUPP-ML-01|P1|path|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-01|P2|code|r1,unseen_deepseek_profiled,SUPP-ML-01|P2|code|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-01|P2|doc|r1,unseen_deepseek_profiled,SUPP-ML-01|P2|doc|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-01|P2|path|r1,unseen_deepseek_profiled,SUPP-ML-01|P2|path|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-01|P3|code|r1,unseen_deepseek_profiled,SUPP-ML-01|P3|code|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P3,code,1,deepseek,deepseek-v4-pro,ok,true,ok
+unseen_deepseek_profiled|SUPP-ML-01|P3|doc|r1,unseen_deepseek_profiled,SUPP-ML-01|P3|doc|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-01|P3|path|r1,unseen_deepseek_profiled,SUPP-ML-01|P3|path|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-02|P1|code|r1,unseen_deepseek_profiled,SUPP-ML-02|P1|code|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-02|P1|doc|r1,unseen_deepseek_profiled,SUPP-ML-02|P1|doc|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-02|P1|path|r1,unseen_deepseek_profiled,SUPP-ML-02|P1|path|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-02|P2|code|r1,unseen_deepseek_profiled,SUPP-ML-02|P2|code|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P2,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-02|P2|doc|r1,unseen_deepseek_profiled,SUPP-ML-02|P2|doc|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-02|P2|path|r1,unseen_deepseek_profiled,SUPP-ML-02|P2|path|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-02|P3|code|r1,unseen_deepseek_profiled,SUPP-ML-02|P3|code|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P3,code,1,deepseek,deepseek-v4-pro,ok,true,ok
+unseen_deepseek_profiled|SUPP-ML-02|P3|doc|r1,unseen_deepseek_profiled,SUPP-ML-02|P3|doc|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-ML-02|P3|path|r1,unseen_deepseek_profiled,SUPP-ML-02|P3|path|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-01|P1|code|r1,unseen_deepseek_profiled,SUPP-NET-01|P1|code|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P1,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-NET-01|P1|doc|r1,unseen_deepseek_profiled,SUPP-NET-01|P1|doc|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-01|P1|path|r1,unseen_deepseek_profiled,SUPP-NET-01|P1|path|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-01|P2|code|r1,unseen_deepseek_profiled,SUPP-NET-01|P2|code|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P2,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-NET-01|P2|doc|r1,unseen_deepseek_profiled,SUPP-NET-01|P2|doc|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-01|P2|path|r1,unseen_deepseek_profiled,SUPP-NET-01|P2|path|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-01|P3|code|r1,unseen_deepseek_profiled,SUPP-NET-01|P3|code|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P3,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-NET-01|P3|doc|r1,unseen_deepseek_profiled,SUPP-NET-01|P3|doc|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-01|P3|path|r1,unseen_deepseek_profiled,SUPP-NET-01|P3|path|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-02|P1|code|r1,unseen_deepseek_profiled,SUPP-NET-02|P1|code|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P1,code,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-02|P1|doc|r1,unseen_deepseek_profiled,SUPP-NET-02|P1|doc|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-02|P1|path|r1,unseen_deepseek_profiled,SUPP-NET-02|P1|path|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-02|P2|code|r1,unseen_deepseek_profiled,SUPP-NET-02|P2|code|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P2,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-NET-02|P2|doc|r1,unseen_deepseek_profiled,SUPP-NET-02|P2|doc|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-02|P2|path|r1,unseen_deepseek_profiled,SUPP-NET-02|P2|path|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-02|P3|code|r1,unseen_deepseek_profiled,SUPP-NET-02|P3|code|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P3,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-NET-02|P3|doc|r1,unseen_deepseek_profiled,SUPP-NET-02|P3|doc|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-NET-02|P3|path|r1,unseen_deepseek_profiled,SUPP-NET-02|P3|path|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-01|P1|code|r1,unseen_deepseek_profiled,SUPP-OS-01|P1|code|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P1,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-OS-01|P1|doc|r1,unseen_deepseek_profiled,SUPP-OS-01|P1|doc|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-01|P1|path|r1,unseen_deepseek_profiled,SUPP-OS-01|P1|path|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-01|P2|code|r1,unseen_deepseek_profiled,SUPP-OS-01|P2|code|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P2,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-OS-01|P2|doc|r1,unseen_deepseek_profiled,SUPP-OS-01|P2|doc|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-01|P2|path|r1,unseen_deepseek_profiled,SUPP-OS-01|P2|path|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-01|P3|code|r1,unseen_deepseek_profiled,SUPP-OS-01|P3|code|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P3,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-OS-01|P3|doc|r1,unseen_deepseek_profiled,SUPP-OS-01|P3|doc|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-01|P3|path|r1,unseen_deepseek_profiled,SUPP-OS-01|P3|path|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-02|P1|code|r1,unseen_deepseek_profiled,SUPP-OS-02|P1|code|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P1,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-OS-02|P1|doc|r1,unseen_deepseek_profiled,SUPP-OS-02|P1|doc|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P1,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-02|P1|path|r1,unseen_deepseek_profiled,SUPP-OS-02|P1|path|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P1,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-02|P2|code|r1,unseen_deepseek_profiled,SUPP-OS-02|P2|code|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P2,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-OS-02|P2|doc|r1,unseen_deepseek_profiled,SUPP-OS-02|P2|doc|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P2,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-02|P2|path|r1,unseen_deepseek_profiled,SUPP-OS-02|P2|path|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P2,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-02|P3|code|r1,unseen_deepseek_profiled,SUPP-OS-02|P3|code|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P3,code,1,deepseek,deepseek-v4-pro,failed_or_missing,true,ok
+unseen_deepseek_profiled|SUPP-OS-02|P3|doc|r1,unseen_deepseek_profiled,SUPP-OS-02|P3|doc|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P3,doc,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_deepseek_profiled|SUPP-OS-02|P3|path|r1,unseen_deepseek_profiled,SUPP-OS-02|P3|path|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P3,path,1,deepseek,deepseek-v4-pro,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-01|P1|code|r1,unseen_qwen_profiled,SUPP-COA-01|P1|code|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P1,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-01|P1|doc|r1,unseen_qwen_profiled,SUPP-COA-01|P1|doc|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-01|P1|path|r1,unseen_qwen_profiled,SUPP-COA-01|P1|path|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-01|P2|code|r1,unseen_qwen_profiled,SUPP-COA-01|P2|code|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P2,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-01|P2|doc|r1,unseen_qwen_profiled,SUPP-COA-01|P2|doc|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-01|P2|path|r1,unseen_qwen_profiled,SUPP-COA-01|P2|path|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-01|P3|code|r1,unseen_qwen_profiled,SUPP-COA-01|P3|code|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P3,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-01|P3|doc|r1,unseen_qwen_profiled,SUPP-COA-01|P3|doc|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-01|P3|path|r1,unseen_qwen_profiled,SUPP-COA-01|P3|path|r1,SUPP-COA-01,计算机组成原理,Cache 写直达、写回与写分配,P3,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-02|P1|code|r1,unseen_qwen_profiled,SUPP-COA-02|P1|code|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P1,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-02|P1|doc|r1,unseen_qwen_profiled,SUPP-COA-02|P1|doc|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-02|P1|path|r1,unseen_qwen_profiled,SUPP-COA-02|P1|path|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-02|P2|code|r1,unseen_qwen_profiled,SUPP-COA-02|P2|code|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P2,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-02|P2|doc|r1,unseen_qwen_profiled,SUPP-COA-02|P2|doc|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-02|P2|path|r1,unseen_qwen_profiled,SUPP-COA-02|P2|path|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-02|P3|code|r1,unseen_qwen_profiled,SUPP-COA-02|P3|code|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P3,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-02|P3|doc|r1,unseen_qwen_profiled,SUPP-COA-02|P3|doc|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-COA-02|P3|path|r1,unseen_qwen_profiled,SUPP-COA-02|P3|path|r1,SUPP-COA-02,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,P3,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-01|P1|code|r1,unseen_qwen_profiled,SUPP-DSA-01|P1|code|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P1,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-01|P1|doc|r1,unseen_qwen_profiled,SUPP-DSA-01|P1|doc|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-01|P1|path|r1,unseen_qwen_profiled,SUPP-DSA-01|P1|path|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-01|P2|code|r1,unseen_qwen_profiled,SUPP-DSA-01|P2|code|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P2,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-01|P2|doc|r1,unseen_qwen_profiled,SUPP-DSA-01|P2|doc|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-01|P2|path|r1,unseen_qwen_profiled,SUPP-DSA-01|P2|path|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-01|P3|code|r1,unseen_qwen_profiled,SUPP-DSA-01|P3|code|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P3,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-01|P3|doc|r1,unseen_qwen_profiled,SUPP-DSA-01|P3|doc|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-01|P3|path|r1,unseen_qwen_profiled,SUPP-DSA-01|P3|path|r1,SUPP-DSA-01,数据结构与算法,哈希表冲突处理与负载因子,P3,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-02|P1|code|r1,unseen_qwen_profiled,SUPP-DSA-02|P1|code|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P1,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-02|P1|doc|r1,unseen_qwen_profiled,SUPP-DSA-02|P1|doc|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-02|P1|path|r1,unseen_qwen_profiled,SUPP-DSA-02|P1|path|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-02|P2|code|r1,unseen_qwen_profiled,SUPP-DSA-02|P2|code|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P2,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-02|P2|doc|r1,unseen_qwen_profiled,SUPP-DSA-02|P2|doc|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-02|P2|path|r1,unseen_qwen_profiled,SUPP-DSA-02|P2|path|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-02|P3|code|r1,unseen_qwen_profiled,SUPP-DSA-02|P3|code|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P3,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-02|P3|doc|r1,unseen_qwen_profiled,SUPP-DSA-02|P3|doc|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-DSA-02|P3|path|r1,unseen_qwen_profiled,SUPP-DSA-02|P3|path|r1,SUPP-DSA-02,数据结构与算法,最小生成树 Prim 算法,P3,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-01|P1|code|r1,unseen_qwen_profiled,SUPP-ML-01|P1|code|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P1,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-01|P1|doc|r1,unseen_qwen_profiled,SUPP-ML-01|P1|doc|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-01|P1|path|r1,unseen_qwen_profiled,SUPP-ML-01|P1|path|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-01|P2|code|r1,unseen_qwen_profiled,SUPP-ML-01|P2|code|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P2,code,1,qwen,qwen3.7-max,ok,true,ok
+unseen_qwen_profiled|SUPP-ML-01|P2|doc|r1,unseen_qwen_profiled,SUPP-ML-01|P2|doc|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-01|P2|path|r1,unseen_qwen_profiled,SUPP-ML-01|P2|path|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-01|P3|code|r1,unseen_qwen_profiled,SUPP-ML-01|P3|code|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P3,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-01|P3|doc|r1,unseen_qwen_profiled,SUPP-ML-01|P3|doc|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-01|P3|path|r1,unseen_qwen_profiled,SUPP-ML-01|P3|path|r1,SUPP-ML-01,机器学习,支持向量机的间隔与核方法,P3,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-02|P1|code|r1,unseen_qwen_profiled,SUPP-ML-02|P1|code|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P1,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-02|P1|doc|r1,unseen_qwen_profiled,SUPP-ML-02|P1|doc|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-02|P1|path|r1,unseen_qwen_profiled,SUPP-ML-02|P1|path|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-02|P2|code|r1,unseen_qwen_profiled,SUPP-ML-02|P2|code|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P2,code,1,qwen,qwen3.7-max,ok,true,ok
+unseen_qwen_profiled|SUPP-ML-02|P2|doc|r1,unseen_qwen_profiled,SUPP-ML-02|P2|doc|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-02|P2|path|r1,unseen_qwen_profiled,SUPP-ML-02|P2|path|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-02|P3|code|r1,unseen_qwen_profiled,SUPP-ML-02|P3|code|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P3,code,1,qwen,qwen3.7-max,ok,true,ok
+unseen_qwen_profiled|SUPP-ML-02|P3|doc|r1,unseen_qwen_profiled,SUPP-ML-02|P3|doc|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-ML-02|P3|path|r1,unseen_qwen_profiled,SUPP-ML-02|P3|path|r1,SUPP-ML-02,机器学习,Bagging 与随机森林,P3,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-01|P1|code|r1,unseen_qwen_profiled,SUPP-NET-01|P1|code|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P1,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-01|P1|doc|r1,unseen_qwen_profiled,SUPP-NET-01|P1|doc|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-01|P1|path|r1,unseen_qwen_profiled,SUPP-NET-01|P1|path|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-01|P2|code|r1,unseen_qwen_profiled,SUPP-NET-01|P2|code|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P2,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-01|P2|doc|r1,unseen_qwen_profiled,SUPP-NET-01|P2|doc|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-01|P2|path|r1,unseen_qwen_profiled,SUPP-NET-01|P2|path|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-01|P3|code|r1,unseen_qwen_profiled,SUPP-NET-01|P3|code|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P3,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-01|P3|doc|r1,unseen_qwen_profiled,SUPP-NET-01|P3|doc|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-01|P3|path|r1,unseen_qwen_profiled,SUPP-NET-01|P3|path|r1,SUPP-NET-01,计算机网络,ICMP 差错报告与 ping、traceroute,P3,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-02|P1|code|r1,unseen_qwen_profiled,SUPP-NET-02|P1|code|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P1,code,1,qwen,qwen3.7-max,failed_or_missing,true,ok
+unseen_qwen_profiled|SUPP-NET-02|P1|doc|r1,unseen_qwen_profiled,SUPP-NET-02|P1|doc|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-02|P1|path|r1,unseen_qwen_profiled,SUPP-NET-02|P1|path|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-02|P2|code|r1,unseen_qwen_profiled,SUPP-NET-02|P2|code|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P2,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-02|P2|doc|r1,unseen_qwen_profiled,SUPP-NET-02|P2|doc|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-02|P2|path|r1,unseen_qwen_profiled,SUPP-NET-02|P2|path|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-02|P3|code|r1,unseen_qwen_profiled,SUPP-NET-02|P3|code|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P3,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-02|P3|doc|r1,unseen_qwen_profiled,SUPP-NET-02|P3|doc|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-NET-02|P3|path|r1,unseen_qwen_profiled,SUPP-NET-02|P3|path|r1,SUPP-NET-02,计算机网络,QUIC 与 HTTP/3,P3,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-01|P1|code|r1,unseen_qwen_profiled,SUPP-OS-01|P1|code|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P1,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-01|P1|doc|r1,unseen_qwen_profiled,SUPP-OS-01|P1|doc|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-01|P1|path|r1,unseen_qwen_profiled,SUPP-OS-01|P1|path|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-01|P2|code|r1,unseen_qwen_profiled,SUPP-OS-01|P2|code|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P2,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-01|P2|doc|r1,unseen_qwen_profiled,SUPP-OS-01|P2|doc|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-01|P2|path|r1,unseen_qwen_profiled,SUPP-OS-01|P2|path|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-01|P3|code|r1,unseen_qwen_profiled,SUPP-OS-01|P3|code|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P3,code,1,qwen,qwen3.7-max,failed_or_missing,true,ok
+unseen_qwen_profiled|SUPP-OS-01|P3|doc|r1,unseen_qwen_profiled,SUPP-OS-01|P3|doc|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-01|P3|path|r1,unseen_qwen_profiled,SUPP-OS-01|P3|path|r1,SUPP-OS-01,操作系统,TLB 快表命中与缺失处理,P3,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-02|P1|code|r1,unseen_qwen_profiled,SUPP-OS-02|P1|code|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P1,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-02|P1|doc|r1,unseen_qwen_profiled,SUPP-OS-02|P1|doc|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P1,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-02|P1|path|r1,unseen_qwen_profiled,SUPP-OS-02|P1|path|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P1,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-02|P2|code|r1,unseen_qwen_profiled,SUPP-OS-02|P2|code|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P2,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-02|P2|doc|r1,unseen_qwen_profiled,SUPP-OS-02|P2|doc|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P2,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-02|P2|path|r1,unseen_qwen_profiled,SUPP-OS-02|P2|path|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P2,path,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-02|P3|code|r1,unseen_qwen_profiled,SUPP-OS-02|P3|code|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P3,code,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-02|P3|doc|r1,unseen_qwen_profiled,SUPP-OS-02|P3|doc|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P3,doc,1,qwen,qwen3.7-max,ok,false,ok
+unseen_qwen_profiled|SUPP-OS-02|P3|path|r1,unseen_qwen_profiled,SUPP-OS-02|P3|path|r1,SUPP-OS-02,操作系统,读者-写者问题与公平性,P3,path,1,qwen,qwen3.7-max,ok,false,ok

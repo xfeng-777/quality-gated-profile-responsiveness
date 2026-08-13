@@ -1,0 +1,5 @@
+﻿modality,total_cases,executed_cases,task_success_cases,intent_retained_cases,key_info_retained_cases,routed_correctly_cases,output_acceptable_cases,service_unconfigured_cases,other_failure_cases,total_cost_cny,mean_elapsed_ms,conclusion,notes
+text,5,5,5,5,5,5,5,0,0,0,0,passed_static_route_check,文本入口仅做静态路由检查，未触发完整资源生成。
+image,5,5,5,5,5,5,5,0,0,not_measured,881.4,passed_runtime_check,5/5 受控图片返回可用学习主题。
+voice,5,5,4,4,5,5,4,0,1,not_measured,8207.4,partially_passed_runtime_check,5/5 有转写，4/5 保留学习意图；COA 一例出现意图极性识别错误。
+overall,15,15,14,14,15,15,14,0,1,not_measured,4544.4,partially_passed,E3 总体 14/15 通过；多模态入口可报告为小规模检查基本可用，但需披露语音一例识别错误。

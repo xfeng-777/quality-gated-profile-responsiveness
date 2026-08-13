@@ -1,0 +1,16 @@
+﻿error_category,final_factual_correctness,final_quality_floor_pass,case_count
+cache_mapping_or_replacement_error,major_error,no,4
+cache_mapping_or_replacement_error,minor_error,yes,3
+code_expected_output_or_trace_mismatch,minor_error,yes,1
+conceptual_overstatement_or_missing_condition,minor_error,yes,2
+execution_or_compilation_error,major_error,no,1
+execution_or_compilation_error,minor_error,no,1
+execution_or_compilation_error,minor_error,yes,2
+execution_or_compilation_error,pass,no,1
+os_memory_semantic_error,major_error,no,2
+os_memory_semantic_error,minor_error,yes,4
+pipeline_hazard_semantic_error,major_error,no,2
+pipeline_hazard_semantic_error,minor_error,yes,4
+reading_metadata_scope_error,minor_error,yes,4
+red_black_tree_invariant_error,major_error,no,2
+red_black_tree_invariant_error,minor_error,yes,2

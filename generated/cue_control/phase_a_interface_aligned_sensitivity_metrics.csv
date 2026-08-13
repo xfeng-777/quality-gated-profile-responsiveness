@@ -1,0 +1,31 @@
+﻿group_type,group,triplets,metric,numerator,denominator,estimate,conventional_ci_method,conventional_ci_95_low,conventional_ci_95_high,task_cluster_ci_95_low,task_cluster_ci_95_high,bootstrap_replicates,bootstrap_seed
+overall,all,100,FM,71,100,0.71,Wilson score,0.6146,0.7899,0.65,0.77,10000,20260802
+overall,all,100,POA,252,300,0.84,triplet cluster bootstrap,0.78,0.8933,0.7967,0.88,10000,20260802
+overall,all,100,EC,88,100,0.88,Wilson score,0.8019,0.93,0.82,0.94,10000,20260802
+overall,all,100,ER,12,100,0.12,Wilson score,0.07,0.1981,0.06,0.18,10000,20260802
+overall,all,100,QG-FM,70,100,0.7,Wilson score,0.6042,0.7811,0.64,0.76,10000,20260802
+agent,reading,20,FM,20,20,1.0,Wilson score,0.8389,1.0,1.0,1.0,10000,20260802
+agent,reading,20,POA,60,60,1.0,triplet cluster bootstrap,1.0,1.0,1.0,1.0,10000,20260802
+agent,reading,20,EC,20,20,1.0,Wilson score,0.8389,1.0,1.0,1.0,10000,20260802
+agent,reading,20,ER,0,20,0.0,Wilson score,0.0,0.1611,0.0,0.0,10000,20260802
+agent,reading,20,QG-FM,20,20,1.0,Wilson score,0.8389,1.0,1.0,1.0,10000,20260802
+agent,quiz,20,FM,17,20,0.85,Wilson score,0.6396,0.9476,0.7,1.0,10000,20260802
+agent,quiz,20,POA,57,60,0.95,triplet cluster bootstrap,0.9,1.0,0.9,1.0,10000,20260802
+agent,quiz,20,EC,20,20,1.0,Wilson score,0.8389,1.0,1.0,1.0,10000,20260802
+agent,quiz,20,ER,0,20,0.0,Wilson score,0.0,0.1611,0.0,0.0,10000,20260802
+agent,quiz,20,QG-FM,17,20,0.85,Wilson score,0.6396,0.9476,0.7,1.0,10000,20260802
+agent,doc,20,FM,5,20,0.25,Wilson score,0.1119,0.4687,0.05,0.45,10000,20260802
+agent,doc,20,POA,37,60,0.6167,triplet cluster bootstrap,0.4667,0.75,0.4667,0.75,10000,20260802
+agent,doc,20,EC,15,20,0.75,Wilson score,0.5313,0.8881,0.55,0.9,10000,20260802
+agent,doc,20,ER,5,20,0.25,Wilson score,0.1119,0.4687,0.1,0.45,10000,20260802
+agent,doc,20,QG-FM,5,20,0.25,Wilson score,0.1119,0.4687,0.1,0.45,10000,20260802
+agent,code,20,FM,9,20,0.45,Wilson score,0.2582,0.6579,0.25,0.65,10000,20260802
+agent,code,20,POA,38,60,0.6333,triplet cluster bootstrap,0.45,0.8,0.45,0.8,10000,20260802
+agent,code,20,EC,13,20,0.65,Wilson score,0.4329,0.8188,0.45,0.85,10000,20260802
+agent,code,20,ER,7,20,0.35,Wilson score,0.1812,0.5671,0.15,0.55,10000,20260802
+agent,code,20,QG-FM,8,20,0.4,Wilson score,0.2188,0.6134,0.2,0.6,10000,20260802
+agent,path,20,FM,20,20,1.0,Wilson score,0.8389,1.0,1.0,1.0,10000,20260802
+agent,path,20,POA,60,60,1.0,triplet cluster bootstrap,1.0,1.0,1.0,1.0,10000,20260802
+agent,path,20,EC,20,20,1.0,Wilson score,0.8389,1.0,1.0,1.0,10000,20260802
+agent,path,20,ER,0,20,0.0,Wilson score,0.0,0.1611,0.0,0.0,10000,20260802
+agent,path,20,QG-FM,20,20,1.0,Wilson score,0.8389,1.0,1.0,1.0,10000,20260802

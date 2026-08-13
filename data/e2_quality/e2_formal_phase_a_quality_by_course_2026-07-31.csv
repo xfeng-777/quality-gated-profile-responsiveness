@@ -1,0 +1,6 @@
+﻿group_type,group_key,group_label,total_rows,factual_pass_rows,minor_error_rows,major_error_rows,relevance_pass_rows,answer_applicable_rows,answer_consistent_rows,structural_applicable_rows,structurally_valid_rows,quality_floor_pass_rows,quality_floor_pass_rate,high_confidence_rows,medium_confidence_rows,low_confidence_rows
+course,COA,计算机组成原理,60,60,0,0,60,12,12,12,12,60,1.0,60,0,0
+course,DSA,数据结构与算法,60,60,0,0,60,12,12,12,12,60,1.0,60,0,0
+course,ML,机器学习,60,59,1,0,60,12,12,12,11,59,0.9833,59,1,0
+course,NET,计算机网络,60,60,0,0,60,12,12,12,12,60,1.0,60,0,0
+course,OS,操作系统,60,60,0,0,60,12,12,12,12,60,1.0,60,0,0

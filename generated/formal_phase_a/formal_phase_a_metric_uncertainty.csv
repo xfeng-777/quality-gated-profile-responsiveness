@@ -1,0 +1,31 @@
+﻿group_type,group_key,triplet_count,metric,numerator,denominator,estimate,ci_method,ci_95_low,ci_95_high,bootstrap_valid_replicates
+overall,ALL,100,FM,51,100,0.51,Wilson score,0.41348,0.60578,
+overall,ALL,100,EC,68,100,0.68,Wilson score,0.583374,0.763309,
+overall,ALL,100,ER,32,100,0.32,Wilson score,0.236691,0.416626,
+overall,ALL,100,QG-FM,50,100,0.5,Wilson score,0.403832,0.596168,
+overall,ALL,100,POA,192,300,0.64,triplet cluster bootstrap (10000 replicates),0.556667,0.72,10000
+agent,reading,20,FM,20,20,1.0,Wilson score,0.838875,1.0,
+agent,reading,20,EC,20,20,1.0,Wilson score,0.838875,1.0,
+agent,reading,20,ER,0,20,0.0,Wilson score,0.0,0.161125,
+agent,reading,20,QG-FM,20,20,1.0,Wilson score,0.838875,1.0,
+agent,reading,20,POA,60,60,1.0,triplet cluster bootstrap (10000 replicates),1.0,1.0,10000
+agent,quiz,20,FM,17,20,0.85,Wilson score,0.639581,0.947631,
+agent,quiz,20,EC,20,20,1.0,Wilson score,0.838875,1.0,
+agent,quiz,20,ER,0,20,0.0,Wilson score,0.0,0.161125,
+agent,quiz,20,QG-FM,17,20,0.85,Wilson score,0.639581,0.947631,
+agent,quiz,20,POA,57,60,0.95,triplet cluster bootstrap (10000 replicates),0.9,1.0,10000
+agent,doc,20,FM,5,20,0.25,Wilson score,0.111862,0.468701,
+agent,doc,20,EC,15,20,0.75,Wilson score,0.531299,0.888138,
+agent,doc,20,ER,5,20,0.25,Wilson score,0.111862,0.468701,
+agent,doc,20,QG-FM,5,20,0.25,Wilson score,0.111862,0.468701,
+agent,doc,20,POA,37,60,0.616667,triplet cluster bootstrap (10000 replicates),0.466667,0.75,10000
+agent,code,20,FM,9,20,0.45,Wilson score,0.258198,0.657915,
+agent,code,20,EC,13,20,0.65,Wilson score,0.432854,0.818808,
+agent,code,20,ER,7,20,0.35,Wilson score,0.181192,0.567146,
+agent,code,20,QG-FM,8,20,0.4,Wilson score,0.218807,0.613418,
+agent,code,20,POA,38,60,0.633333,triplet cluster bootstrap (10000 replicates),0.45,0.8,10000
+agent,path,20,FM,0,20,0.0,Wilson score,0.0,0.161125,
+agent,path,20,EC,0,20,0.0,Wilson score,0.0,0.161125,
+agent,path,20,ER,20,20,1.0,Wilson score,0.838875,1.0,
+agent,path,20,QG-FM,0,20,0.0,Wilson score,0.0,0.161125,
+agent,path,20,POA,0,60,0.0,triplet cluster bootstrap (10000 replicates),0.0,0.0,10000

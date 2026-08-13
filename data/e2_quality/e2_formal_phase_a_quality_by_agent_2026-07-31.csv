@@ -1,0 +1,6 @@
+﻿group_type,group_key,group_label,total_rows,factual_pass_rows,minor_error_rows,major_error_rows,relevance_pass_rows,answer_applicable_rows,answer_consistent_rows,structural_applicable_rows,structurally_valid_rows,quality_floor_pass_rows,quality_floor_pass_rate,high_confidence_rows,medium_confidence_rows,low_confidence_rows
+agent,code,code,60,59,1,0,60,0,0,60,59,59,0.9833,59,1,0
+agent,doc,doc,60,60,0,0,60,0,0,0,0,60,1.0,60,0,0
+agent,path,path,60,60,0,0,60,0,0,0,0,60,1.0,60,0,0
+agent,quiz,quiz,60,60,0,0,60,60,60,0,0,60,1.0,60,0,0
+agent,reading,reading,60,60,0,0,60,0,0,0,0,60,1.0,60,0,0

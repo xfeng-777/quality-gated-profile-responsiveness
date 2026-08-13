@@ -1,0 +1,142 @@
+{
+  "agreement_sensitivity": {
+    "agreement_rate": 0.7,
+    "agreement_wilson_95_high": 0.7811,
+    "agreement_wilson_95_low": 0.6042,
+    "agreements": 70,
+    "historical_non_path_agreements": 51,
+    "historical_non_path_units": 80,
+    "hybrid_six_category_kappa": 0.6476,
+    "interpretation": "Post-hoc hybrid sensitivity only: historical A/B ratings for non-Path units are combined with interface-aligned R1/R2 ratings for Path. This is not a reliability estimate from one fixed rater pair.",
+    "path_agreement_rate": 0.95,
+    "path_agreements": 19,
+    "path_six_category_kappa": 0.0,
+    "path_units": 20,
+    "units": 100
+  },
+  "analysis_type": "posthoc_interface_aligned_sensitivity",
+  "cross_model_sensitivity": {
+    "DeepSeek": {
+      "ec": 1.0,
+      "ec_n": 30,
+      "er": 0.0,
+      "er_n": 0,
+      "fm": 0.9666666666666667,
+      "fm_n": 29,
+      "output_quality_pass": 81,
+      "output_quality_total": 90,
+      "poa": 0.9888888888888889,
+      "poa_d": 90,
+      "poa_n": 89,
+      "qg_fm": 0.7,
+      "qg_fm_n": 21,
+      "triplets": 30
+    },
+    "Qwen": {
+      "ec": 1.0,
+      "ec_n": 30,
+      "er": 0.0,
+      "er_n": 0,
+      "fm": 0.9333333333333333,
+      "fm_n": 28,
+      "output_quality_pass": 81,
+      "output_quality_total": 90,
+      "poa": 0.9777777777777777,
+      "poa_d": 90,
+      "poa_n": 88,
+      "qg_fm": 0.7666666666666667,
+      "qg_fm_n": 23,
+      "triplets": 30
+    }
+  },
+  "default_contract_sensitivity": {
+    "all_90": {
+      "comparisons": 90,
+      "default_contract_wins": 13,
+      "profiled_win_rate_excluding_ties": 0.8523,
+      "profiled_wins": 75,
+      "ties": 2,
+      "wilson_95_high": 0.9116,
+      "wilson_95_low": 0.7635
+    },
+    "bilateral_quality_gate": {
+      "comparisons": 71,
+      "default_contract_wins": 10,
+      "profiled_win_rate_excluding_ties": 0.8551,
+      "profiled_wins": 59,
+      "ties": 2,
+      "wilson_95_high": 0.9193,
+      "wilson_95_low": 0.7534
+    },
+    "by_target_profile_quality_gated": {
+      "P1": {
+        "comparisons": 24,
+        "default_contract_wins": 0,
+        "profiled_win_rate_excluding_ties": 1.0,
+        "profiled_wins": 24,
+        "ties": 0,
+        "wilson_95_high": 1.0,
+        "wilson_95_low": 0.862
+      },
+      "P2": {
+        "comparisons": 24,
+        "default_contract_wins": 8,
+        "profiled_win_rate_excluding_ties": 0.6364,
+        "profiled_wins": 14,
+        "ties": 2,
+        "wilson_95_high": 0.8027,
+        "wilson_95_low": 0.4295
+      },
+      "P3": {
+        "comparisons": 23,
+        "default_contract_wins": 2,
+        "profiled_win_rate_excluding_ties": 0.913,
+        "profiled_wins": 21,
+        "ties": 0,
+        "wilson_95_high": 0.9758,
+        "wilson_95_low": 0.732
+      }
+    },
+    "interpretation": "The comparison is against the system default-contract condition, which falls back toward an intermediate-level contract; it is not a label-neutral absence-of-profile baseline."
+  },
+  "external_llm_calls_made": 0,
+  "gate_assessment": {
+    "conservative_fm_proxy": {
+      "agents_at_or_above_0_70": 3,
+      "agents_over_0_15_reverse_rate": [
+        "doc",
+        "code"
+      ],
+      "all_agents_at_or_above_0_60": false,
+      "overall_at_or_above_0_75": false,
+      "posthoc_hybrid_agreement_at_or_above_0_60": true,
+      "proxy_gate_passed": false,
+      "required_agents_at_or_above_0_70": 4
+    },
+    "decision": "The title gate remains unmet. The post-hoc analysis changes the Path interpretation but does not convert Phase A into a passing confirmatory result.",
+    "formal_caveat": "The frozen title gate was defined using DCR, whereas these reratings produce FM/POA/EC/ER/QG-FM. The original DCR gate cannot be formally re-evaluated by silently substituting FM."
+  },
+  "historical_files_overwritten": false,
+  "interpretation_boundary": [
+    "The historical frozen Phase A result remains the primary recorded analysis.",
+    "This sensitivity analysis aligns Path scoring material with student-visible interface content.",
+    "The reraters came from the original author/rater pool and were assigned new task identifiers.",
+    "The hybrid agreement statistic is not produced by one fixed rater pair across all 100 units."
+  ],
+  "overall": {
+    "ec": 0.88,
+    "ec_n": 88,
+    "er": 0.12,
+    "er_n": 12,
+    "fm": 0.71,
+    "fm_n": 71,
+    "poa": 0.84,
+    "poa_d": 300,
+    "poa_n": 252,
+    "qg_fm": 0.7,
+    "qg_fm_n": 70,
+    "triplets": 100
+  },
+  "replacement": "20 formal Phase A Path triplets only",
+  "status": "pass"
+}

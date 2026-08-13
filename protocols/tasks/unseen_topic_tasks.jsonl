@@ -1,0 +1,10 @@
+{"task_id":"SUPP-ML-01","course_name":"机器学习","topic":"支持向量机的间隔与核方法"}
+{"task_id":"SUPP-ML-02","course_name":"机器学习","topic":"Bagging 与随机森林"}
+{"task_id":"SUPP-DSA-01","course_name":"数据结构与算法","topic":"哈希表冲突处理与负载因子"}
+{"task_id":"SUPP-DSA-02","course_name":"数据结构与算法","topic":"最小生成树 Prim 算法"}
+{"task_id":"SUPP-OS-01","course_name":"操作系统","topic":"TLB 快表命中与缺失处理"}
+{"task_id":"SUPP-OS-02","course_name":"操作系统","topic":"读者-写者问题与公平性"}
+{"task_id":"SUPP-NET-01","course_name":"计算机网络","topic":"ICMP 差错报告与 ping、traceroute"}
+{"task_id":"SUPP-NET-02","course_name":"计算机网络","topic":"QUIC 与 HTTP/3"}
+{"task_id":"SUPP-COA-01","course_name":"计算机组成原理","topic":"Cache 写直达、写回与写分配"}
+{"task_id":"SUPP-COA-02","course_name":"计算机组成原理","topic":"计算机性能指标 CPI、MIPS 与 FLOPS"}

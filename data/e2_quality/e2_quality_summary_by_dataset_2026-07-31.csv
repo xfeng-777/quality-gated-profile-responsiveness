@@ -1,0 +1,9 @@
+﻿dataset_id,dataset_label,scope,total_rows,quality_floor_pass_rows,quality_floor_pass_rate,factual_pass_rows,minor_error_rows,major_error_rows,relevance_pass_rows,answer_applicable_rows,answer_consistent_rows,answer_consistency_rate,structural_applicable_rows,structurally_valid_rows,structural_valid_rate,source_file
+formal_phase_a_all_agents,正式阶段 A 全量 300,主实验：20 任务 × 3 画像 × 5 Agent,300,299,0.9967,299,1,0,300,60,60,1.0,60,59,0.9833,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/formal_phase_a_all_agents_final_domain_summary.csv
+reading_only_formal_subset,正式 Reading-only 60,正式阶段 Reading 受控目录子集,60,60,1.0,56,4,0,60,0,0,,0,0,,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/reading_only_final_domain_summary.csv
+path_repair_v1,Path 合同 v2 复测 30,修复复测：10 任务 × 3 画像 × Path,30,30,1.0,29,1,0,30,0,0,,0,0,,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/path_repair_v1_final_domain_summary.csv
+doc_code_repair_v1,Doc/Code 合同 v2 复测 60,修复复测：10 任务 × 3 画像 × 2 Agent,60,58,0.9667,50,8,2,60,30,23,0.7667,30,28,0.9333,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/doc_code_repair_v1_final_domain_summary.csv
+code_v21_repair_v1,Code v2.1 复测 15,Code-only 局部修复复测,15,9,0.6,9,1,5,15,15,11,0.7333,15,13,0.8667,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/code_v21_repair_v1_final_domain_summary.csv
+code_v23_retest_v1,Code v2.3 复测 15,Code-only 自动硬门禁后复测,15,12,0.8000,9,3,3,15,15,11,0.7333,15,15,1.0000,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/code_v23_retest_v1_final_domain_decisions.csv
+code_v24_retest_v1,Code v2.4 复测 15,Code-only 主题级 oracle 后复测,15,14,0.9333,10,4,1,15,,13,,,15,,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/code_v24_retest_v1_final_domain_summary.csv
+code_v25_retest_v1,Code v2.5 复测 15,Code-only 语义 oracle targeted retest,15,15,1.0,14,1,0,15,,14,,,15,,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/code_v25_retest_v1_final_domain_summary.csv

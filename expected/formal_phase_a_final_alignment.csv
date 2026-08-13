@@ -1,0 +1,5 @@
+﻿scope,rater,triplet_count,full_assignment_agreements_with_final,agreement_rate,wilson_ci_95_low,wilson_ci_95_high
+all-final-decisions,A,100,88,0.88,0.801879,0.930006
+all-final-decisions,B,100,56,0.56,0.462281,0.65328
+adjudicated-only,A,53,41,0.773585,0.644737,0.865454
+adjudicated-only,B,53,9,0.169811,0.091999,0.292253

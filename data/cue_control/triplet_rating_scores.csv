@@ -1,0 +1,201 @@
+﻿rerating_id,rater_id,batch_id,old_triplet_id,course_name,topic,agent_id,normalized_assignment,exact_profile_matches,full_match,pairwise_correct,pairwise_order_accuracy,extreme_pair_correct,extreme_reversed,confidence,indistinguishable
+LC-T-93aee795fa4eec,R1,doc_contract_retest,E1-T-0684d144692a,数据结构与算法,Dijkstra 最短路径,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-29ed94ac0acb58,R1,doc_contract_retest,E1-T-a24f500bfb88,操作系统,进程调度,doc,P2>P1>P3,1,False,2,0.6667,True,False,high,no
+LC-T-bc1cdafe985890,R1,formal_phase_a_path,E1-T-7222dd4cc776,计算机网络,TCP 三次握手,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-e9b386e796ad4e,R1,formal_phase_a_path,E1-T-313dca3a6e2f,机器学习,梯度下降,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-07716924823197,R1,formal_phase_a_path,E1-T-2f5b8a9c60c4,计算机组成原理,虚地址翻译,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-4c82896b25980c,R1,formal_phase_a_path,E1-T-2f66e535db00,数据结构与算法,拓扑排序,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-7887762c64f425,R1,path_contract_retest,E1-T-2566f3288108,计算机网络,TCP 三次握手,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1988ee0a3ac134,R1,doc_contract_retest,E1-T-4b6f6da1a50c,计算机组成原理,流水线数据冒险,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f16b96f883f3f3,R1,path_contract_retest,E1-T-a2c0d0c516d6,计算机组成原理,Cache 映射与替换,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1f1fae557496df,R1,formal_phase_a_path,E1-T-fb5445ee1144,机器学习,K-Means 聚类,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-214734b2fd70e3,R1,formal_phase_a_path,E1-T-a47c831b7f0e,计算机组成原理,IEEE 754 浮点数,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-711f5ac6a156ed,R1,path_contract_retest,E1-T-a27b10ba39ee,机器学习,PCA 主成分分析,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-9108b236ef027b,R1,doc_contract_retest,E1-T-785619b1a2fd,操作系统,虚拟内存与页表,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1c0dcbced58eb3,R1,path_contract_retest,E1-T-cadd51c16b4f,计算机组成原理,虚地址翻译,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-7a473c5980d012,R1,formal_phase_a_path,E1-T-8820ddfbec2f,计算机组成原理,流水线数据冒险,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-7bb1234dff112d,R1,path_contract_retest,E1-T-d84fc3f8f77b,操作系统,信号量与互斥锁,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f8f58d3da5ef7a,R1,formal_phase_a_path,E1-T-21b1cc0bf916,机器学习,决策树剪枝,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0f5f5ef11bcac6,R1,doc_contract_retest,E1-T-df1d082acd39,计算机网络,拥塞控制,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-af7f6047b84ecb,R1,doc_contract_retest,E1-T-0602ec8ba608,机器学习,决策树剪枝,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-e17c55beb88905,R1,formal_phase_a_path,E1-T-53cab9e99cd0,数据结构与算法,Dijkstra 最短路径,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-d2aaf5db2c43c6,R1,formal_phase_a_path,E1-T-00ec5a585c84,计算机组成原理,Cache 映射与替换,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1f70c2b6a9dbf0,R1,formal_phase_a_path,E1-T-17dde9e63e68,机器学习,PCA 主成分分析,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-a834d1b0c6a214,R1,formal_phase_a_path,E1-T-0842c7060bba,操作系统,虚拟内存与页表,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-29ad8ced502b13,R1,path_contract_retest,E1-T-5df13c5e1abe,数据结构与算法,拓扑排序,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-a13d076f8c2c65,R1,doc_contract_retest,E1-T-573384d0b4fa,数据结构与算法,红黑树,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-3af0ab4f049d8e,R1,path_contract_retest,E1-T-c633820265ec,计算机网络,HTTPS 与 TLS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0e007eb7656807,R1,doc_contract_retest,E1-T-54e2806843cb,计算机网络,TCP 三次握手,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-a89f7389d47d6d,R1,formal_phase_a_path,E1-T-27505aea8283,计算机网络,HTTPS 与 TLS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-d7637986ee7c12,R1,doc_contract_retest,E1-T-3945d3b5237c,机器学习,梯度下降,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-aa3060b53d8635,R1,formal_phase_a_path,E1-T-5a959897d95a,数据结构与算法,红黑树,path,P3>P2>P1,1,False,0,0.0,False,True,high,no
+LC-T-38cefd260339f6,R1,path_contract_retest,E1-T-37d45bd947b3,操作系统,进程调度,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-341ed85f8af2e2,R1,path_contract_retest,E1-T-c05d9fdd1ff7,机器学习,梯度下降,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-36bf45b03393e4,R1,formal_phase_a_path,E1-T-442313e74e3c,计算机网络,DNS 解析过程,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-afb9e53e346753,R1,formal_phase_a_path,E1-T-05336fb4a7e0,操作系统,信号量与互斥锁,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-8c39e5b01983e2,R1,formal_phase_a_path,E1-T-13350ced7ba5,计算机网络,拥塞控制,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-6a71de07bf58dc,R1,doc_contract_retest,E1-T-2734c6099441,计算机组成原理,Cache 映射与替换,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-556738f84290cd,R1,formal_phase_a_path,E1-T-9001d573ad8e,数据结构与算法,KMP 字符串匹配,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0e3d5b844f1feb,R1,formal_phase_a_path,E1-T-f5a446aa09b4,操作系统,进程调度,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-a48ef0286b2e42,R1,formal_phase_a_path,E1-T-8f029c060cd8,操作系统,死锁四条件,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-56a84a51a71ff8,R1,path_contract_retest,E1-T-1c4505f90049,数据结构与算法,Dijkstra 最短路径,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1c0dcbced58eb3,R2,path_contract_retest,E1-T-cadd51c16b4f,计算机组成原理,虚地址翻译,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ccb7c0846d4b54,R2,qwen_unseen_doc_path,E1-T-4b93aac623e1,计算机网络,QUIC 与 HTTP/3,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1f70c2b6a9dbf0,R2,formal_phase_a_path,E1-T-17dde9e63e68,机器学习,PCA 主成分分析,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-d7637986ee7c12,R2,doc_contract_retest,E1-T-3945d3b5237c,机器学习,梯度下降,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-e9b386e796ad4e,R2,formal_phase_a_path,E1-T-313dca3a6e2f,机器学习,梯度下降,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-cc09f58b68a536,R2,qwen_unseen_doc_path,E1-T-64bbcda86ea2,计算机网络,QUIC 与 HTTP/3,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f832bc00a57527,R2,qwen_unseen_doc_path,E1-T-d47df633ceca,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-7887762c64f425,R2,path_contract_retest,E1-T-2566f3288108,计算机网络,TCP 三次握手,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1a3912049ef355,R2,qwen_unseen_doc_path,E1-T-d8d06364c325,操作系统,TLB 快表命中与缺失处理,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-468501f1a177b8,R2,deepseek_unseen_doc_path,E1-T-644419bdbeff,计算机网络,ICMP 差错报告与 ping、traceroute,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-711f5ac6a156ed,R2,path_contract_retest,E1-T-a27b10ba39ee,机器学习,PCA 主成分分析,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-7c222944371218,R2,deepseek_unseen_doc_path,E1-T-f6f65b744a1c,数据结构与算法,哈希表冲突处理与负载因子,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-93aee795fa4eec,R2,doc_contract_retest,E1-T-0684d144692a,数据结构与算法,Dijkstra 最短路径,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-14ff154ce5df9b,R2,deepseek_unseen_doc_path,E1-T-783e15d18fd0,计算机网络,QUIC 与 HTTP/3,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-387e69e6ecb4a9,R2,qwen_unseen_doc_path,E1-T-854388ca67d4,数据结构与算法,最小生成树 Prim 算法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-8c39e5b01983e2,R2,formal_phase_a_path,E1-T-13350ced7ba5,计算机网络,拥塞控制,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-2ad9966ef413a7,R2,deepseek_unseen_doc_path,E1-T-10264783bc2e,操作系统,读者-写者问题与公平性,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-556738f84290cd,R2,formal_phase_a_path,E1-T-9001d573ad8e,数据结构与算法,KMP 字符串匹配,path,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-d7c0b67575f22c,R2,deepseek_unseen_doc_path,E1-T-ec8a9587c4db,计算机网络,ICMP 差错报告与 ping、traceroute,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-341ed85f8af2e2,R2,path_contract_retest,E1-T-c05d9fdd1ff7,机器学习,梯度下降,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-d549d1bed3388f,R2,qwen_unseen_doc_path,E1-T-e627bc78fdfd,操作系统,读者-写者问题与公平性,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-4c82896b25980c,R2,formal_phase_a_path,E1-T-2f66e535db00,数据结构与算法,拓扑排序,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-5c99380628dcbd,R2,qwen_unseen_doc_path,E1-T-dc8e307e2c23,数据结构与算法,哈希表冲突处理与负载因子,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-4dd67f906bf202,R2,deepseek_unseen_doc_path,E1-T-c59d9984a1c4,计算机网络,QUIC 与 HTTP/3,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-35f9ebcd7faae3,R2,deepseek_unseen_doc_path,E1-T-dfb12ae0eb20,机器学习,Bagging 与随机森林,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-d2aaf5db2c43c6,R2,formal_phase_a_path,E1-T-00ec5a585c84,计算机组成原理,Cache 映射与替换,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0e3d5b844f1feb,R2,formal_phase_a_path,E1-T-f5a446aa09b4,操作系统,进程调度,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f16b96f883f3f3,R2,path_contract_retest,E1-T-a2c0d0c516d6,计算机组成原理,Cache 映射与替换,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-a834d1b0c6a214,R2,formal_phase_a_path,E1-T-0842c7060bba,操作系统,虚拟内存与页表,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-dea15cd6556dbd,R2,deepseek_unseen_doc_path,E1-T-0ae1639b0045,操作系统,TLB 快表命中与缺失处理,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-36bf45b03393e4,R2,formal_phase_a_path,E1-T-442313e74e3c,计算机网络,DNS 解析过程,path,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-29ad8ced502b13,R2,path_contract_retest,E1-T-5df13c5e1abe,数据结构与算法,拓扑排序,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-29ed94ac0acb58,R2,doc_contract_retest,E1-T-a24f500bfb88,操作系统,进程调度,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-811d6cf01c65b2,R2,qwen_unseen_doc_path,E1-T-374faf3a63bf,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-e17c55beb88905,R2,formal_phase_a_path,E1-T-53cab9e99cd0,数据结构与算法,Dijkstra 最短路径,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1f1fae557496df,R2,formal_phase_a_path,E1-T-fb5445ee1144,机器学习,K-Means 聚类,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-07716924823197,R2,formal_phase_a_path,E1-T-2f5b8a9c60c4,计算机组成原理,虚地址翻译,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-b35262c26c6791,R2,qwen_unseen_doc_path,E1-T-cea165c58788,计算机网络,ICMP 差错报告与 ping、traceroute,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-a13d076f8c2c65,R2,doc_contract_retest,E1-T-573384d0b4fa,数据结构与算法,红黑树,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-64b432251c4076,R2,deepseek_unseen_doc_path,E1-T-841084acfc14,机器学习,支持向量机的间隔与核方法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-28f987603ae70f,R2,qwen_unseen_doc_path,E1-T-179d8d8893ae,操作系统,读者-写者问题与公平性,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-259928c9607367,R2,qwen_unseen_doc_path,E1-T-a508776ab899,计算机网络,ICMP 差错报告与 ping、traceroute,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f0437d6df1c8a8,R2,deepseek_unseen_doc_path,E1-T-710a2881624e,数据结构与算法,最小生成树 Prim 算法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-bc1cdafe985890,R2,formal_phase_a_path,E1-T-7222dd4cc776,计算机网络,TCP 三次握手,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-56a84a51a71ff8,R2,path_contract_retest,E1-T-1c4505f90049,数据结构与算法,Dijkstra 最短路径,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1988ee0a3ac134,R2,doc_contract_retest,E1-T-4b6f6da1a50c,计算机组成原理,流水线数据冒险,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0d2a06048284d1,R2,qwen_unseen_doc_path,E1-T-8ab19499a67a,数据结构与算法,最小生成树 Prim 算法,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0c706a4eb06246,R2,qwen_unseen_doc_path,E1-T-b0ef761217b7,操作系统,TLB 快表命中与缺失处理,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-38cefd260339f6,R2,path_contract_retest,E1-T-37d45bd947b3,操作系统,进程调度,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1a9f2cd8c10dc6,R2,deepseek_unseen_doc_path,E1-T-320f3d3d9617,数据结构与算法,最小生成树 Prim 算法,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-e0b2ccb77fddbe,R2,qwen_unseen_doc_path,E1-T-05eee0605eb9,数据结构与算法,哈希表冲突处理与负载因子,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-7bb1234dff112d,R2,path_contract_retest,E1-T-d84fc3f8f77b,操作系统,信号量与互斥锁,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-6a71de07bf58dc,R2,doc_contract_retest,E1-T-2734c6099441,计算机组成原理,Cache 映射与替换,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-6948b9440be0f4,R2,qwen_unseen_doc_path,E1-T-7c72094d31eb,机器学习,支持向量机的间隔与核方法,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-90e78182adb361,R2,deepseek_unseen_doc_path,E1-T-e30225dd264f,计算机组成原理,Cache 写直达、写回与写分配,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-3c7e48ab4122ab,R2,qwen_unseen_doc_path,E1-T-7b2ac1a05095,计算机组成原理,Cache 写直达、写回与写分配,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-30bb71dee7025d,R2,deepseek_unseen_doc_path,E1-T-cb49a8e83e4c,机器学习,Bagging 与随机森林,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-bbfb6fa0e2bca1,R2,deepseek_unseen_doc_path,E1-T-1c68bab2a5dd,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0e007eb7656807,R2,doc_contract_retest,E1-T-54e2806843cb,计算机网络,TCP 三次握手,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-aa3060b53d8635,R2,formal_phase_a_path,E1-T-5a959897d95a,数据结构与算法,红黑树,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-214734b2fd70e3,R2,formal_phase_a_path,E1-T-a47c831b7f0e,计算机组成原理,IEEE 754 浮点数,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-7a473c5980d012,R2,formal_phase_a_path,E1-T-8820ddfbec2f,计算机组成原理,流水线数据冒险,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-3af0ab4f049d8e,R2,path_contract_retest,E1-T-c633820265ec,计算机网络,HTTPS 与 TLS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-afb9e53e346753,R2,formal_phase_a_path,E1-T-05336fb4a7e0,操作系统,信号量与互斥锁,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-9a0e26dad9ac57,R2,qwen_unseen_doc_path,E1-T-6a8a2d5c774e,机器学习,支持向量机的间隔与核方法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f8f58d3da5ef7a,R2,formal_phase_a_path,E1-T-21b1cc0bf916,机器学习,决策树剪枝,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ba183a94ae92cd,R2,deepseek_unseen_doc_path,E1-T-7f573d6e9301,计算机组成原理,Cache 写直达、写回与写分配,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-eb7ac75583866c,R2,qwen_unseen_doc_path,E1-T-deb45af8c40c,机器学习,Bagging 与随机森林,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-aa81bbb955aa7d,R2,deepseek_unseen_doc_path,E1-T-f950096ad9b0,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f6615646f2a8dc,R2,deepseek_unseen_doc_path,E1-T-296537ebee65,机器学习,支持向量机的间隔与核方法,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-a48ef0286b2e42,R2,formal_phase_a_path,E1-T-8f029c060cd8,操作系统,死锁四条件,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-af7f6047b84ecb,R2,doc_contract_retest,E1-T-0602ec8ba608,机器学习,决策树剪枝,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-a89f7389d47d6d,R2,formal_phase_a_path,E1-T-27505aea8283,计算机网络,HTTPS 与 TLS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-92e0a557138bb6,R2,qwen_unseen_doc_path,E1-T-8398ecab2f94,机器学习,Bagging 与随机森林,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-72830f97b1c9fa,R2,qwen_unseen_doc_path,E1-T-5f48b6d0eab5,计算机组成原理,Cache 写直达、写回与写分配,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0dfa48fae36d0f,R2,deepseek_unseen_doc_path,E1-T-af44d00cdcf8,数据结构与算法,哈希表冲突处理与负载因子,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-9108b236ef027b,R2,doc_contract_retest,E1-T-785619b1a2fd,操作系统,虚拟内存与页表,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-ee8e9b7b993210,R2,deepseek_unseen_doc_path,E1-T-ccf4c52a25e0,操作系统,TLB 快表命中与缺失处理,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ff01226fe8e09a,R2,deepseek_unseen_doc_path,E1-T-58aaaec08bd3,操作系统,读者-写者问题与公平性,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0f5f5ef11bcac6,R2,doc_contract_retest,E1-T-df1d082acd39,计算机网络,拥塞控制,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-2ad9966ef413a7,R3,deepseek_unseen_doc_path,E1-T-10264783bc2e,操作系统,读者-写者问题与公平性,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-e0b2ccb77fddbe,R3,qwen_unseen_doc_path,E1-T-05eee0605eb9,数据结构与算法,哈希表冲突处理与负载因子,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-64b432251c4076,R3,deepseek_unseen_doc_path,E1-T-841084acfc14,机器学习,支持向量机的间隔与核方法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-bbfb6fa0e2bca1,R3,deepseek_unseen_doc_path,E1-T-1c68bab2a5dd,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-3c7e48ab4122ab,R3,qwen_unseen_doc_path,E1-T-7b2ac1a05095,计算机组成原理,Cache 写直达、写回与写分配,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-92e0a557138bb6,R3,qwen_unseen_doc_path,E1-T-8398ecab2f94,机器学习,Bagging 与随机森林,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ee8e9b7b993210,R3,deepseek_unseen_doc_path,E1-T-ccf4c52a25e0,操作系统,TLB 快表命中与缺失处理,doc,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-aa81bbb955aa7d,R3,deepseek_unseen_doc_path,E1-T-f950096ad9b0,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-b35262c26c6791,R3,qwen_unseen_doc_path,E1-T-cea165c58788,计算机网络,ICMP 差错报告与 ping、traceroute,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-30bb71dee7025d,R3,deepseek_unseen_doc_path,E1-T-cb49a8e83e4c,机器学习,Bagging 与随机森林,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-35f9ebcd7faae3,R3,deepseek_unseen_doc_path,E1-T-dfb12ae0eb20,机器学习,Bagging 与随机森林,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0d2a06048284d1,R3,qwen_unseen_doc_path,E1-T-8ab19499a67a,数据结构与算法,最小生成树 Prim 算法,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-6948b9440be0f4,R3,qwen_unseen_doc_path,E1-T-7c72094d31eb,机器学习,支持向量机的间隔与核方法,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-28f987603ae70f,R3,qwen_unseen_doc_path,E1-T-179d8d8893ae,操作系统,读者-写者问题与公平性,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-72830f97b1c9fa,R3,qwen_unseen_doc_path,E1-T-5f48b6d0eab5,计算机组成原理,Cache 写直达、写回与写分配,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-811d6cf01c65b2,R3,qwen_unseen_doc_path,E1-T-374faf3a63bf,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-eb7ac75583866c,R3,qwen_unseen_doc_path,E1-T-deb45af8c40c,机器学习,Bagging 与随机森林,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f832bc00a57527,R3,qwen_unseen_doc_path,E1-T-d47df633ceca,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1a3912049ef355,R3,qwen_unseen_doc_path,E1-T-d8d06364c325,操作系统,TLB 快表命中与缺失处理,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0c706a4eb06246,R3,qwen_unseen_doc_path,E1-T-b0ef761217b7,操作系统,TLB 快表命中与缺失处理,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-259928c9607367,R3,qwen_unseen_doc_path,E1-T-a508776ab899,计算机网络,ICMP 差错报告与 ping、traceroute,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-387e69e6ecb4a9,R3,qwen_unseen_doc_path,E1-T-854388ca67d4,数据结构与算法,最小生成树 Prim 算法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-468501f1a177b8,R3,deepseek_unseen_doc_path,E1-T-644419bdbeff,计算机网络,ICMP 差错报告与 ping、traceroute,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f0437d6df1c8a8,R3,deepseek_unseen_doc_path,E1-T-710a2881624e,数据结构与算法,最小生成树 Prim 算法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-d7c0b67575f22c,R3,deepseek_unseen_doc_path,E1-T-ec8a9587c4db,计算机网络,ICMP 差错报告与 ping、traceroute,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-cc09f58b68a536,R3,qwen_unseen_doc_path,E1-T-64bbcda86ea2,计算机网络,QUIC 与 HTTP/3,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0dfa48fae36d0f,R3,deepseek_unseen_doc_path,E1-T-af44d00cdcf8,数据结构与算法,哈希表冲突处理与负载因子,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-d549d1bed3388f,R3,qwen_unseen_doc_path,E1-T-e627bc78fdfd,操作系统,读者-写者问题与公平性,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-4dd67f906bf202,R3,deepseek_unseen_doc_path,E1-T-c59d9984a1c4,计算机网络,QUIC 与 HTTP/3,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ba183a94ae92cd,R3,deepseek_unseen_doc_path,E1-T-7f573d6e9301,计算机组成原理,Cache 写直达、写回与写分配,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ff01226fe8e09a,R3,deepseek_unseen_doc_path,E1-T-58aaaec08bd3,操作系统,读者-写者问题与公平性,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ccb7c0846d4b54,R3,qwen_unseen_doc_path,E1-T-4b93aac623e1,计算机网络,QUIC 与 HTTP/3,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-5c99380628dcbd,R3,qwen_unseen_doc_path,E1-T-dc8e307e2c23,数据结构与算法,哈希表冲突处理与负载因子,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1a9f2cd8c10dc6,R3,deepseek_unseen_doc_path,E1-T-320f3d3d9617,数据结构与算法,最小生成树 Prim 算法,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-9a0e26dad9ac57,R3,qwen_unseen_doc_path,E1-T-6a8a2d5c774e,机器学习,支持向量机的间隔与核方法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-7c222944371218,R3,deepseek_unseen_doc_path,E1-T-f6f65b744a1c,数据结构与算法,哈希表冲突处理与负载因子,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-dea15cd6556dbd,R3,deepseek_unseen_doc_path,E1-T-0ae1639b0045,操作系统,TLB 快表命中与缺失处理,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-90e78182adb361,R3,deepseek_unseen_doc_path,E1-T-e30225dd264f,计算机组成原理,Cache 写直达、写回与写分配,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-14ff154ce5df9b,R3,deepseek_unseen_doc_path,E1-T-783e15d18fd0,计算机网络,QUIC 与 HTTP/3,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f6615646f2a8dc,R3,deepseek_unseen_doc_path,E1-T-296537ebee65,机器学习,支持向量机的间隔与核方法,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-eb7ac75583866c,R4,qwen_unseen_doc_path,E1-T-deb45af8c40c,机器学习,Bagging 与随机森林,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-28f987603ae70f,R4,qwen_unseen_doc_path,E1-T-179d8d8893ae,操作系统,读者-写者问题与公平性,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0dfa48fae36d0f,R4,deepseek_unseen_doc_path,E1-T-af44d00cdcf8,数据结构与算法,哈希表冲突处理与负载因子,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-90e78182adb361,R4,deepseek_unseen_doc_path,E1-T-e30225dd264f,计算机组成原理,Cache 写直达、写回与写分配,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-5c99380628dcbd,R4,qwen_unseen_doc_path,E1-T-dc8e307e2c23,数据结构与算法,哈希表冲突处理与负载因子,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-7c222944371218,R4,deepseek_unseen_doc_path,E1-T-f6f65b744a1c,数据结构与算法,哈希表冲突处理与负载因子,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ccb7c0846d4b54,R4,qwen_unseen_doc_path,E1-T-4b93aac623e1,计算机网络,QUIC 与 HTTP/3,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f6615646f2a8dc,R4,deepseek_unseen_doc_path,E1-T-296537ebee65,机器学习,支持向量机的间隔与核方法,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f832bc00a57527,R4,qwen_unseen_doc_path,E1-T-d47df633ceca,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1a9f2cd8c10dc6,R4,deepseek_unseen_doc_path,E1-T-320f3d3d9617,数据结构与算法,最小生成树 Prim 算法,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ba183a94ae92cd,R4,deepseek_unseen_doc_path,E1-T-7f573d6e9301,计算机组成原理,Cache 写直达、写回与写分配,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-aa81bbb955aa7d,R4,deepseek_unseen_doc_path,E1-T-f950096ad9b0,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-259928c9607367,R4,qwen_unseen_doc_path,E1-T-a508776ab899,计算机网络,ICMP 差错报告与 ping、traceroute,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ff01226fe8e09a,R4,deepseek_unseen_doc_path,E1-T-58aaaec08bd3,操作系统,读者-写者问题与公平性,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-72830f97b1c9fa,R4,qwen_unseen_doc_path,E1-T-5f48b6d0eab5,计算机组成原理,Cache 写直达、写回与写分配,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-1a3912049ef355,R4,qwen_unseen_doc_path,E1-T-d8d06364c325,操作系统,TLB 快表命中与缺失处理,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-30bb71dee7025d,R4,deepseek_unseen_doc_path,E1-T-cb49a8e83e4c,机器学习,Bagging 与随机森林,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-dea15cd6556dbd,R4,deepseek_unseen_doc_path,E1-T-0ae1639b0045,操作系统,TLB 快表命中与缺失处理,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-14ff154ce5df9b,R4,deepseek_unseen_doc_path,E1-T-783e15d18fd0,计算机网络,QUIC 与 HTTP/3,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-64b432251c4076,R4,deepseek_unseen_doc_path,E1-T-841084acfc14,机器学习,支持向量机的间隔与核方法,path,P1>P2>P3,3,True,3,1.0,True,False,medium,no
+LC-T-2ad9966ef413a7,R4,deepseek_unseen_doc_path,E1-T-10264783bc2e,操作系统,读者-写者问题与公平性,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-cc09f58b68a536,R4,qwen_unseen_doc_path,E1-T-64bbcda86ea2,计算机网络,QUIC 与 HTTP/3,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-35f9ebcd7faae3,R4,deepseek_unseen_doc_path,E1-T-dfb12ae0eb20,机器学习,Bagging 与随机森林,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-bbfb6fa0e2bca1,R4,deepseek_unseen_doc_path,E1-T-1c68bab2a5dd,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-b35262c26c6791,R4,qwen_unseen_doc_path,E1-T-cea165c58788,计算机网络,ICMP 差错报告与 ping、traceroute,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-811d6cf01c65b2,R4,qwen_unseen_doc_path,E1-T-374faf3a63bf,计算机组成原理,计算机性能指标 CPI、MIPS 与 FLOPS,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-387e69e6ecb4a9,R4,qwen_unseen_doc_path,E1-T-854388ca67d4,数据结构与算法,最小生成树 Prim 算法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-468501f1a177b8,R4,deepseek_unseen_doc_path,E1-T-644419bdbeff,计算机网络,ICMP 差错报告与 ping、traceroute,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-d7c0b67575f22c,R4,deepseek_unseen_doc_path,E1-T-ec8a9587c4db,计算机网络,ICMP 差错报告与 ping、traceroute,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-92e0a557138bb6,R4,qwen_unseen_doc_path,E1-T-8398ecab2f94,机器学习,Bagging 与随机森林,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0d2a06048284d1,R4,qwen_unseen_doc_path,E1-T-8ab19499a67a,数据结构与算法,最小生成树 Prim 算法,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-ee8e9b7b993210,R4,deepseek_unseen_doc_path,E1-T-ccf4c52a25e0,操作系统,TLB 快表命中与缺失处理,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-d549d1bed3388f,R4,qwen_unseen_doc_path,E1-T-e627bc78fdfd,操作系统,读者-写者问题与公平性,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-9a0e26dad9ac57,R4,qwen_unseen_doc_path,E1-T-6a8a2d5c774e,机器学习,支持向量机的间隔与核方法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-6948b9440be0f4,R4,qwen_unseen_doc_path,E1-T-7c72094d31eb,机器学习,支持向量机的间隔与核方法,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-4dd67f906bf202,R4,deepseek_unseen_doc_path,E1-T-c59d9984a1c4,计算机网络,QUIC 与 HTTP/3,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-e0b2ccb77fddbe,R4,qwen_unseen_doc_path,E1-T-05eee0605eb9,数据结构与算法,哈希表冲突处理与负载因子,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-f0437d6df1c8a8,R4,deepseek_unseen_doc_path,E1-T-710a2881624e,数据结构与算法,最小生成树 Prim 算法,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-0c706a4eb06246,R4,qwen_unseen_doc_path,E1-T-b0ef761217b7,操作系统,TLB 快表命中与缺失处理,path,P1>P2>P3,3,True,3,1.0,True,False,high,no
+LC-T-3c7e48ab4122ab,R4,qwen_unseen_doc_path,E1-T-7b2ac1a05095,计算机组成原理,Cache 写直达、写回与写分配,doc,P1>P2>P3,3,True,3,1.0,True,False,high,no

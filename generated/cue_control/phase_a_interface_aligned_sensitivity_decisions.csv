@@ -1,0 +1,101 @@
+﻿triplet_id,course_name,topic,agent_id,repeat,decision_source,decision_maker,decided_at,assigned_p1_candidate,assigned_p2_candidate,assigned_p3_candidate,true_p1_candidate,true_p2_candidate,true_p3_candidate,exact_profile_matches,full_match,pairwise_correct,pairwise_total,pairwise_order_accuracy,extreme_pair_correct,extreme_reversed,confidence,indistinguishable,quality_passed_output_count,quality_failed_output_count,major_error_output_count,quality_eligible,quality_gated_full_match,quality_gated_extreme_correct,analysis_source
+E1-T-00ec5a585c84,计算机组成原理,Cache 映射与替换,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-01989894bc32,操作系统,虚拟内存与页表,reading,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-05336fb4a7e0,操作系统,信号量与互斥锁,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-0733995c3191,机器学习,决策树剪枝,reading,1,a_b_consensus,A+B,,Y,X,Z,Y,X,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-07cd3cd37283,数据结构与算法,KMP 字符串匹配,doc,1,adjudication,H2,2026/7/29,X,Z,Y,Y,X,Z,0,False,1,3,0.333,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-0842c7060bba,操作系统,虚拟内存与页表,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-0b679557b184,机器学习,梯度下降,code,1,adjudication,H2,2026/7/29,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,2,1,0,False,False,False,historical_phase_a
+E1-T-0f49ce567963,计算机网络,DNS 解析过程,doc,1,adjudication,H1,2026/7/30,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,medium,no,3,0,0,True,True,True,historical_phase_a
+E1-T-13350ced7ba5,计算机网络,拥塞控制,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-174326d7c399,计算机网络,拥塞控制,reading,1,a_b_consensus,A+B,,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-17dde9e63e68,机器学习,PCA 主成分分析,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-1925060ed722,数据结构与算法,KMP 字符串匹配,quiz,1,a_b_consensus,A+B,,Y,X,Z,Y,X,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-1a6533c4a9c2,计算机组成原理,Cache 映射与替换,code,1,adjudication,H2,2026/7/29,Z,X,Y,Z,Y,X,1,False,2,3,0.667,True,False,medium,no,3,0,0,True,False,True,historical_phase_a
+E1-T-1b828209442a,计算机组成原理,虚地址翻译,reading,1,a_b_consensus,A+B,,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-1f0bbe91bc68,计算机组成原理,IEEE 754 浮点数,code,1,a_b_consensus,A+B,,X,Y,Z,X,Z,Y,1,False,2,3,0.667,True,False,medium,no,3,0,0,True,False,True,historical_phase_a
+E1-T-21b1cc0bf916,机器学习,决策树剪枝,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-25930da24b83,计算机网络,拥塞控制,doc,1,adjudication,H1,2026/7/30,Y,X,Z,Y,X,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-27505aea8283,计算机网络,HTTPS 与 TLS,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-2a44dae2d9ce,数据结构与算法,拓扑排序,doc,1,adjudication,H2,2026/7/29,Z,Y,X,Z,X,Y,1,False,2,3,0.667,True,False,medium,no,3,0,0,True,False,True,historical_phase_a
+E1-T-2e61a99ac50c,操作系统,死锁四条件,quiz,1,a_b_consensus,A+B,,X,Z,Y,X,Y,Z,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a
+E1-T-2f5b8a9c60c4,计算机组成原理,虚地址翻译,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-2f66e535db00,数据结构与算法,拓扑排序,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-313dca3a6e2f,机器学习,梯度下降,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-32072b804d80,计算机网络,拥塞控制,quiz,1,a_b_consensus,A+B,,Y,X,Z,Y,X,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-33853bffd67e,机器学习,梯度下降,reading,1,a_b_consensus,A+B,,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-350f02e0d3df,机器学习,PCA 主成分分析,doc,1,a_b_consensus,A+B,,X,Y,Z,X,Z,Y,1,False,2,3,0.667,True,False,medium,no,3,0,0,True,False,True,historical_phase_a
+E1-T-35a19fca8c3b,计算机网络,TCP 三次握手,doc,1,adjudication,H2,2026/7/29,Y,Z,X,Y,X,Z,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a
+E1-T-3b508c4e192e,计算机组成原理,流水线数据冒险,quiz,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-3f109c670771,操作系统,进程调度,code,1,adjudication,H2,2026/7/29,X,Z,Y,Y,X,Z,0,False,1,3,0.333,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-3f28b39924ab,计算机组成原理,Cache 映射与替换,quiz,1,a_b_consensus,A+B,,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-3fc789aa833a,机器学习,PCA 主成分分析,quiz,1,a_b_consensus,A+B,,Z,X,Y,Z,X,Y,3,True,3,3,1.0,True,False,medium,no,3,0,0,True,True,True,historical_phase_a
+E1-T-425e7beb2da9,计算机组成原理,流水线数据冒险,reading,1,a_b_consensus,A+B,,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-442313e74e3c,计算机网络,DNS 解析过程,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-44a653cfae35,数据结构与算法,Dijkstra 最短路径,quiz,1,a_b_consensus,A+B,,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-4b4f90580251,计算机网络,TCP 三次握手,reading,1,a_b_consensus,A+B,,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-4dc2c0f7e4a1,数据结构与算法,Dijkstra 最短路径,doc,1,adjudication,H2,2026/7/29,Y,Z,X,Z,X,Y,0,False,1,3,0.333,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-4ff1ed7556e2,机器学习,梯度下降,quiz,1,a_b_consensus,A+B,,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-51b9b2784958,计算机网络,HTTPS 与 TLS,doc,1,adjudication,H1,2026/7/30,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-53cab9e99cd0,数据结构与算法,Dijkstra 最短路径,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-58a5fd1ce59c,计算机网络,TCP 三次握手,code,1,adjudication,H2,2026/7/29,Z,Y,X,Y,X,Z,0,False,1,3,0.333,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-5a959897d95a,数据结构与算法,红黑树,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-5b71d5a9bfab,计算机组成原理,虚地址翻译,doc,1,adjudication,H2,2026/7/29,Y,X,Z,Y,Z,X,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a
+E1-T-635d6c33dc76,计算机网络,HTTPS 与 TLS,code,1,adjudication,H1,2026/7/30,Y,X,Z,Z,X,Y,1,False,0,3,0.0,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-663efcf7a379,机器学习,K-Means 聚类,reading,1,a_b_consensus,A+B,,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-67da55a87176,计算机网络,HTTPS 与 TLS,reading,1,a_b_consensus,A+B,,Z,X,Y,Z,X,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-6bf352248bff,操作系统,进程调度,quiz,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-6d784237716e,计算机组成原理,IEEE 754 浮点数,quiz,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-70d4a421999b,操作系统,虚拟内存与页表,quiz,1,a_b_consensus,A+B,,Y,X,Z,Y,Z,X,1,False,2,3,0.667,True,False,medium,no,3,0,0,True,False,True,historical_phase_a
+E1-T-71547505f5da,机器学习,决策树剪枝,quiz,1,a_b_consensus,A+B,,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-7222dd4cc776,计算机网络,TCP 三次握手,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-78085413206a,数据结构与算法,红黑树,doc,1,adjudication,H2,2026/7/29,Y,X,Z,Z,X,Y,1,False,0,3,0.0,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-79839dc3f972,计算机组成原理,IEEE 754 浮点数,reading,1,a_b_consensus,A+B,,Y,X,Z,Y,X,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-7bd0c14e76bc,计算机网络,拥塞控制,code,1,adjudication,H2,2026/7/29,Y,X,Z,Z,X,Y,1,False,0,3,0.0,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-81be6ef2d10d,计算机组成原理,Cache 映射与替换,doc,1,adjudication,H2,2026/7/29,X,Z,Y,Z,X,Y,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a
+E1-T-82a77435370c,计算机网络,DNS 解析过程,reading,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-86d728e6504c,数据结构与算法,拓扑排序,quiz,1,a_b_consensus,A+B,,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,medium,no,3,0,0,True,True,True,historical_phase_a
+E1-T-8820ddfbec2f,计算机组成原理,流水线数据冒险,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-88c473f0decf,机器学习,PCA 主成分分析,reading,1,a_b_consensus,A+B,,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-89b1c58bf791,计算机网络,DNS 解析过程,quiz,1,a_b_consensus,A+B,,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-8b7fbfbab63d,机器学习,决策树剪枝,code,1,a_b_consensus,A+B,,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-8eda270e01c0,数据结构与算法,Dijkstra 最短路径,reading,1,a_b_consensus,A+B,,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-8f029c060cd8,操作系统,死锁四条件,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-9001d573ad8e,数据结构与算法,KMP 字符串匹配,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-90b12187bd11,数据结构与算法,Dijkstra 最短路径,code,1,a_b_consensus,A+B,,Y,Z,X,Y,X,Z,1,False,2,3,0.667,True,False,medium,no,3,0,0,True,False,True,historical_phase_a
+E1-T-9e1efae7c36d,计算机组成原理,虚地址翻译,code,1,adjudication,H2,2026/7/29,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-9e9c42d0143f,机器学习,PCA 主成分分析,code,1,adjudication,H2,2026/7/29,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-a1f1768c8edc,操作系统,死锁四条件,doc,1,adjudication,H1,2026/7/30,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-a44a9df101b5,机器学习,K-Means 聚类,code,1,adjudication,H2,2026/7/29,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-a44eed0114e9,计算机组成原理,流水线数据冒险,doc,1,adjudication,H2,2026/7/29,Z,Y,X,X,Y,Z,1,False,0,3,0.0,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-a47c831b7f0e,计算机组成原理,IEEE 754 浮点数,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-a74182562833,操作系统,进程调度,reading,1,a_b_consensus,A+B,,Y,X,Z,Y,X,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-a89ba097706b,操作系统,信号量与互斥锁,quiz,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-aa2c2f1b3bb9,机器学习,梯度下降,doc,1,adjudication,H2,2026/7/29,Y,Z,X,Z,Y,X,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a
+E1-T-b232471d42fd,操作系统,死锁四条件,code,1,adjudication,H1,2026/7/30,Y,Z,X,X,Y,Z,0,False,1,3,0.333,False,True,medium,yes,3,0,0,True,False,False,historical_phase_a
+E1-T-b3cde7a8dfe8,计算机组成原理,IEEE 754 浮点数,doc,1,adjudication,H1,2026/7/30,X,Y,Z,Y,X,Z,1,False,2,3,0.667,True,False,medium,no,3,0,0,True,False,True,historical_phase_a
+E1-T-bb8804a6f203,数据结构与算法,红黑树,quiz,1,a_b_consensus,A+B,,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-be00cabaa74e,操作系统,死锁四条件,reading,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-be24de2328ea,计算机网络,HTTPS 与 TLS,quiz,1,a_b_consensus,A+B,,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-be9318583a83,计算机组成原理,Cache 映射与替换,reading,1,a_b_consensus,A+B,,X,Y,Z,X,Y,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-c473af356bf9,计算机网络,DNS 解析过程,code,1,a_b_consensus,A+B,,Z,X,Y,Z,X,Y,3,True,3,3,1.0,True,False,medium,no,3,0,0,True,True,True,historical_phase_a
+E1-T-c748a8074c6e,操作系统,进程调度,doc,1,adjudication,H2,2026/7/29,X,Y,Z,Z,Y,X,1,False,0,3,0.0,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-c91627869ea7,数据结构与算法,KMP 字符串匹配,code,1,adjudication,H1,2026/7/30,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,yes,3,0,0,True,True,True,historical_phase_a
+E1-T-cb6bd9e65c8e,机器学习,K-Means 聚类,quiz,1,a_b_consensus,A+B,,Z,Y,X,Z,X,Y,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a
+E1-T-d433fd394f46,数据结构与算法,红黑树,reading,1,a_b_consensus,A+B,,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-d86f036c5948,计算机组成原理,流水线数据冒险,code,1,adjudication,H1,2026/7/30,Y,Z,X,X,Z,Y,1,False,0,3,0.0,False,True,high,no,3,0,0,True,False,False,historical_phase_a
+E1-T-dc092d5cbc35,操作系统,信号量与互斥锁,code,1,adjudication,H1,2026/7/30,Y,X,Z,Z,X,Y,1,False,0,3,0.0,False,True,high,yes,3,0,0,True,False,False,historical_phase_a
+E1-T-e0bcac123c87,机器学习,K-Means 聚类,doc,1,adjudication,H2,2026/7/29,Y,Z,X,Z,Y,X,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a
+E1-T-ef506f71dfd1,数据结构与算法,红黑树,code,1,adjudication,H2,2026/7/29,X,Z,Y,X,Z,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-f09f9a8e665c,操作系统,信号量与互斥锁,reading,1,a_b_consensus,A+B,,Y,X,Z,Y,X,Z,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-f1304249ec67,数据结构与算法,拓扑排序,code,1,a_b_consensus,A+B,,Z,X,Y,Z,X,Y,3,True,3,3,1.0,True,False,medium,no,3,0,0,True,True,True,historical_phase_a
+E1-T-f147bd2f309f,计算机网络,TCP 三次握手,quiz,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-f2082b99888e,计算机组成原理,虚地址翻译,quiz,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-f5a446aa09b4,操作系统,进程调度,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-f612b5811104,数据结构与算法,KMP 字符串匹配,reading,1,a_b_consensus,A+B,,Z,X,Y,Z,X,Y,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-f96d860f276a,数据结构与算法,拓扑排序,reading,1,a_b_consensus,A+B,,Z,Y,X,Z,Y,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-fa9a33a5a948,操作系统,虚拟内存与页表,code,1,adjudication,H2,2026/7/29,Z,Y,X,Y,Z,X,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a
+E1-T-fb5445ee1144,机器学习,K-Means 聚类,path,1,posthoc_interface_aligned_final,R1/R2 with R3 adjudication if triggered,2026-08-13,,,,,,,3,True,3,3,1.0,True,False,,,3,0,0,True,True,True,posthoc_interface_aligned_path
+E1-T-fc2b0d8d3f60,操作系统,虚拟内存与页表,doc,1,adjudication,H1,2026/7/30,Y,Z,X,Y,X,Z,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a
+E1-T-fc49d9caf3a0,操作系统,信号量与互斥锁,doc,1,a_b_consensus,A+B,,Y,Z,X,Y,Z,X,3,True,3,3,1.0,True,False,high,no,3,0,0,True,True,True,historical_phase_a
+E1-T-ff6573d40a90,机器学习,决策树剪枝,doc,1,adjudication,H2,2026/7/29,X,Z,Y,X,Y,Z,1,False,2,3,0.667,True,False,high,no,3,0,0,True,False,True,historical_phase_a

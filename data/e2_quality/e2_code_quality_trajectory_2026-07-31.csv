@@ -1,0 +1,5 @@
+﻿dataset_id,dataset_label,total_rows,quality_floor_pass_rows,quality_floor_pass_rate,factual_pass_rows,minor_error_rows,major_error_rows,answer_consistent_rows,structurally_valid_rows,source_file
+code_v21_repair_v1,Code v2.1 复测 15,15,9,0.6,9,1,5,11,13,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/code_v21_repair_v1_final_domain_summary.csv
+code_v23_retest_v1,Code v2.3 复测 15,15,12,0.8000,9,3,3,11,15,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/code_v23_retest_v1_final_domain_decisions.csv
+code_v24_retest_v1,Code v2.4 复测 15,15,14,0.9333,10,4,1,13,15,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/code_v24_retest_v1_final_domain_summary.csv
+code_v25_retest_v1,Code v2.5 复测 15,15,15,1.0,14,1,0,14,15,E1画像响应性预实验/formal_phase_a_reading_catalog_delivery/analysis/code_v25_retest_v1_final_domain_summary.csv
