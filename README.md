@@ -4,8 +4,8 @@ This package accompanies the manuscript "Quality-Gated Evaluation of Learner-Pro
 
 ## Status and scope
 
-- This local directory is a release candidate and has not yet been published.
-- Software is covered by the MIT License, and author-owned research materials are covered by CC BY 4.0. See `LICENSE-SCOPE.md` for the exact mapping and exclusions. The directory must not be represented as a public release until the corresponding author approves the repository and release tag.
+- This repository is the public analysis package accompanying the manuscript.
+- Software is covered by the MIT License, and author-owned research materials are covered by CC BY 4.0. See `LICENSE-SCOPE.md` for the exact mapping and exclusions.
 - The package performs analysis-level reproduction from de-identified frozen inputs. It does not call an external LLM API and does not reproduce the product-facing Web application.
 - The production resource-agent implementations are not included. The package therefore audits the retained generation conditions and outputs but does not claim complete end-to-end regeneration of those outputs.
 
@@ -74,7 +74,13 @@ When reusing CC BY 4.0 materials, cite the authors and repository, link to CC BY
 
 ## Release status
 
-The intended release model is a dedicated repository published before manuscript submission. This draft is limited to analysis-level reproduction plus an auditable record of generation conditions. A repository URL and release tag will be added only after the corresponding author approves the final release package. The copyright holder for each licensed scope is identified in the corresponding license file; the ownership statement must be rechecked if additional jointly authored materials are added before publication.
+The public repository is available at
+`https://github.com/xfeng-777/quality-gated-profile-responsiveness`. This
+package is limited to analysis-level reproduction plus an auditable record of
+generation conditions. Use an exact release tag or commit when citing a
+specific manuscript version. The copyright holder for each licensed scope is
+identified in the corresponding license file; the ownership statement must be
+rechecked if additional jointly authored materials are added before publication.
 
 ## Citation
 

@@ -21,8 +21,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 6991,
-    "sha256": "a8ec945f41dd5b127a35c61d47225afcf088766104ad5b4775fdc45d8b0df512"
+    "bytes": 6836,
+    "sha256": "58582e17e61e0c829f1368e2fd9dae9f9d30b03a84d289ceae0c1833cce2c966"
   },
   {
     "path": "audit_package.py",
