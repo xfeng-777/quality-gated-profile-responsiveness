@@ -1,0 +1,13 @@
+{
+  "all_conditions_met": false,
+  "criteria": {
+    "at_least_four_agents_dcr_ge_0_70": true,
+    "every_agent_dcr_ge_0_60": true,
+    "every_agent_reverse_le_0_15": false,
+    "historical_ab_kappa_ge_0_60": false,
+    "overall_dcr_ge_0_75": true,
+    "quality_floor_no_tradeoff": true
+  },
+  "interpretation": "The Path+Doc cue-controlled sensitivity estimate remains post hoc and does not satisfy the frozen composite gate.",
+  "observed_historical_ab_kappa": 0.4094
+}

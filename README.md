@@ -16,16 +16,22 @@ This package accompanies the manuscript "Quality-Gated Evaluation of Learner-Pro
    with task-cluster intervals.
 2. Post-hoc interface-aligned sensitivity analysis that replaces only the 20
    formal Path assignments while retaining the other 80 historical decisions.
-3. Cue-controlled comparison of profiled outputs with the system's
+3. Post-hoc cue-controlled rerating of the 20 Formal Phase A Doc triplets,
+   including anonymized D1/D2 ratings, blinded author adjudication of 11
+   disagreements, component uncertainty, and the combined Path+Doc sensitivity.
+4. Exploratory surface-cue analysis of all 300 Formal Phase A outputs using
+   grouped cross-validation by course-topic task and within-task label
+   permutations.
+5. Cue-controlled comparison of profiled outputs with the system's
    intermediate-leaning default contract, including shared-output and task
    cluster analyses.
-4. Paired DeepSeek versus Qwen comparison on unseen topics after the same
+6. Paired DeepSeek versus Qwen comparison on unseen topics after the same
    Doc/Path cue-control procedure.
-5. Internal consistency checks for the E2 quality totals and E3 entry-channel totals.
-6. Condition-level E4 verification of 630 final records, including the
+7. Internal consistency checks for the E2 quality totals and E3 entry-channel totals.
+8. Condition-level E4 verification of 630 final records, including the
    distinction between initial success and repair-affected final coverage.
-7. Integrity checks for the frozen profiles, task sets, and normalized generation conditions.
-8. A dated threshold-lineage table that distinguishes the engineering title
+9. Integrity checks for the frozen profiles, task sets, and normalized generation conditions.
+10. A dated threshold-lineage table that distinguishes the engineering title
    gate documented before formal generation from later diagnostic retest criteria.
 
 ## Run
@@ -37,7 +43,7 @@ python reproduce.py
 python audit_package.py
 ```
 
-A successful analysis run writes `generated/verification_report.json`. The expected release-candidate result is 12 passing checks, `overall_status: pass`, and `external_api_calls: 0`. The audit command writes a SHA-256 manifest and a sensitive-information scan report under `audit/`; `.git/`, `audit/`, and Python cache directories are excluded from its release-file scope. The expected result is `status: pass` with zero findings.
+A successful analysis run writes `generated/verification_report.json`. The expected release-candidate result is 14 passing checks, `overall_status: pass`, and `external_api_calls: 0`. The audit command writes a SHA-256 manifest and a sensitive-information scan report under `audit/`; `.git/`, `audit/`, and Python cache directories are excluded from its release-file scope. The expected result is `status: pass` with zero findings.
 
 Run both commands from the repository root. No API key, network connection, package installation, or access to the product application is required.
 
@@ -51,6 +57,9 @@ Run both commands from the repository root. No API key, network connection, pack
 - `data/`: de-identified analysis inputs, cue-controlled final decisions,
   anonymous role-identifier ratings needed for agreement sensitivity, and
   final E2/E3 records.
+- `data/revision_doc_cue_control/`: anonymized Formal Phase A Doc reratings and
+  final decisions. It excludes candidate texts, private mappings, and
+  natural-person role mappings.
 - `expected/`: frozen expected summaries used for regression comparison.
 - `generated/`: regenerated analyses and verification report.
 - `audit/`: generated SHA-256 manifest and sensitive-information scan report; rerun the audit after any file change.

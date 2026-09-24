@@ -22,6 +22,7 @@ import cue_control_sensitivity  # noqa: E402
 import default_contract_sensitivity  # noqa: E402
 import generation_model_comparison as model_comparison  # noqa: E402
 import phase_a_decision_sensitivity  # noqa: E402
+import revision_additional_checks  # noqa: E402
 import statistical_analysis  # noqa: E402
 
 
@@ -475,6 +476,8 @@ def main() -> int:
             EXPECTED / "deepseek_qwen_generation_comparison_summary.csv",
             GENERATED / "unseen_topics" / "deepseek_qwen_generation_comparison_summary.csv",
         ),
+        "revision_doc_cue_control": revision_additional_checks.verify_doc_cue_control(),
+        "revision_surface_cue_analysis": revision_additional_checks.verify_surface_cue_analysis(),
         "e2_e3_summary": verify_e2_e3(),
         "e4_run_coverage": verify_e4(),
         "frozen_protocol_integrity": verify_protocols(),

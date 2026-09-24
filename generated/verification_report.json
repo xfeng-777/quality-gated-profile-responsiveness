@@ -111,6 +111,30 @@
     "phase_a_interface_aligned_sensitivity": {
       "differences": [],
       "status": "pass"
+    },
+    "revision_doc_cue_control": {
+      "checks": {
+        "combined_metric_regression": true,
+        "d3_choice_pattern_7_2_2": true,
+        "doc_final_counts": true,
+        "doc_metric_regression": true,
+        "eleven_units_adjudicated": true,
+        "frozen_composite_gate_unmet": true,
+        "initial_exact_agreement_9_of_20": true,
+        "two_initial_ratings_per_doc_unit": true
+      },
+      "status": "pass"
+    },
+    "revision_surface_cue_analysis": {
+      "checks": {
+        "formal_output_count": true,
+        "grouped_accuracy_regression": true,
+        "path_signal_and_doc_code_boundary": true,
+        "permutation_count_documented": true,
+        "scope_coverage": true,
+        "task_grouping_retained": true
+      },
+      "status": "pass"
     }
   },
   "external_api_calls": 0,

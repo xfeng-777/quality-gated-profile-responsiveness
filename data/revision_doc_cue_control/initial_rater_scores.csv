@@ -1,0 +1,41 @@
+﻿rerating_id,rater_id,course_name,topic,assignment,confidence,indistinguishable
+R1-DOC-a05d18aaf11a6f,D1,计算机网络,拥塞控制,P1>P2>P3,medium,no
+R1-DOC-00ed72f5972cfa,D1,操作系统,死锁四条件,P1>P3>P2,high,no
+R1-DOC-262ab90926b69c,D1,计算机网络,HTTPS 与 TLS,P1>P2>P3,medium,no
+R1-DOC-a629526a4645bd,D1,计算机组成原理,Cache 映射与替换,P1>P2>P3,medium,no
+R1-DOC-9a972c239b8748,D1,数据结构与算法,KMP 字符串匹配,P1>P2>P3,low,yes
+R1-DOC-df37829cd75468,D1,数据结构与算法,红黑树,P1>P2>P3,medium,no
+R1-DOC-5d53d38dd5f8dc,D1,机器学习,PCA 主成分分析,P1>P2>P3,low,yes
+R1-DOC-75de6e335a18e8,D1,机器学习,K-Means 聚类,P1>P2>P3,high,no
+R1-DOC-2c5756587edd51,D1,操作系统,虚拟内存与页表,P1>P2>P3,medium,no
+R1-DOC-b05053da53c81f,D1,机器学习,决策树剪枝,P1>P3>P2,medium,no
+R1-DOC-4b9c859cdb1f95,D1,计算机组成原理,虚地址翻译,P1>P3>P2,low,yes
+R1-DOC-49fbf78e04a63a,D1,机器学习,梯度下降,P1>P3>P2,medium,no
+R1-DOC-8f8cc781da3020,D1,计算机网络,TCP 三次握手,P1>P2>P3,medium,no
+R1-DOC-1f3db7d8b020a3,D1,数据结构与算法,拓扑排序,P3>P1>P2,medium,no
+R1-DOC-4d78b7a9038afb,D1,操作系统,进程调度,P1>P2>P3,medium,no
+R1-DOC-1224dace85e65e,D1,计算机组成原理,流水线数据冒险,P3>P2>P1,low,yes
+R1-DOC-115d8167a16955,D1,数据结构与算法,Dijkstra 最短路径,P1>P2>P3,high,no
+R1-DOC-81ba390626c5be,D1,计算机网络,DNS 解析过程,P1>P2>P3,medium,no
+R1-DOC-0baf0c0c4ffe41,D1,计算机组成原理,IEEE 754 浮点数,P3>P1>P2,medium,no
+R1-DOC-e41cbdaf539609,D1,操作系统,信号量与互斥锁,P1>P2>P3,low,yes
+R1-DOC-a05d18aaf11a6f,D2,计算机网络,拥塞控制,P3>P1>P2,medium,no
+R1-DOC-75de6e335a18e8,D2,机器学习,K-Means 聚类,P2>P1>P3,high,no
+R1-DOC-4d78b7a9038afb,D2,操作系统,进程调度,P3>P1>P2,high,no
+R1-DOC-9a972c239b8748,D2,数据结构与算法,KMP 字符串匹配,P1>P2>P3,high,no
+R1-DOC-262ab90926b69c,D2,计算机网络,HTTPS 与 TLS,P1>P2>P3,medium,no
+R1-DOC-00ed72f5972cfa,D2,操作系统,死锁四条件,P1>P3>P2,high,no
+R1-DOC-4b9c859cdb1f95,D2,计算机组成原理,虚地址翻译,P1>P3>P2,high,no
+R1-DOC-e41cbdaf539609,D2,操作系统,信号量与互斥锁,P1>P3>P2,high,no
+R1-DOC-8f8cc781da3020,D2,计算机网络,TCP 三次握手,P1>P2>P3,medium,no
+R1-DOC-2c5756587edd51,D2,操作系统,虚拟内存与页表,P2>P1>P3,high,no
+R1-DOC-5d53d38dd5f8dc,D2,机器学习,PCA 主成分分析,P1>P2>P3,high,no
+R1-DOC-1f3db7d8b020a3,D2,数据结构与算法,拓扑排序,P1>P2>P3,high,no
+R1-DOC-a629526a4645bd,D2,计算机组成原理,Cache 映射与替换,P3>P1>P2,high,no
+R1-DOC-df37829cd75468,D2,数据结构与算法,红黑树,P1>P3>P2,high,no
+R1-DOC-115d8167a16955,D2,数据结构与算法,Dijkstra 最短路径,P1>P2>P3,high,no
+R1-DOC-81ba390626c5be,D2,计算机网络,DNS 解析过程,P3>P1>P2,high,no
+R1-DOC-b05053da53c81f,D2,机器学习,决策树剪枝,P1>P3>P2,high,no
+R1-DOC-49fbf78e04a63a,D2,机器学习,梯度下降,P1>P2>P3,high,no
+R1-DOC-0baf0c0c4ffe41,D2,计算机组成原理,IEEE 754 浮点数,P3>P1>P2,high,no
+R1-DOC-1224dace85e65e,D2,计算机组成原理,流水线数据冒险,P3>P1>P2,high,no

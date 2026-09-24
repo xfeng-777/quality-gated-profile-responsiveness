@@ -1,0 +1,100 @@
+{
+  "cross_validation": "GroupKFold by course-topic task; all profile outputs for a task remain in the same fold.",
+  "features": [
+    "char_count",
+    "token_proxy_count",
+    "sentence_count",
+    "avg_chars_per_sentence",
+    "heading_count",
+    "list_item_count",
+    "formula_marker_count",
+    "code_block_count",
+    "code_line_count",
+    "node_count",
+    "edge_count",
+    "resource_item_count",
+    "jargon_marker_count",
+    "citation_count"
+  ],
+  "limitations": [
+    "The feature set is finite and cannot rule out unmeasured surface cues.",
+    "Several features, such as formulas or code depth, may be intended pedagogical adaptations rather than nuisance cues.",
+    "The analysis tests predictability of profile labels, not whether human raters used the same features."
+  ],
+  "model": "standardized multinomial logistic regression with class balancing",
+  "permutation_test": "2000 within-task label permutations; exploratory sensitivity only",
+  "results": [
+    {
+      "chance_level": 0.3333,
+      "dummy_accuracy": 0.3333,
+      "grouped_cv_folds": 5,
+      "interpretation": "Sensitivity analysis only: prediction above chance suggests that the measured surface features contain profile-correlated information, but does not establish whether those cues are pedagogically intended or construct-irrelevant.",
+      "outputs": 300,
+      "scope": "all",
+      "surface_model_accuracy": 0.4433,
+      "surface_model_balanced_accuracy": 0.4433,
+      "task_groups": 20,
+      "within_task_permutation_p": 0.001999
+    },
+    {
+      "chance_level": 0.3333,
+      "dummy_accuracy": 0.3333,
+      "grouped_cv_folds": 5,
+      "interpretation": "Sensitivity analysis only: prediction above chance suggests that the measured surface features contain profile-correlated information, but does not establish whether those cues are pedagogically intended or construct-irrelevant.",
+      "outputs": 60,
+      "scope": "reading",
+      "surface_model_accuracy": 0.4667,
+      "surface_model_balanced_accuracy": 0.4667,
+      "task_groups": 20,
+      "within_task_permutation_p": 0.006997
+    },
+    {
+      "chance_level": 0.3333,
+      "dummy_accuracy": 0.3333,
+      "grouped_cv_folds": 5,
+      "interpretation": "Sensitivity analysis only: prediction above chance suggests that the measured surface features contain profile-correlated information, but does not establish whether those cues are pedagogically intended or construct-irrelevant.",
+      "outputs": 60,
+      "scope": "quiz",
+      "surface_model_accuracy": 0.45,
+      "surface_model_balanced_accuracy": 0.45,
+      "task_groups": 20,
+      "within_task_permutation_p": 0.050475
+    },
+    {
+      "chance_level": 0.3333,
+      "dummy_accuracy": 0.3333,
+      "grouped_cv_folds": 5,
+      "interpretation": "Sensitivity analysis only: prediction above chance suggests that the measured surface features contain profile-correlated information, but does not establish whether those cues are pedagogically intended or construct-irrelevant.",
+      "outputs": 60,
+      "scope": "doc",
+      "surface_model_accuracy": 0.3167,
+      "surface_model_balanced_accuracy": 0.3167,
+      "task_groups": 20,
+      "within_task_permutation_p": 0.5992
+    },
+    {
+      "chance_level": 0.3333,
+      "dummy_accuracy": 0.3333,
+      "grouped_cv_folds": 5,
+      "interpretation": "Sensitivity analysis only: prediction above chance suggests that the measured surface features contain profile-correlated information, but does not establish whether those cues are pedagogically intended or construct-irrelevant.",
+      "outputs": 60,
+      "scope": "code",
+      "surface_model_accuracy": 0.2833,
+      "surface_model_balanced_accuracy": 0.2833,
+      "task_groups": 20,
+      "within_task_permutation_p": 0.844078
+    },
+    {
+      "chance_level": 0.3333,
+      "dummy_accuracy": 0.3333,
+      "grouped_cv_folds": 5,
+      "interpretation": "Sensitivity analysis only: prediction above chance suggests that the measured surface features contain profile-correlated information, but does not establish whether those cues are pedagogically intended or construct-irrelevant.",
+      "outputs": 60,
+      "scope": "path",
+      "surface_model_accuracy": 0.9833,
+      "surface_model_balanced_accuracy": 0.9833,
+      "task_groups": 20,
+      "within_task_permutation_p": 0.0005
+    }
+  ]
+}

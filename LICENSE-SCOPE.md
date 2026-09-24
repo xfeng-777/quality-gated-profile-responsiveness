@@ -33,6 +33,13 @@ ratings and final adjudicated decisions. It does not contain natural-person
 role mappings, candidate-to-condition blinding maps, or model reasoning
 traces.
 
+The `data/revision_doc_cue_control/` directory contains anonymized D1/D2 role
+ratings, final Doc decisions, and derived sensitivity statistics. It excludes
+candidate texts, private truth/randomization mappings, pre-recovery files, and
+natural-person role mappings. The `data/revision_surface_cues/` directory
+contains derived feature tables and exploratory analysis summaries; it does
+not contain the source model-output texts.
+
 ## Administrative Files
 
 `.gitignore`, `LICENSE-CODE`, `LICENSE-DATA`, and this scope notice are

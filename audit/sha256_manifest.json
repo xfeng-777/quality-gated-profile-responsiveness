@@ -16,13 +16,13 @@
   },
   {
     "path": "LICENSE-SCOPE.md",
-    "bytes": 2189,
-    "sha256": "6b83bdffc69a02d6397334c2ae866ffdaf7e5cce79fb302be2dd013de25104d0"
+    "bytes": 2618,
+    "sha256": "d4ac1d187311bd31f7a951d8a057be8363f8ef8f951086ad54e2d14bab89103c"
   },
   {
     "path": "README.md",
-    "bytes": 6416,
-    "sha256": "fc311d0f96f9214f515e1b4ec8f0f1c00eb1da7738ebf6f38539a844f0c67d2d"
+    "bytes": 6991,
+    "sha256": "a8ec945f41dd5b127a35c61d47225afcf088766104ad5b4775fdc45d8b0df512"
   },
   {
     "path": "audit_package.py",
@@ -48,6 +48,11 @@
     "path": "code/phase_a_decision_sensitivity.py",
     "bytes": 13274,
     "sha256": "94a1dccecd7404d1cb15da1d10cda639dba1f8226c8963b321978e35cddf5d7d"
+  },
+  {
+    "path": "code/revision_additional_checks.py",
+    "bytes": 5196,
+    "sha256": "d2b2535a3e3f89b7a0adb6387e1a8d55c10af762858e3f49fa5a1242e77c34f2"
   },
   {
     "path": "code/statistical_analysis.py",
@@ -148,6 +153,46 @@
     "path": "data/formal_phase_a/formal_phase_a_all_agents_final_triplet_decisions.csv",
     "bytes": 15767,
     "sha256": "d9226f1dba7d0a121bec0998d3ced624643b56f9447c9eefd67b1d7c9c3ac396"
+  },
+  {
+    "path": "data/revision_doc_cue_control/final_composite_gate_audit.json",
+    "bytes": 472,
+    "sha256": "375f62235452a59705d21e56a7256f9ea1e3f54211275b06897c568360d00aac"
+  },
+  {
+    "path": "data/revision_doc_cue_control/final_doc_and_system_sensitivity_metrics.csv",
+    "bytes": 1206,
+    "sha256": "3aa5565931f5e7659ecb9d31330f69ebf927d54300ae81c88bd39f6d0422539e"
+  },
+  {
+    "path": "data/revision_doc_cue_control/final_doc_cue_control_decisions.csv",
+    "bytes": 2746,
+    "sha256": "9d381cc2966e41feb14da5835a64519ca764f3681f5616b2d2093963040f9587"
+  },
+  {
+    "path": "data/revision_doc_cue_control/initial_rater_scores.csv",
+    "bytes": 3205,
+    "sha256": "db0874137b261c7113a9f886b0381996e4cf972bb28d699d553b2ea7f86a0b5c"
+  },
+  {
+    "path": "data/revision_surface_cues/formal_phase_a_surface_cue_analysis.json",
+    "bytes": 4353,
+    "sha256": "83b7f16ce9a8492477cb9fd9dc67d6fcd223e04f1ed5beba5190ea4d49257f75"
+  },
+  {
+    "path": "data/revision_surface_cues/formal_phase_a_surface_cue_prediction.csv",
+    "bytes": 1857,
+    "sha256": "63b63b8710c6cf073d40335716f66921966f76acfb926d7a708c1b2710d42350"
+  },
+  {
+    "path": "data/revision_surface_cues/formal_phase_a_surface_feature_summary.csv",
+    "bytes": 12900,
+    "sha256": "500c5aa1459336e66b82716647bb547cb3780d0ac42d0dd934d61bc48a8408f1"
+  },
+  {
+    "path": "data/revision_surface_cues/formal_phase_a_surface_features.csv",
+    "bytes": 40508,
+    "sha256": "4ac3bace50656ffa03e8e0b1a055730038e0a1b195f03f751a4895246d324ca0"
   },
   {
     "path": "data/unseen_topics/deepseek_default_contract_final_comparisons.csv",
@@ -291,8 +336,8 @@
   },
   {
     "path": "generated/verification_report.json",
-    "bytes": 3094,
-    "sha256": "e2e8e6d13430632531a2e92e3df14af251c406f9d84dc961ad38812ba4645a5c"
+    "bytes": 3874,
+    "sha256": "ba6dd5d603ab374db8566499981aa35de7d9be601365b2abcc0db9672b6e97cb"
   },
   {
     "path": "protocols/annotation_protocol.md",
@@ -336,7 +381,7 @@
   },
   {
     "path": "reproduce.py",
-    "bytes": 20665,
-    "sha256": "968e3610831c3504a526f81119a438b57f6662bf615d99244f7c921a5f03175b"
+    "bytes": 20901,
+    "sha256": "9aa4d2c9ccdee5badf5aa8336d6c1ebc5d5562c97def71ffa8af6d0c3bc1f141"
   }
 ]

@@ -1,0 +1,21 @@
+﻿rerating_id,old_triplet_id,course_name,topic,agent_id,final_assignment,decision_source,full_match,pairwise_correct,extreme_pair_correct,extreme_reversed,quality_gated_full_match
+R1-DOC-00ed72f5972cfa,E1-T-a1f1768c8edc,操作系统,死锁四条件,doc,P1>P3>P2,D1_D2_agreement,False,2,True,False,False
+R1-DOC-0baf0c0c4ffe41,E1-T-b3cde7a8dfe8,计算机组成原理,IEEE 754 浮点数,doc,P3>P1>P2,D1_D2_agreement,False,1,False,True,False
+R1-DOC-115d8167a16955,E1-T-4dc2c0f7e4a1,数据结构与算法,Dijkstra 最短路径,doc,P1>P2>P3,D1_D2_agreement,True,3,True,False,True
+R1-DOC-1224dace85e65e,E1-T-a44eed0114e9,计算机组成原理,流水线数据冒险,doc,P3>P2>P1,D3_adjudication,False,0,False,True,False
+R1-DOC-1f3db7d8b020a3,E1-T-2a44dae2d9ce,数据结构与算法,拓扑排序,doc,P3>P1>P2,D3_adjudication,False,1,False,True,False
+R1-DOC-262ab90926b69c,E1-T-51b9b2784958,计算机网络,HTTPS 与 TLS,doc,P1>P2>P3,D1_D2_agreement,True,3,True,False,True
+R1-DOC-2c5756587edd51,E1-T-fc2b0d8d3f60,操作系统,虚拟内存与页表,doc,P1>P3>P2,D3_adjudication,False,2,True,False,False
+R1-DOC-49fbf78e04a63a,E1-T-aa2c2f1b3bb9,机器学习,梯度下降,doc,P1>P2>P3,D3_adjudication,True,3,True,False,True
+R1-DOC-4b9c859cdb1f95,E1-T-5b71d5a9bfab,计算机组成原理,虚地址翻译,doc,P1>P3>P2,D1_D2_agreement,False,2,True,False,False
+R1-DOC-4d78b7a9038afb,E1-T-c748a8074c6e,操作系统,进程调度,doc,P3>P1>P2,D3_adjudication,False,1,False,True,False
+R1-DOC-5d53d38dd5f8dc,E1-T-350f02e0d3df,机器学习,PCA 主成分分析,doc,P1>P2>P3,D1_D2_agreement,True,3,True,False,True
+R1-DOC-75de6e335a18e8,E1-T-e0bcac123c87,机器学习,K-Means 聚类,doc,P1>P2>P3,D3_adjudication,True,3,True,False,True
+R1-DOC-81ba390626c5be,E1-T-0f49ce567963,计算机网络,DNS 解析过程,doc,P1>P2>P3,D3_adjudication,True,3,True,False,True
+R1-DOC-8f8cc781da3020,E1-T-35a19fca8c3b,计算机网络,TCP 三次握手,doc,P1>P2>P3,D1_D2_agreement,True,3,True,False,True
+R1-DOC-9a972c239b8748,E1-T-07cd3cd37283,数据结构与算法,KMP 字符串匹配,doc,P1>P2>P3,D1_D2_agreement,True,3,True,False,True
+R1-DOC-a05d18aaf11a6f,E1-T-25930da24b83,计算机网络,拥塞控制,doc,P1>P2>P3,D3_adjudication,True,3,True,False,True
+R1-DOC-a629526a4645bd,E1-T-81be6ef2d10d,计算机组成原理,Cache 映射与替换,doc,P2>P1>P3,D3_adjudication,False,2,True,False,False
+R1-DOC-b05053da53c81f,E1-T-ff6573d40a90,机器学习,决策树剪枝,doc,P1>P3>P2,D1_D2_agreement,False,2,True,False,False
+R1-DOC-df37829cd75468,E1-T-78085413206a,数据结构与算法,红黑树,doc,P1>P2>P3,D3_adjudication,True,3,True,False,True
+R1-DOC-e41cbdaf539609,E1-T-fc49d9caf3a0,操作系统,信号量与互斥锁,doc,P1>P2>P3,D3_adjudication,True,3,True,False,True
